@@ -57,7 +57,7 @@ if data is not None:
     
     # Create clickable store names
     filtered_data['Store'] = filtered_data.apply(
-        lambda x: f'<a href="https://www.lulastoremanager.com/stores/{x["store_id"]}" target="_blank">{x["store_name"]}</a>', 
+        lambda x: f'<a href="https://www.lulastoremanager.com/stores/{x["store_id"]}" target="_blank">{x.get("store_name", "Unnamed Store")}</a>', 
         axis=1
     )
     
@@ -75,10 +75,13 @@ if data is not None:
         # Filter to only columns that exist in the data
         display_cols = [col for col in display_cols if col in filtered_data.columns]
         
+        # Attempt to sort by 'store_name' only if it exists
+        if 'store_name' in filtered_data.columns:
+            filtered_data = filtered_data.sort_values('store_name')
+        
         # Display as HTML table to render links
         st.write(
             filtered_data[display_cols]
-            .sort_values('store_name')
             .to_html(escape=False, index=False), 
             unsafe_allow_html=True
         )
