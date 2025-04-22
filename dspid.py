@@ -7,8 +7,8 @@ st.set_page_config(page_title="DSP ID Tracker", page_icon="📊", layout="wide")
 # Title with emoji
 st.title("📊 DSP Status Report Viewer")
 st.markdown("""
-**Displays the DSP Status Report:**
-This will show the stores with clickable names, their DSP IDs status, and onboarding status.
+**Displays the full contents of the DSP Status Report:**
+This will show the raw data from the `dsp_status_report.csv` file, as it is.
 """)
 
 # Load data directly from GitHub
@@ -33,35 +33,12 @@ if data is not None:
         axis=1
     )
     
-    # Drop 'store_id' and 'store_name' columns
-    data = data.drop(columns=['store_id', 'store_name'])
-
-    # Replace NaN values with "missing"
-    data = data.fillna('missing')
-
-    # Sort by 'company_name'
-    data = data.sort_values(by='company_name')
-
-    # Reorder columns to match the requested order
-    column_order = ['company_name', 'Store', 'ubereats_status', 'doordash_status', 'grubhub_status', 'onboarding_status']
-    
-    # Filter columns that exist in the dataframe
-    column_order = [col for col in column_order if col in data.columns]
-
-    # Apply styles to numeric values (make them green and bold)
-    def style_numeric(val):
-        if isinstance(val, (int, float)):
-            return 'font-weight: bold; color: green'
-        return ''
-
-    # Display the filtered and styled data
-    st.write("### DSP Status Report")
-
-    # Style numeric columns and display the data as a table
-    styled_data = data[column_order].style.applymap(style_numeric, subset=['ubereats_status', 'doordash_status', 'grubhub_status'])
-
-    # Display the styled dataframe
-    st.dataframe(styled_data)
+    # Display the raw data with clickable store names
+    st.write("### Full DSP Status Report")
+    st.write(
+        data.to_html(escape=False, index=False),  # Render the HTML link correctly
+        unsafe_allow_html=True
+    )
 
     # Download button for raw data
     csv = data.to_csv(index=False)
@@ -74,7 +51,7 @@ if data is not None:
 else:
     st.warning("⚠️ Could not load data from GitHub. Please check the URL and try again.")
 
-# Add some custom styling
+# Add some styling
 st.markdown("""
 <style>
     a {
