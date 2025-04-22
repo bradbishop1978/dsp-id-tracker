@@ -39,16 +39,18 @@ if data is not None:
     # Ensure all columns are in the correct order and exist in the data
     column_order = [col for col in column_order if col in data.columns]
     
-    # Filtering options (you can change these based on your needs)
-    filter_columns = ['company_name', 'ubereats_status', 'doordash_status', 'grubhub_status', 'onboarding_status']
-    
-    # Create selectbox for filtering each column
-    for column in filter_columns:
-        unique_values = data[column].dropna().unique()  # Get unique values in the column
-        selected_values = st.multiselect(f"Filter by {column}", unique_values, default=unique_values)
-        
-        if selected_values:
-            data = data[data[column].isin(selected_values)]  # Apply the filter to the data
+    # Add filtering options dynamically for each column in the header
+    for column in column_order:
+        if data[column].dtype == 'object':  # If the column is categorical, use multiselect
+            unique_values = data[column].dropna().unique()  # Get unique values in the column
+            selected_values = st.multiselect(f"Filter by {column}", unique_values, default=unique_values)
+            if selected_values:
+                data = data[data[column].isin(selected_values)]  # Apply the filter to the data
+        else:  # If the column is numerical, use slider or other appropriate widget
+            min_val = data[column].min()
+            max_val = data[column].max()
+            selected_range = st.slider(f"Filter {column} range", min_val, max_val, (min_val, max_val))
+            data = data[(data[column] >= selected_range[0]) & (data[column] <= selected_range[1])]  # Filter numerical data
     
     # Apply styling for numerical values to be green and bold (for ubereats_status, doordash_status, gruhub_status)
     def style_numeric(val):
