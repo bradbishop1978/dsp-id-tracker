@@ -39,23 +39,33 @@ if data is not None:
     # Ensure all columns are in the correct order and exist in the data
     column_order = [col for col in column_order if col in data.columns]
     
-    # Apply styling for numerical values to be green and bold
+    # Filtering options (you can change these based on your needs)
+    filter_columns = ['company_name', 'ubereats_status', 'doordash_status', 'grubhub_status', 'onboarding_status']
+    
+    # Create selectbox for filtering each column
+    for column in filter_columns:
+        unique_values = data[column].dropna().unique()  # Get unique values in the column
+        selected_values = st.multiselect(f"Filter by {column}", unique_values, default=unique_values)
+        
+        if selected_values:
+            data = data[data[column].isin(selected_values)]  # Apply the filter to the data
+    
+    # Apply styling for numerical values to be green and bold (for ubereats_status, doordash_status, gruhub_status)
     def style_numeric(val):
-        # This will only apply to actual numerical values (int or float)
         if isinstance(val, (int, float)) and not pd.isna(val):
             return 'color: green; font-weight: bold;'
         return ''
     
     # Apply the style to the relevant columns
     styled_data = data[column_order].style.applymap(style_numeric, subset=['ubereats_status', 'doordash_status', 'grubhub_status'])
-    
+
     # Display the raw data with clickable store names in the new order
-    st.write("### Full DSP Status Report")
+    st.write("### Filtered DSP Status Report")
     st.write(
         styled_data.to_html(escape=False, index=False),  # Render the HTML link correctly
         unsafe_allow_html=True
     )
-
+    
     # Download button for raw data
     csv = data.to_csv(index=False)
     st.download_button(
