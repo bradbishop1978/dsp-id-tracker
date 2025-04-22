@@ -39,35 +39,23 @@ if data is not None:
     # Ensure all columns are in the correct order and exist in the data
     column_order = [col for col in column_order if col in data.columns]
     
-    # Add filtering options dynamically for each column in the header
-    for column in column_order:
-        if data[column].dtype == 'object':  # If the column is categorical, use multiselect
-            unique_values = data[column].dropna().unique()  # Get unique values in the column
-            selected_values = st.multiselect(f"Filter by {column}", unique_values, default=unique_values)
-            if selected_values:
-                data = data[data[column].isin(selected_values)]  # Apply the filter to the data
-        else:  # If the column is numerical, use slider or other appropriate widget
-            min_val = data[column].min()
-            max_val = data[column].max()
-            selected_range = st.slider(f"Filter {column} range", min_val, max_val, (min_val, max_val))
-            data = data[(data[column] >= selected_range[0]) & (data[column] <= selected_range[1])]  # Filter numerical data
-    
-    # Apply styling for numerical values to be green and bold (for ubereats_status, doordash_status, gruhub_status)
+    # Apply styling for numerical values to be green and bold
     def style_numeric(val):
+        # This will only apply to actual numerical values (int or float)
         if isinstance(val, (int, float)) and not pd.isna(val):
             return 'color: green; font-weight: bold;'
         return ''
     
     # Apply the style to the relevant columns
     styled_data = data[column_order].style.applymap(style_numeric, subset=['ubereats_status', 'doordash_status', 'grubhub_status'])
-
+    
     # Display the raw data with clickable store names in the new order
-    st.write("### Filtered DSP Status Report")
+    st.write("### Full DSP Status Report")
     st.write(
         styled_data.to_html(escape=False, index=False),  # Render the HTML link correctly
         unsafe_allow_html=True
     )
-    
+
     # Download button for raw data
     csv = data.to_csv(index=False)
     st.download_button(
