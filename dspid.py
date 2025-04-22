@@ -41,9 +41,11 @@ if data is not None:
     
     # Apply styling for numerical values to be green and bold
     def style_numeric(val):
-        # This will make the numerical values green and bold
-        return 'color: green; font-weight: bold;' if isinstance(val, (int, float)) else ''
-
+        # This will only apply to actual numerical values (int or float)
+        if isinstance(val, (int, float)) and not pd.isna(val):
+            return 'color: green; font-weight: bold;'
+        return ''
+    
     # Apply the style to the relevant columns
     styled_data = data[column_order].style.applymap(style_numeric, subset=['ubereats_status', 'doordash_status', 'grubhub_status'])
     
