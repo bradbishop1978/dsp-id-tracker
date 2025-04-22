@@ -33,10 +33,16 @@ if data is not None:
         axis=1
     )
     
-    # Display the raw data with clickable store names
+    # Rearrange columns as requested
+    column_order = ['company_name', 'Store', 'ubereats_status', 'doordash_status', 'grubhub_status', 'onboarding_status']
+    
+    # Ensure all columns are in the correct order and exist in the data
+    column_order = [col for col in column_order if col in data.columns]
+    
+    # Display the raw data with clickable store names in the new order
     st.write("### Full DSP Status Report")
     st.write(
-        data.to_html(escape=False, index=False),  # Render the HTML link correctly
+        data[column_order].to_html(escape=False, index=False),  # Render the HTML link correctly
         unsafe_allow_html=True
     )
 
