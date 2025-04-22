@@ -79,6 +79,25 @@ st.markdown("""
     }
     .stDataFrame {
         font-size: 14px;
+        max-height: 400px;
+        overflow-y: auto;
+    }
+    /* Sticky header */
+    .stDataFrame thead {
+        position: sticky;
+        top: 0;
+        background-color: white;
+        z-index: 10;
+    }
+    .stDataFrame tbody tr:nth-child(odd) {
+        background-color: #f9f9f9;
+    }
+    .stDataFrame tbody tr:nth-child(even) {
+        background-color: #ffffff;
+    }
+    .stDataFrame td, .stDataFrame th {
+        padding: 8px 12px;
+        text-align: left;
     }
 </style>
 """, unsafe_allow_html=True)
