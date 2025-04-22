@@ -33,12 +33,33 @@ if data is not None:
         axis=1
     )
     
+    # Drop the 'store_id' and 'store_name' columns as per request
+    data = data.drop(columns=['store_id', 'store_name'])
+
+    # Replace NaN values with "missing"
+    data = data.fillna('missing')
+
+    # Sort by 'company_name'
+    data = data.sort_values(by='company_name')
+
+    # Reorder columns to place 'Store' after 'company_name'
+    column_order = ['company_name', 'Store', 'Missing DSPs', 'ubereats_id', 'doordash_id', 'grubhub_id', 'pipeline_stage', 'onboarding_status', 'store_status']
+    # Filter columns that exist in the dataframe
+    column_order = [col for col in column_order if col in data.columns]
+
+    # Apply styles to numeric values (make them green and bold)
+    def style_numeric(val):
+        if isinstance(val, (int, float)):
+            return 'font-weight: bold; color: green'
+        return ''
+
     # Display the raw data with clickable store names
     st.write("### Full DSP Status Report")
-    st.write(
-        data.to_html(escape=False, index=False),  # Render the HTML link correctly
-        unsafe_allow_html=True
-    )
+    
+    # Display as HTML with styling
+    styled_data = data[column_order].style.applymap(style_numeric, subset=['ubereats_id', 'doordash_id', 'grubhub_id', 'store_status'])
+    
+    st.dataframe(styled_data)
 
     # Download button for raw data
     csv = data.to_csv(index=False)
