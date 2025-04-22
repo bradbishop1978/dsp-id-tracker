@@ -16,7 +16,7 @@ st.markdown("""
 # Load data directly from GitHub
 @st.cache_data
 def load_data():
-    url = "https://raw.githubusercontent.com/bradbishop1978/dsp-id-tracker/main/dsp_id.csv"
+    url = "https://raw.githubusercontent.com/bradbishop1978/dsp-id-tracker/main/dsp_status_report.csv"
     try:
         df = pd.read_csv(url)
         # Convert empty strings to NaN
