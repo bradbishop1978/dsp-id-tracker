@@ -39,10 +39,18 @@ if data is not None:
     # Ensure all columns are in the correct order and exist in the data
     column_order = [col for col in column_order if col in data.columns]
     
+    # Apply styling for numerical values to be green and bold
+    def style_numeric(val):
+        # This will make the numerical values green and bold
+        return 'color: green; font-weight: bold;' if isinstance(val, (int, float)) else ''
+
+    # Apply the style to the relevant columns
+    styled_data = data[column_order].style.applymap(style_numeric, subset=['ubereats_status', 'doordash_status', 'grubhub_status'])
+    
     # Display the raw data with clickable store names in the new order
     st.write("### Full DSP Status Report")
     st.write(
-        data[column_order].to_html(escape=False, index=False),  # Render the HTML link correctly
+        styled_data.to_html(escape=False, index=False),  # Render the HTML link correctly
         unsafe_allow_html=True
     )
 
