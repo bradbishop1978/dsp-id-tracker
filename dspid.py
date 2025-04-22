@@ -27,9 +27,18 @@ def load_data():
 data = load_data()
 
 if data is not None:
-    # Display the raw data
+    # Create clickable store names by appending the store ID to the URL
+    data['Store'] = data.apply(
+        lambda x: f'<a href="https://www.lulastoremanager.com/stores/{x["store_id"]}" target="_blank">{x.get("store_name", "Unnamed Store")}</a>', 
+        axis=1
+    )
+    
+    # Display the raw data with clickable store names
     st.write("### Full DSP Status Report")
-    st.dataframe(data)
+    st.write(
+        data.to_html(escape=False, index=False),  # Render the HTML link correctly
+        unsafe_allow_html=True
+    )
 
     # Download button for raw data
     csv = data.to_csv(index=False)
@@ -45,6 +54,13 @@ else:
 # Add some styling
 st.markdown("""
 <style>
+    a {
+        text-decoration: none;
+        color: #0068c9;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
     .stDataFrame {
         font-size: 14px;
     }
