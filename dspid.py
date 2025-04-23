@@ -21,7 +21,6 @@ def load_data():
         df = df.replace('', pd.NA)
         # Replace "missing" or NaN with ***
         df = df.replace("Missing", "***").fillna("***")
-
         # After all processing, format "ID Present"
         data = data.replace("ID Present", "<span style='color:green; font-style:italic;'>ID Present</span>")
         return df
