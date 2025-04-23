@@ -20,7 +20,7 @@ def load_data():
         # Convert empty strings to NaN
         df = df.replace('', pd.NA)
         # Replace "missing" and NaN with ***
-        df = df.replace("missing", "***").fillna("***")
+        df = df.replace("Missing", "***").fillna("***")
         # Format "ID Present" to green italic using HTML
         df = df.replace("ID Present", "<span style='color:green; font-style:italic;'>ID Present</span>")
         return df
