@@ -19,10 +19,10 @@ def load_data():
         df = pd.read_csv(url)
         # Convert empty strings to NaN
         df = df.replace('', pd.NA)
-        # Replace "missing" or NaN with ***
-        df = df.replace("Missing", "***").fillna("***")
-        # After all processing, format "ID Present"
-        data = data.replace("ID Present", "<span style='color:green; font-style:italic;'>ID Present</span>")
+        # Replace "missing" and NaN with ***
+        df = df.replace("missing", "***").fillna("***")
+        # Format "ID Present" to green italic using HTML
+        df = df.replace("ID Present", "<span style='color:green; font-style:italic;'>ID Present</span>")
         return df
     except Exception as e:
         st.error(f"Error loading data: {e}")
