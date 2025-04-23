@@ -19,6 +19,8 @@ def load_data():
         df = pd.read_csv(url)
         # Convert empty strings to NaN
         df = df.replace('', pd.NA)
+        # Replace "missing" or NaN with ***
+        df = df.replace("missing", "***").fillna("***")
         return df
     except Exception as e:
         st.error(f"Error loading data: {e}")
