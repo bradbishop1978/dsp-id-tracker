@@ -1,17 +1,33 @@
 store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,pipeline_stage,onboarding_status
 4c8c7e55-e62c-4d70-93b7-0bf70715bede,Atlantis Management Group,Atlantis Beer Wine & Spirits #70001,ID Present,ID Present,7499680,Pending Launch,In progress
 e0233d23-fc68-4460-9070-f6789a3e97a9,Atlantis Management Group,Atlantis Beer Wine & Spirits #70002,ID Present,ID Present,7494600,Pending Launch,In progress
+e9779eb9-2549-40a1-ba4c-9b8a6253d105,Atlantis Management Group,Atlantis Fresh Market  #2,ID Present,ID Present,ID Present,Pending Launch,In progress
+6962c1d2-536a-4010-8963-49fb8a9da5d6,Atlantis Management Group,Atlantis Fresh Market #103,ID Present,ID Present,ID Present,Pending Launch,In progress
 c02c3e08-c7a9-49c5-a69a-e3e83556fbcf,Atlantis Management Group,Atlantis Fresh Market #108,ID Present,ID Present,,Pending Launch,In progress
 2213b85c-a3ac-45d7-b874-4145ae17fc87,Atlantis Management Group,Atlantis Fresh Market #109,ID Present,ID Present,,Pending Launch,In progress
+311af385-2cc7-4e53-81dd-b3cb581d2290,Atlantis Management Group,Atlantis Fresh Market #123,ID Present,ID Present,ID Present,Pending Launch,In progress
 41124b1c-6602-4153-9f58-b169b6906eef,Atlantis Management Group,Atlantis Fresh Market #126,ID Present,ID Present,,Pending Launch,In progress
 2ba4642b-ae8c-42e9-938f-5204c5024e5c,Atlantis Management Group,Atlantis Fresh Market #127,ID Present,ID Present,,Pending Launch,In progress
+da42ab42-465e-4e14-bce6-759cd94de685,Atlantis Management Group,Atlantis Fresh Market #129,ID Present,ID Present,ID Present,Pending Launch,In progress
+b6a28b5f-857f-4175-bad0-ca40cc4eb5fa,Atlantis Management Group,Atlantis Fresh Market #130,ID Present,ID Present,ID Present,Pending Launch,In progress
+bf7a89c1-0e80-4b1e-b18a-fdbd3bfa9ba6,Atlantis Management Group,Atlantis Fresh Market #141,ID Present,ID Present,ID Present,Pending Launch,In progress
 7f2795c8-c608-4f80-813d-a54f4d86f891,Atlantis Management Group,Atlantis Fresh Market #149,ID Present,ID Present,,Pending Launch,In progress
+78b5acab-d2fa-40ed-aab5-dab920a5ce86,Atlantis Management Group,Atlantis Fresh Market #159,ID Present,ID Present,ID Present,Pending Launch,In progress
 29eb247e-5a1a-4d9e-a8d5-8f778196a0e3,Atlantis Management Group,Atlantis Fresh Market #160,ID Present,ID Present,,Pending Launch,In progress
 416f9dc9-afb0-41bf-b1b1-0dcac4ca139f,Atlantis Management Group,Atlantis Fresh Market #167,ID Present,ID Present,,Pending Launch,In progress
 bf8d3d98-fdde-4f87-9de2-67f059c1c719,Atlantis Management Group,Atlantis Fresh Market #168,ID Present,ID Present,,Pending Launch,In progress
 5126a67d-df73-4a45-bcb9-d2d5eb3dd401,Atlantis Management Group,Atlantis Fresh Market #169,ID Present,ID Present,,Pending Launch,In progress
+6923e212-0914-4ca8-a256-d4eafc4a76bb,Atlantis Management Group,Atlantis Fresh Market #170,ID Present,ID Present,ID Present,Pending Launch,In progress
+1db545be-be41-4331-97fe-9778b0b814fa,Atlantis Management Group,Atlantis Fresh Market #181,ID Present,ID Present,ID Present,Pending Launch,In progress
+09e85fa0-7c83-43e3-affa-a80569bf88d4,Atlantis Management Group,Atlantis Fresh Market #182,ID Present,ID Present,ID Present,Pending Launch,In progress
+31a06ac5-a88f-4989-949c-e880b674cee5,Atlantis Management Group,Atlantis Fresh Market #183,ID Present,ID Present,ID Present,Pending Launch,In progress
+56bb0912-804b-4464-affa-1a6b6e233d99,Atlantis Management Group,Atlantis Fresh Market #184,ID Present,ID Present,ID Present,Pending Launch,In progress
+28f3b756-85df-44f3-895c-5894d641500b,Atlantis Management Group,Atlantis Fresh Market #185,ID Present,ID Present,ID Present,Pending Launch,In progress
+2a930b50-466c-4a9e-80a4-18506450381c,Atlantis Management Group,Atlantis Fresh Market #186,ID Present,ID Present,ID Present,Pending Launch,In progress
+a5159152-d211-4b9a-a47a-2ea18232621d,Atlantis Management Group,Atlantis Fresh Market #192,ID Present,ID Present,ID Present,Pending Launch,In progress
 2dc897e5-bf51-426a-921e-60e678de3acf,Atlantis Management Group,Atlantis Fresh Market #194,ID Present,ID Present,,Pending Launch,In progress
 b1d7409f-5706-4424-b518-0a4431e5bbac,Atlantis Management Group,Atlantis Fresh Market #195,ID Present,ID Present,,Pending Launch,In progress
+ae976acc-0ae6-4fef-adab-6c88ded8392d,Atlantis Management Group,Atlantis Fresh Market #25,ID Present,ID Present,ID Present,Pending Launch,In progress
 8550e70c-3612-4f12-b2f1-c0a40233747c,Atlantis Management Group,Atlantis Fresh Market #502,ID Present,ID Present,,Pending Launch,In progress
 b2b46972-0d53-4b7c-b8d6-8e4931a520e9,Atlantis Management Group,Atlantis Fresh Market #503,ID Present,ID Present,,Pending Launch,In progress
 c61deb7d-00de-4502-b86c-bce66de4a1fc,Atlantis Management Group,Atlantis Fresh Market #504,ID Present,ID Present,,Pending Launch,In progress
@@ -21,6 +37,7 @@ ac47ec55-e742-4168-b4f8-5d57956059b9,Atlantis Management Group,Atlantis Fresh Ma
 c763e8fb-959d-46e3-8253-6f9c36b7270b,Atlantis Management Group,Atlantis Fresh Market #510,ID Present,ID Present,,Pending Launch,In progress
 88981567-9d10-4290-9640-800ad6c5d89e,Atlantis Management Group,Atlantis Fresh Market #516,ID Present,ID Present,,Pending Launch,In progress
 68bf3953-6878-4379-84f9-76bc969c2b46,Atlantis Management Group,Atlantis Fresh Market #517,ID Present,ID Present,,Pending Launch,In progress
+dcb3bcf0-274a-473f-a89a-bee4caad38c7,Atlantis Management Group,Atlantis Fresh Market #521,ID Present,ID Present,ID Present,Pending Launch,In progress
 015c2695-ffb1-4d8d-b057-037b3887f991,Atlantis Management Group,Atlantis Fresh Market #522,ID Present,ID Present,,Pending Launch,In progress
 7a6cbd6b-4fd7-492d-aaaf-3744513556bf,Atlantis Management Group,Atlantis Fresh Market #525,ID Present,ID Present,,Pending Launch,In progress
 f4a7fa29-f47f-49eb-bbde-8d24295ecf72,Atlantis Management Group,Atlantis Fresh Market #528,ID Present,ID Present,,Pending Launch,In progress
@@ -41,12 +58,23 @@ af655ff2-473f-47a8-81c9-cf1699ad3df7,Atlantis Management Group,Atlantis Fresh Ma
 2a05f2e5-72fd-4cef-b543-49d85ea6eebd,Atlantis Management Group,Atlantis Fresh Market #567,ID Present,ID Present,,Pending Launch,In progress
 d97af0a5-fd6b-4815-9667-01dc663c65ed,Atlantis Management Group,Atlantis Fresh Market #6066,ID Present,ID Present,,Pending Launch,In progress
 50bf0f80-26f1-4ef4-985c-cee25736e5f4,Atlantis Management Group,Atlantis Fresh Market #75,ID Present,ID Present,,Pending Launch,In progress
+0cb444cc-d321-4677-b7b1-aa27c40cf2ca,Atlantis Management Group,Atlantis Fresh Market #94,ID Present,ID Present,ID Present,Pending Launch,In progress
+9f268681-c9d3-40a4-86ae-ad8c9f22014f,Atlantis Management Group,Atlantis Fresh Market #97,ID Present,ID Present,ID Present,Pending Launch,In progress
+39915688-e9d2-470b-af1d-a6d72d540cf0,Atlantis Management Group,Atlantis Fresh Market #98,ID Present,ID Present,ID Present,Pending Launch,In progress
 f438302f-acd4-4e9f-8c91-00b110a8b211,Jallo Chain,Circle K (19818 February Lane),,ID Present,,Pending Launch,In progress
+de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
+c0581199-7145-4a5d-8514-1c512fe697c6,Circle K Gas Express,Circle K (2457 Whitesville Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
+3749a5c5-cd34-4207-98e8-70055fbdde3a,Circle K Gas Express,Circle K (4207 Martin Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 31044d85-dc62-4295-905a-879332ee6f11,Circle K Franchise (Thind Group),Circle K (Whitestone),,ID Present,,Pending Launch,In progress
+7a21de22-b994-4df0-a48f-90dcc1ac5d8f,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Burbank Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
 239020ff-17fc-4323-bde3-30aca0410ea6,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Court Street Mobil,,ID Present,ID Present,Pending Launch,In progress
+c6636043-e784-4352-a2f0-a652efe96b80,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Devin Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
 9725fa9f-aa32-4bef-95f4-7c0ab7333102,Circle K Franchise (French Valley Inc),Circle K - French Valley,,ID Present,,Pending Launch,In progress
+c149bc46-7ea9-4dbe-a181-8da3174562a2,Circle K Franchise (Sarvi Inc),Circle K - Gators Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
 e25a336a-afa5-4e31-b542-a034ef80571b,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Hermiston Shell,,ID Present,ID Present,Pending Launch,In progress
 c4a2ef7e-ffbc-4b39-b66e-2ddfb987addc,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Irrigon Shell,,ID Present,ID Present,Pending Launch,In progress
+c7a2656e-06da-4dc3-a99f-939e94aadae7,Circle K (SHJ LLC),Circle K - SHJ LLC,ID Present,ID Present,ID Present,Pending Launch,In progress
+3fc014bc-b046-46c5-af69-075ee1a60ef7,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Short Stop,ID Present,ID Present,ID Present,Pending Launch,In progress
 255fb373-1254-4ac7-8242-5cf3932eaa8b,Circle K (DFW Oil and Energy),Circle K 101 Winslow,,ID Present,,Pending Launch,In progress
 5ebcfe9f-ffe6-4670-abc3-b2f9171361a5,Circle K (DFW Oil and Energy),Circle K 102 Coit/635,,ID Present,,Pending Launch,In progress
 1954698d-9efe-4697-b511-ea9ee282ad1a,Circle K (DFW Oil and Energy),Circle K 105 Payless Fuel Center-Legacy,,ID Present,,Pending Launch,In progress
@@ -62,15 +90,35 @@ e690eb0d-7b7f-4a54-bd01-175ed84be8fd,Circle K (DFW Oil and Energy),Circle K 134 
 9828b393-8171-4515-a0be-57454013c60d,Circle K (DFW Oil and Energy),Circle K 135 Cedar Hill,,ID Present,,Pending Launch,In progress
 3d020189-aea5-471e-a65f-2edd577cd31d,Circle K (DFW Oil and Energy),Circle K 146 Babcock,,ID Present,,Pending Launch,In progress
 6aa3ba56-152a-4de7-a5c0-e25c6f67ffd6,Circle K (DFW Oil and Energy),Circle K 147 Potranco,,ID Present,,Pending Launch,In progress
+49052429-6fa6-414d-a463-b38050c37b99,Circle K Franchise (Sawalha Inc),Circle K- Canyon Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
+ea533936-eb61-4104-a88e-6b3016c0d61c,Circle K Franchise (Ignite Pacific),Circle K- Chino,ID Present,ID Present,ID Present,Pending Launch,In progress
+4c9d479c-2424-4318-a40a-b731276e74a8,Circle K Franchise (Ignite Pacific),Circle K- Fontana,ID Present,ID Present,ID Present,Pending Launch,In progress
+243e8799-72ca-4013-b214-cbb38e44d1fb,Circle K ( LPGA Shell),Circle K- LPGA Blvd,ID Present,ID Present,ID Present,Pending Launch,In progress
+43b43a27-03d0-4f42-b2eb-333966d8d5f4,Circle K Franchise (Ignite Pacific),Circle K- Norco,ID Present,ID Present,ID Present,Pending Launch,In progress
+45f91f52-6348-422e-8df7-1ce43610aa76,Circle K Franchise (Ignite Pacific),Circle K- Walnut,ID Present,ID Present,ID Present,Pending Launch,In progress
+13dcce6a-a712-4d42-925d-71e573e6284b,Eagle Stores,Eagle Stores (119 East),ID Present,ID Present,ID Present,Pending Launch,In progress
+348dc6a8-b480-4e51-995d-f7d8640fb5fe,Eagle Stores,Eagle Stores (Bluffton),ID Present,ID Present,ID Present,Pending Launch,In progress
+d182cbeb-b40e-4e5c-8f15-7fc3dd3ca9cc,Eagle Stores,Eagle Stores (Lakeview),ID Present,ID Present,ID Present,Pending Launch,In progress
 8e27b26e-b0da-41a8-8b91-6a36cf0435e0,Eagle Stores,Eagle Stores (Pearl Rd),,ID Present,ID Present,Pending Launch,In progress
 55b495c1-31d3-4332-8729-b14536a8da26,Jallo Chain,Fast Bites,,ID Present,ID Present,Pending Launch,In progress
+fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Joseph E. Lowery Blvd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
+62c4eab4-a012-44ef-b36f-8d051c03d135,Jacksons Food Stores,Jacksons Food Stores #160,ID Present,ID Present,ID Present,Pending Launch,In progress
 03ea8bc7-b7b5-4f5f-a0b2-af4ad1193803,Jacksons Food Stores,Jacksons Food Stores #166 (retail),Missing,Missing,Missing,Pending Launch,In progress
+4ba4a9fd-56ec-4a4f-b134-b70b62f140a9,Jacksons Food Stores,Jacksons Food Stores #248,ID Present,ID Present,ID Present,Pending Launch,In progress
+9a17fa9a-a75b-4c6a-af62-122f2664c1f6,Jacksons Food Stores,Jacksons Food Stores #249,ID Present,ID Present,ID Present,Pending Launch,In progress
+766da79c-95a2-4692-86c2-5f9d4cb933b9,Jacksons Food Stores,Jacksons Food Stores #250,ID Present,ID Present,ID Present,Pending Launch,In progress
+d21b2b25-5484-4f42-a7dd-3ab878713976,Jacksons Food Stores,Jacksons Food Stores (#109),ID Present,ID Present,ID Present,Pending Launch,In progress
+ac088887-7bcf-4cc3-af00-db376733d46c,Jacksons Food Stores,Jacksons Food Stores (#114),ID Present,ID Present,ID Present,Pending Launch,In progress
+11a2594b-f03e-4c6f-b6a7-5dfc1eac816e,Jacksons Food Stores,Jacksons Food Stores (#517),ID Present,ID Present,ID Present,Pending Launch,In progress
 92f08632-d0b1-4701-9e78-3a04790bf34b,Jacksons Food Stores,Jacksons Food Stores DD # 607,Missing,ID Present,Missing,Pending Launch,In progress
 272da2cf-cbcd-4d21-a61c-9d9d55414bd1,Jacksons Food Stores,Jacksons Food Stores DD # 615,Missing,ID Present,Missing,Pending Launch,In progress
 50d9b853-7a21-40b8-8cb6-0ca7528231f4,Jacksons Food Stores,Jacksons Food Stores DD # 625,Missing,ID Present,Missing,Pending Launch,In progress
 c795cf4d-7095-40a0-946f-8068c1a789eb,Jacksons Food Stores,Jacksons Food Stores DD # 633,Missing,ID Present,Missing,Pending Launch,In progress
 f2b18857-28c2-4c0b-a329-ee007de2577b,Jacksons Food Stores,Jacksons Food Stores DD # 648,Missing,ID Present,Missing,Pending Launch,In progress
 7e84f907-61c0-44e5-b5c8-64df0b7f8ab1,Jacksons Food Stores,Jacksons Food Stores DD # 654,Missing,ID Present,Missing,Pending Launch,In progress
+520bf5c0-b65f-4ff1-9780-0ede30f94607,Par Mar Stores,Par Mar Stores - 214 (Jefferson St),ID Present,ID Present,ID Present,Pending Launch,In progress
+387021fc-410c-4601-ac78-4a93c5e86a44,Rocket,Rocket #6101,ID Present,ID Present,ID Present,Pending Launch,In progress
+dc64c926-eb7d-4f51-ae11-98f66b2e9844,Rocket,Rocket #6342,ID Present,ID Present,ID Present,Pending Launch,In progress
 9e5ef2ce-b582-4832-b9b9-07130294ff31,Swiss Farms,Swiss Farms - Brookhaven,,ID Present,,Pending Launch,In progress
 0b25460c-4790-457b-b89a-6e81e63a1e5c,Swiss Farms,Swiss Farms - Broomall,,ID Present,,Pending Launch,In progress
 4874756a-9e58-41b3-b3ad-8142415cc6ad,Swiss Farms,Swiss Farms - Clifton Heights,,ID Present,,Pending Launch,In progress
