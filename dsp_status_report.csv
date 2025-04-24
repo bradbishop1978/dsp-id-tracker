@@ -1,22 +1,22 @@
 store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,pipeline_stage,onboarding_status
-4c8c7e55-e62c-4d70-93b7-0bf70715bede,Atlantis Management Group,Atlantis Beer Wine & Spirits #70001,ID Present,ID Present,Missing,Pending Launch,In progress
-e0233d23-fc68-4460-9070-f6789a3e97a9,Atlantis Management Group,Atlantis Beer Wine & Spirits #70002,ID Present,ID Present,Missing,Pending Launch,In progress
+4c8c7e55-e62c-4d70-93b7-0bf70715bede,Atlantis Management Group,Atlantis Beer Wine & Spirits #70001,ID Present,ID Present,7499680,Pending Launch,In progress
+e0233d23-fc68-4460-9070-f6789a3e97a9,Atlantis Management Group,Atlantis Beer Wine & Spirits #70002,ID Present,ID Present,7494600,Pending Launch,In progress
 e9779eb9-2549-40a1-ba4c-9b8a6253d105,Atlantis Management Group,Atlantis Fresh Market  #2,ID Present,ID Present,ID Present,Pending Launch,In progress
 6962c1d2-536a-4010-8963-49fb8a9da5d6,Atlantis Management Group,Atlantis Fresh Market #103,ID Present,ID Present,ID Present,Pending Launch,In progress
-c02c3e08-c7a9-49c5-a69a-e3e83556fbcf,Atlantis Management Group,Atlantis Fresh Market #108,ID Present,ID Present,Missing,Pending Launch,In progress
-2213b85c-a3ac-45d7-b874-4145ae17fc87,Atlantis Management Group,Atlantis Fresh Market #109,ID Present,ID Present,Missing,Pending Launch,In progress
+c02c3e08-c7a9-49c5-a69a-e3e83556fbcf,Atlantis Management Group,Atlantis Fresh Market #108,ID Present,ID Present,,Pending Launch,In progress
+2213b85c-a3ac-45d7-b874-4145ae17fc87,Atlantis Management Group,Atlantis Fresh Market #109,ID Present,ID Present,,Pending Launch,In progress
 311af385-2cc7-4e53-81dd-b3cb581d2290,Atlantis Management Group,Atlantis Fresh Market #123,ID Present,ID Present,ID Present,Pending Launch,In progress
-41124b1c-6602-4153-9f58-b169b6906eef,Atlantis Management Group,Atlantis Fresh Market #126,ID Present,ID Present,Missing,Pending Launch,In progress
-2ba4642b-ae8c-42e9-938f-5204c5024e5c,Atlantis Management Group,Atlantis Fresh Market #127,ID Present,ID Present,Missing,Pending Launch,In progress
+41124b1c-6602-4153-9f58-b169b6906eef,Atlantis Management Group,Atlantis Fresh Market #126,ID Present,ID Present,,Pending Launch,In progress
+2ba4642b-ae8c-42e9-938f-5204c5024e5c,Atlantis Management Group,Atlantis Fresh Market #127,ID Present,ID Present,,Pending Launch,In progress
 da42ab42-465e-4e14-bce6-759cd94de685,Atlantis Management Group,Atlantis Fresh Market #129,ID Present,ID Present,ID Present,Pending Launch,In progress
 b6a28b5f-857f-4175-bad0-ca40cc4eb5fa,Atlantis Management Group,Atlantis Fresh Market #130,ID Present,ID Present,ID Present,Pending Launch,In progress
 bf7a89c1-0e80-4b1e-b18a-fdbd3bfa9ba6,Atlantis Management Group,Atlantis Fresh Market #141,ID Present,ID Present,ID Present,Pending Launch,In progress
-7f2795c8-c608-4f80-813d-a54f4d86f891,Atlantis Management Group,Atlantis Fresh Market #149,ID Present,ID Present,Missing,Pending Launch,In progress
+7f2795c8-c608-4f80-813d-a54f4d86f891,Atlantis Management Group,Atlantis Fresh Market #149,ID Present,ID Present,,Pending Launch,In progress
 78b5acab-d2fa-40ed-aab5-dab920a5ce86,Atlantis Management Group,Atlantis Fresh Market #159,ID Present,ID Present,ID Present,Pending Launch,In progress
-29eb247e-5a1a-4d9e-a8d5-8f778196a0e3,Atlantis Management Group,Atlantis Fresh Market #160,ID Present,ID Present,Missing,Pending Launch,In progress
-416f9dc9-afb0-41bf-b1b1-0dcac4ca139f,Atlantis Management Group,Atlantis Fresh Market #167,ID Present,ID Present,Missing,Pending Launch,In progress
-bf8d3d98-fdde-4f87-9de2-67f059c1c719,Atlantis Management Group,Atlantis Fresh Market #168,ID Present,ID Present,Missing,Pending Launch,In progress
-5126a67d-df73-4a45-bcb9-d2d5eb3dd401,Atlantis Management Group,Atlantis Fresh Market #169,ID Present,ID Present,Missing,Pending Launch,In progress
+29eb247e-5a1a-4d9e-a8d5-8f778196a0e3,Atlantis Management Group,Atlantis Fresh Market #160,ID Present,ID Present,,Pending Launch,In progress
+416f9dc9-afb0-41bf-b1b1-0dcac4ca139f,Atlantis Management Group,Atlantis Fresh Market #167,ID Present,ID Present,,Pending Launch,In progress
+bf8d3d98-fdde-4f87-9de2-67f059c1c719,Atlantis Management Group,Atlantis Fresh Market #168,ID Present,ID Present,,Pending Launch,In progress
+5126a67d-df73-4a45-bcb9-d2d5eb3dd401,Atlantis Management Group,Atlantis Fresh Market #169,ID Present,ID Present,,Pending Launch,In progress
 6923e212-0914-4ca8-a256-d4eafc4a76bb,Atlantis Management Group,Atlantis Fresh Market #170,ID Present,ID Present,ID Present,Pending Launch,In progress
 1db545be-be41-4331-97fe-9778b0b814fa,Atlantis Management Group,Atlantis Fresh Market #181,ID Present,ID Present,ID Present,Pending Launch,In progress
 09e85fa0-7c83-43e3-affa-a80569bf88d4,Atlantis Management Group,Atlantis Fresh Market #182,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -25,39 +25,39 @@ bf8d3d98-fdde-4f87-9de2-67f059c1c719,Atlantis Management Group,Atlantis Fresh Ma
 28f3b756-85df-44f3-895c-5894d641500b,Atlantis Management Group,Atlantis Fresh Market #185,ID Present,ID Present,ID Present,Pending Launch,In progress
 2a930b50-466c-4a9e-80a4-18506450381c,Atlantis Management Group,Atlantis Fresh Market #186,ID Present,ID Present,ID Present,Pending Launch,In progress
 a5159152-d211-4b9a-a47a-2ea18232621d,Atlantis Management Group,Atlantis Fresh Market #192,ID Present,ID Present,ID Present,Pending Launch,In progress
-2dc897e5-bf51-426a-921e-60e678de3acf,Atlantis Management Group,Atlantis Fresh Market #194,ID Present,ID Present,Missing,Pending Launch,In progress
-b1d7409f-5706-4424-b518-0a4431e5bbac,Atlantis Management Group,Atlantis Fresh Market #195,ID Present,ID Present,Missing,Pending Launch,In progress
+2dc897e5-bf51-426a-921e-60e678de3acf,Atlantis Management Group,Atlantis Fresh Market #194,ID Present,ID Present,,Pending Launch,In progress
+b1d7409f-5706-4424-b518-0a4431e5bbac,Atlantis Management Group,Atlantis Fresh Market #195,ID Present,ID Present,,Pending Launch,In progress
 ae976acc-0ae6-4fef-adab-6c88ded8392d,Atlantis Management Group,Atlantis Fresh Market #25,ID Present,ID Present,ID Present,Pending Launch,In progress
 8550e70c-3612-4f12-b2f1-c0a40233747c,Atlantis Management Group,Atlantis Fresh Market #502,ID Present,ID Present,,Pending Launch,In progress
-b2b46972-0d53-4b7c-b8d6-8e4931a520e9,Atlantis Management Group,Atlantis Fresh Market #503,ID Present,ID Present,Missing,Pending Launch,In progress
-c61deb7d-00de-4502-b86c-bce66de4a1fc,Atlantis Management Group,Atlantis Fresh Market #504,ID Present,ID Present,Missing,Pending Launch,In progress
-ac47ec55-e742-4168-b4f8-5d57956059b9,Atlantis Management Group,Atlantis Fresh Market #506,ID Present,ID Present,Missing,Pending Launch,In progress
-9aa70532-6ddb-461a-911d-492a1296ee07,Atlantis Management Group,Atlantis Fresh Market #507,ID Present,ID Present,Missing,Pending Launch,In progress
-18f97d87-6efa-44b3-bcb5-3dc0351d6059,Atlantis Management Group,Atlantis Fresh Market #509,ID Present,ID Present,Missing,Pending Launch,In progress
+b2b46972-0d53-4b7c-b8d6-8e4931a520e9,Atlantis Management Group,Atlantis Fresh Market #503,ID Present,ID Present,,Pending Launch,In progress
+c61deb7d-00de-4502-b86c-bce66de4a1fc,Atlantis Management Group,Atlantis Fresh Market #504,ID Present,ID Present,,Pending Launch,In progress
+ac47ec55-e742-4168-b4f8-5d57956059b9,Atlantis Management Group,Atlantis Fresh Market #506,ID Present,ID Present,,Pending Launch,In progress
+9aa70532-6ddb-461a-911d-492a1296ee07,Atlantis Management Group,Atlantis Fresh Market #507,ID Present,ID Present,,Pending Launch,In progress
+18f97d87-6efa-44b3-bcb5-3dc0351d6059,Atlantis Management Group,Atlantis Fresh Market #509,ID Present,ID Present,,Pending Launch,In progress
 c763e8fb-959d-46e3-8253-6f9c36b7270b,Atlantis Management Group,Atlantis Fresh Market #510,ID Present,ID Present,,Pending Launch,In progress
-88981567-9d10-4290-9640-800ad6c5d89e,Atlantis Management Group,Atlantis Fresh Market #516,ID Present,ID Present,Missing,Pending Launch,In progress
-68bf3953-6878-4379-84f9-76bc969c2b46,Atlantis Management Group,Atlantis Fresh Market #517,ID Present,ID Present,Missing,Pending Launch,In progress
+88981567-9d10-4290-9640-800ad6c5d89e,Atlantis Management Group,Atlantis Fresh Market #516,ID Present,ID Present,,Pending Launch,In progress
+68bf3953-6878-4379-84f9-76bc969c2b46,Atlantis Management Group,Atlantis Fresh Market #517,ID Present,ID Present,,Pending Launch,In progress
 dcb3bcf0-274a-473f-a89a-bee4caad38c7,Atlantis Management Group,Atlantis Fresh Market #521,ID Present,ID Present,ID Present,Pending Launch,In progress
-015c2695-ffb1-4d8d-b057-037b3887f991,Atlantis Management Group,Atlantis Fresh Market #522,ID Present,ID Present,Missing,Pending Launch,In progress
-7a6cbd6b-4fd7-492d-aaaf-3744513556bf,Atlantis Management Group,Atlantis Fresh Market #525,ID Present,ID Present,Missing,Pending Launch,In progress
-f4a7fa29-f47f-49eb-bbde-8d24295ecf72,Atlantis Management Group,Atlantis Fresh Market #528,ID Present,ID Present,Missing,Pending Launch,In progress
-cb4859a1-0651-40a2-8f51-3c97b5b735bd,Atlantis Management Group,Atlantis Fresh Market #534,ID Present,ID Present,Missing,Pending Launch,In progress
-29eb5909-43fb-4f3c-979c-47eaffb584c6,Atlantis Management Group,Atlantis Fresh Market #536,ID Present,ID Present,Missing,Pending Launch,In progress
-0ce3dc18-bafd-444d-bc8f-f1f2b71bfbed,Atlantis Management Group,Atlantis Fresh Market #541,ID Present,ID Present,Missing,Pending Launch,In progress
-905aefae-eef1-4097-b083-aff8c917f35d,Atlantis Management Group,Atlantis Fresh Market #542,ID Present,ID Present,Missing,Pending Launch,In progress
-adae0436-bcf2-434a-a1e6-9df3153a0c84,Atlantis Management Group,Atlantis Fresh Market #543,ID Present,ID Present,Missing,Pending Launch,In progress
-b4a50af7-8afc-4e76-a0bd-0b6bd96fb0b0,Atlantis Management Group,Atlantis Fresh Market #548,ID Present,ID Present,Missing,Pending Launch,In progress
-60944de9-9e1a-4caa-8f2c-c628d4207924,Atlantis Management Group,Atlantis Fresh Market #550,ID Present,ID Present,Missing,Pending Launch,In progress
-a8716621-b40d-4f80-a7a3-6f4c521a3210,Atlantis Management Group,Atlantis Fresh Market #551,ID Present,ID Present,Missing,Pending Launch,In progress
-d4570bcd-df92-4b95-9757-f088288d93cd,Atlantis Management Group,Atlantis Fresh Market #553,ID Present,ID Present,Missing,Pending Launch,In progress
-1619f00c-06e1-47a8-9ec1-f265f7cea23b,Atlantis Management Group,Atlantis Fresh Market #561,ID Present,ID Present,Missing,Pending Launch,In progress
-af655ff2-473f-47a8-81c9-cf1699ad3df7,Atlantis Management Group,Atlantis Fresh Market #562,ID Present,ID Present,Missing,Pending Launch,In progress
-65db8d26-c05e-4985-80ac-0a53952c2956,Atlantis Management Group,Atlantis Fresh Market #564,ID Present,ID Present,Missing,Pending Launch,In progress
-7cf89982-8727-4323-84ff-1b571e2853e9,Atlantis Management Group,Atlantis Fresh Market #565,ID Present,ID Present,Missing,Pending Launch,In progress
-1f55bd95-7a3f-40a1-8135-17e113354e53,Atlantis Management Group,Atlantis Fresh Market #566,ID Present,ID Present,Missing,Pending Launch,In progress
-2a05f2e5-72fd-4cef-b543-49d85ea6eebd,Atlantis Management Group,Atlantis Fresh Market #567,ID Present,ID Present,Missing,Pending Launch,In progress
-d97af0a5-fd6b-4815-9667-01dc663c65ed,Atlantis Management Group,Atlantis Fresh Market #6066,ID Present,ID Present,Missing,Pending Launch,In progress
-50bf0f80-26f1-4ef4-985c-cee25736e5f4,Atlantis Management Group,Atlantis Fresh Market #75,ID Present,ID Present,Missing,Pending Launch,In progress
+015c2695-ffb1-4d8d-b057-037b3887f991,Atlantis Management Group,Atlantis Fresh Market #522,ID Present,ID Present,,Pending Launch,In progress
+7a6cbd6b-4fd7-492d-aaaf-3744513556bf,Atlantis Management Group,Atlantis Fresh Market #525,ID Present,ID Present,,Pending Launch,In progress
+f4a7fa29-f47f-49eb-bbde-8d24295ecf72,Atlantis Management Group,Atlantis Fresh Market #528,ID Present,ID Present,,Pending Launch,In progress
+cb4859a1-0651-40a2-8f51-3c97b5b735bd,Atlantis Management Group,Atlantis Fresh Market #534,ID Present,ID Present,,Pending Launch,In progress
+29eb5909-43fb-4f3c-979c-47eaffb584c6,Atlantis Management Group,Atlantis Fresh Market #536,ID Present,ID Present,,Pending Launch,In progress
+0ce3dc18-bafd-444d-bc8f-f1f2b71bfbed,Atlantis Management Group,Atlantis Fresh Market #541,ID Present,ID Present,,Pending Launch,In progress
+905aefae-eef1-4097-b083-aff8c917f35d,Atlantis Management Group,Atlantis Fresh Market #542,ID Present,ID Present,,Pending Launch,In progress
+adae0436-bcf2-434a-a1e6-9df3153a0c84,Atlantis Management Group,Atlantis Fresh Market #543,ID Present,ID Present,,Pending Launch,In progress
+b4a50af7-8afc-4e76-a0bd-0b6bd96fb0b0,Atlantis Management Group,Atlantis Fresh Market #548,ID Present,ID Present,,Pending Launch,In progress
+60944de9-9e1a-4caa-8f2c-c628d4207924,Atlantis Management Group,Atlantis Fresh Market #550,ID Present,ID Present,,Pending Launch,In progress
+a8716621-b40d-4f80-a7a3-6f4c521a3210,Atlantis Management Group,Atlantis Fresh Market #551,ID Present,ID Present,,Pending Launch,In progress
+d4570bcd-df92-4b95-9757-f088288d93cd,Atlantis Management Group,Atlantis Fresh Market #553,ID Present,ID Present,,Pending Launch,In progress
+1619f00c-06e1-47a8-9ec1-f265f7cea23b,Atlantis Management Group,Atlantis Fresh Market #561,ID Present,ID Present,,Pending Launch,In progress
+af655ff2-473f-47a8-81c9-cf1699ad3df7,Atlantis Management Group,Atlantis Fresh Market #562,ID Present,ID Present,,Pending Launch,In progress
+65db8d26-c05e-4985-80ac-0a53952c2956,Atlantis Management Group,Atlantis Fresh Market #564,ID Present,ID Present,,Pending Launch,In progress
+7cf89982-8727-4323-84ff-1b571e2853e9,Atlantis Management Group,Atlantis Fresh Market #565,ID Present,ID Present,,Pending Launch,In progress
+1f55bd95-7a3f-40a1-8135-17e113354e53,Atlantis Management Group,Atlantis Fresh Market #566,ID Present,ID Present,,Pending Launch,In progress
+2a05f2e5-72fd-4cef-b543-49d85ea6eebd,Atlantis Management Group,Atlantis Fresh Market #567,ID Present,ID Present,,Pending Launch,In progress
+d97af0a5-fd6b-4815-9667-01dc663c65ed,Atlantis Management Group,Atlantis Fresh Market #6066,ID Present,ID Present,,Pending Launch,In progress
+50bf0f80-26f1-4ef4-985c-cee25736e5f4,Atlantis Management Group,Atlantis Fresh Market #75,ID Present,ID Present,,Pending Launch,In progress
 0cb444cc-d321-4677-b7b1-aa27c40cf2ca,Atlantis Management Group,Atlantis Fresh Market #94,ID Present,ID Present,ID Present,Pending Launch,In progress
 9f268681-c9d3-40a4-86ae-ad8c9f22014f,Atlantis Management Group,Atlantis Fresh Market #97,ID Present,ID Present,ID Present,Pending Launch,In progress
 39915688-e9d2-470b-af1d-a6d72d540cf0,Atlantis Management Group,Atlantis Fresh Market #98,ID Present,ID Present,ID Present,Pending Launch,In progress
