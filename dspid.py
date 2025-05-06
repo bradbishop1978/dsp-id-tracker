@@ -13,22 +13,19 @@ st.markdown("""
 This will show the raw data from the `dsp_status_report.csv` file, as it is.
 """)
 
-# Add auto-refresh options in the sidebar
+# Add refresh options in the sidebar
 st.sidebar.title("Refresh Settings")
-refresh_interval = st.sidebar.selectbox(
-    "Auto-refresh interval",
-    [None, 10, 30, 60, 120, 300],
-    format_func=lambda x: "Disabled" if x is None else f"Every {x} seconds"
-)
 
 # Display last refresh time
 last_refresh = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 refresh_text = st.sidebar.empty()
 refresh_text.info(f"Last refreshed: {last_refresh}")
 
-# Manual refresh button
+# Manual refresh button that clears cache when clicked
 if st.sidebar.button("🔄 Refresh Data Now"):
-    st.experimental_rerun()
+    # Clear the cache instead of using rerun
+    st.cache_data.clear()
+    st.info("Data refreshed! The latest changes from the CSV file should now be visible.")
 
 # Load data with TTL (Time To Live) cache
 @st.cache_data(ttl=300)  # Cache expires after 5 minutes
@@ -125,15 +122,24 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Auto-refresh functionality
-if refresh_interval:
-    time.sleep(1)  # Small delay to ensure UI renders first
-    refresh_progress = st.sidebar.progress(0)
-    for i in range(refresh_interval):
-        # Update progress bar
-        progress_val = i / refresh_interval
-        refresh_progress.progress(progress_val)
+# Add auto-refresh checkbox
+auto_refresh = st.sidebar.checkbox("Enable auto-refresh", value=False)
+if auto_refresh:
+    refresh_interval = st.sidebar.slider("Refresh interval (seconds)", 
+                                         min_value=30, 
+                                         max_value=600, 
+                                         value=300, 
+                                         step=30)
+    
+    # Create a placeholder for the countdown
+    countdown_placeholder = st.sidebar.empty()
+    
+    # Display countdown
+    for remaining in range(refresh_interval, 0, -1):
+        countdown_placeholder.info(f"Next refresh in: {remaining} seconds")
         time.sleep(1)
     
-    # Rerun the app when the timer completes
-    st.experimental_rerun()
+    # Clear cache when timer expires
+    if auto_refresh:
+        st.cache_data.clear()
+        st.sidebar.success("Auto-refreshed! Reload the page to see the latest data.")
