@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import time
+from datetime import datetime
 
 # Set page config
 st.set_page_config(page_title="DSP ID Tracker", page_icon="📊", layout="wide")
@@ -11,8 +13,25 @@ st.markdown("""
 This will show the raw data from the `dsp_status_report.csv` file, as it is.
 """)
 
-# Load data directly from GitHub
-@st.cache_data
+# Add auto-refresh options in the sidebar
+st.sidebar.title("Refresh Settings")
+refresh_interval = st.sidebar.selectbox(
+    "Auto-refresh interval",
+    [None, 10, 30, 60, 120, 300],
+    format_func=lambda x: "Disabled" if x is None else f"Every {x} seconds"
+)
+
+# Display last refresh time
+last_refresh = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+refresh_text = st.sidebar.empty()
+refresh_text.info(f"Last refreshed: {last_refresh}")
+
+# Manual refresh button
+if st.sidebar.button("🔄 Refresh Data Now"):
+    st.experimental_rerun()
+
+# Load data with TTL (Time To Live) cache
+@st.cache_data(ttl=300)  # Cache expires after 5 minutes
 def load_data():
     url = "https://raw.githubusercontent.com/bradbishop1978/dsp-id-tracker/main/dsp_status_report.csv"
     try:
@@ -105,3 +124,16 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
+# Auto-refresh functionality
+if refresh_interval:
+    time.sleep(1)  # Small delay to ensure UI renders first
+    refresh_progress = st.sidebar.progress(0)
+    for i in range(refresh_interval):
+        # Update progress bar
+        progress_val = i / refresh_interval
+        refresh_progress.progress(progress_val)
+        time.sleep(1)
+    
+    # Rerun the app when the timer completes
+    st.experimental_rerun()
