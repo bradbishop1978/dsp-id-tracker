@@ -1,6 +1,6 @@
 store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,pipeline_stage,onboarding_status
-4c8c7e55-e62c-4d70-93b7-0bf70715bede,Atlantis Management Group,Atlantis Beer Wine & Spirits #70001,ID Present,ID Present,7499680,Pending Launch,In progress
-e0233d23-fc68-4460-9070-f6789a3e97a9,Atlantis Management Group,Atlantis Beer Wine & Spirits #70002,ID Present,ID Present,7494600,Pending Launch,In progress
+4c8c7e55-e62c-4d70-93b7-0bf70715bede,Atlantis Management Group,Atlantis Beer Wine & Spirits #70001,ID Present,ID Present,ID Present,Pending Launch,In progress
+e0233d23-fc68-4460-9070-f6789a3e97a9,Atlantis Management Group,Atlantis Beer Wine & Spirits #70002,ID Present,ID Present,ID Present,Pending Launch,In progress
 e9779eb9-2549-40a1-ba4c-9b8a6253d105,Atlantis Management Group,Atlantis Fresh Market  #2,ID Present,ID Present,ID Present,Pending Launch,In progress
 6962c1d2-536a-4010-8963-49fb8a9da5d6,Atlantis Management Group,Atlantis Fresh Market #103,ID Present,ID Present,ID Present,Pending Launch,In progress
 c02c3e08-c7a9-49c5-a69a-e3e83556fbcf,Atlantis Management Group,Atlantis Fresh Market #108,ID Present,ID Present,,Pending Launch,In progress
@@ -61,6 +61,7 @@ d97af0a5-fd6b-4815-9667-01dc663c65ed,Atlantis Management Group,Atlantis Fresh Ma
 0cb444cc-d321-4677-b7b1-aa27c40cf2ca,Atlantis Management Group,Atlantis Fresh Market #94,ID Present,ID Present,ID Present,Pending Launch,In progress
 9f268681-c9d3-40a4-86ae-ad8c9f22014f,Atlantis Management Group,Atlantis Fresh Market #97,ID Present,ID Present,ID Present,Pending Launch,In progress
 39915688-e9d2-470b-af1d-a6d72d540cf0,Atlantis Management Group,Atlantis Fresh Market #98,ID Present,ID Present,ID Present,Pending Launch,In progress
+9ca544be-91bd-465a-a3d1-f3a4826766d0,Fast Break Convenience Stores,Big Bad BBQ (Prineville),,,,Pending Launch,In progress
 f438302f-acd4-4e9f-8c91-00b110a8b211,Jallo Chain,Circle K (19818 February Lane),ID Present,ID Present,ID Present,Pending Launch,In progress
 de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 c0581199-7145-4a5d-8514-1c512fe697c6,Circle K Gas Express,Circle K (2457 Whitesville Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -104,7 +105,6 @@ d182cbeb-b40e-4e5c-8f15-7fc3dd3ca9cc,Eagle Stores,Eagle Stores (Lakeview),ID Pre
 55b495c1-31d3-4332-8729-b14536a8da26,Jallo Chain,Fast Bites,,ID Present,ID Present,Pending Launch,In progress
 fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Joseph E. Lowery Blvd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 62c4eab4-a012-44ef-b36f-8d051c03d135,Jacksons Food Stores,Jacksons Food Stores #160,ID Present,ID Present,ID Present,Pending Launch,In progress
-03ea8bc7-b7b5-4f5f-a0b2-af4ad1193803,Jacksons Food Stores,Jacksons Food Stores #166 (retail),Missing,Missing,Missing,Pending Launch,In progress
 4ba4a9fd-56ec-4a4f-b134-b70b62f140a9,Jacksons Food Stores,Jacksons Food Stores #248,ID Present,ID Present,ID Present,Pending Launch,In progress
 9a17fa9a-a75b-4c6a-af62-122f2664c1f6,Jacksons Food Stores,Jacksons Food Stores #249,ID Present,ID Present,ID Present,Pending Launch,In progress
 766da79c-95a2-4692-86c2-5f9d4cb933b9,Jacksons Food Stores,Jacksons Food Stores #250,ID Present,ID Present,ID Present,Pending Launch,In progress
