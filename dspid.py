@@ -7,10 +7,10 @@ from datetime import datetime
 st.set_page_config(page_title="DSP ID Tracker", page_icon="📊", layout="wide")
 
 # Title with emoji
-st.title("📊 DSP Status Report Viewer")
+st.title("📊 DSP ID creation")
 st.markdown("""
-**Displays the full contents of the DSP Status Report:**
-This will show the raw data from the `dsp_status_report.csv` file, as it is.
+**Displays the availability of DSP ID's for Stores in Onboarding Stage:**
+Below show list of Stores in Onboarding Status and Pending Launch Stage.
 """)
 
 # Add refresh options in the sidebar
@@ -25,7 +25,7 @@ refresh_text.info(f"Last refreshed: {last_refresh}")
 if st.sidebar.button("🔄 Refresh Data Now"):
     # Clear the cache instead of using rerun
     st.cache_data.clear()
-    st.info("Data refreshed! The latest changes from the CSV file should now be visible.")
+    st.info("Data refreshed! The latest changes should now be visible.")
 
 # Load data with TTL (Time To Live) cache
 @st.cache_data(ttl=300)  # Cache expires after 5 minutes
@@ -79,7 +79,7 @@ if data is not None:
     # Download button for raw data
     csv = data.to_csv(index=False)
     st.download_button(
-        label="📥 Download DSP Status Report",
+        label="📥 XML Raw File",
         data=csv,
         file_name="dsp_status_report.csv",
         mime="text/csv"
