@@ -1,5 +1,5 @@
 store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,pipeline_stage,onboarding_status
-d6f5945f-5446-4c02-bd51-386f0892f4ab,Ami LLC,Ami LLC (3671 Orchard Rd),470c7215-1e23-592c-bcb4-f007eafa925f,,12809688,Pending Launch,In progress
+d6f5945f-5446-4c02-bd51-386f0892f4ab,Ami LLC,Ami LLC (3671 Orchard Rd),ID Present,,ID Present,Pending Launch,In progress
 94ecf2fc-bdcb-429f-91d3-3a58fea39b3a,Jacksons Food Stores,Aztec Grill/Redwood Market #277,ID Present,ID Present,ID Present,Pending Launch,In progress
 453eac94-8c4d-4943-a63e-92a184bb9fb6,Jacksons Food Stores,Aztec Grill/Redwood Market #279,ID Present,ID Present,ID Present,Pending Launch,In progress
 2802759a-1730-4dd7-bb89-b61efba1443c,Jacksons Food Stores,Aztec Grill/Redwood Market #280,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -15,23 +15,22 @@ d4023c58-15de-4f71-aceb-1ba2029da218,Jacksons Food Stores,Aztec Grill/Redwood Ma
 4799e460-27c9-48b2-a71d-47deada89eca,Chicken King,Chicken King (Harbour Way Deli),ID Present,ID Present,ID Present,Pending Launch,In progress
 de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
-a443011c-00f4-483f-9aa3-8438985d7682,"Soni 2, Inc. (Circle K #2652073)",Circle K - 1021 Orange Ave,b141e170-cc56-57a1-b569-f177819cc871,,,Pending Launch,In progress
-b1a386c5-a02c-4d7b-9424-e49a059fda16,Opal Businesses LLC,Circle K - 119 SW Cashmere Blvd,5c869353-68cd-53cb-9f22-d677f9985042,,12811456,Pending Launch,In progress
-236bd56b-9039-46a7-9f29-c42dca3c4127,Rt 522 Convenience DBA Circle K,Circle K - 1490 N Frederick Pike,9799c8a3-ceaa-5e4e-ba1b-2d69aa56fca5,,12809760,Pending Launch,In progress
-4aa19230-9ef7-4437-8212-843fa09d1c25,M&K Petro LLC,Circle K - 19570 Temescal Canyon,e93b5313-2b80-5ae1-87e2-a2eede42ae43,,ID Present,Pending Launch,In progress
-a167f7f8-f7c6-4202-a9c3-8d7f220f9622,I & R Interprises,Circle K - 68258 Ramond Rd,2c4c6651-ac39-53f1-8d4f-41e427954c14,,,Pending Launch,In progress
-9cb280a6-c99d-4f05-bd8a-2c5931f7d763,M&K Petro LLC,Circle K - 6908 Indiana Avenue,b2638cd9-407e-561c-a7db-8063c3cd85d0,,ID Present,Pending Launch,In progress
+a443011c-00f4-483f-9aa3-8438985d7682,"Soni 2, Inc. (Circle K #2652073)",Circle K - 1021 Orange Ave,ID Present,,,Pending Launch,In progress
+b1a386c5-a02c-4d7b-9424-e49a059fda16,Opal Businesses LLC,Circle K - 119 SW Cashmere Blvd,ID Present,,ID Present,Pending Launch,In progress
+236bd56b-9039-46a7-9f29-c42dca3c4127,Rt 522 Convenience DBA Circle K,Circle K - 1490 N Frederick Pike,ID Present,,ID Present,Pending Launch,In progress
+4aa19230-9ef7-4437-8212-843fa09d1c25,M&K Petro LLC,Circle K - 19570 Temescal Canyon,ID Present,,ID Present,Pending Launch,In progress
+a167f7f8-f7c6-4202-a9c3-8d7f220f9622,I & R Interprises,Circle K - 68258 Ramond Rd,ID Present,,,Pending Launch,In progress
+9cb280a6-c99d-4f05-bd8a-2c5931f7d763,M&K Petro LLC,Circle K - 6908 Indiana Avenue,ID Present,,ID Present,Pending Launch,In progress
 54893dab-b498-4b96-a691-09530c3e0be9,Circle K (Bressi Ranch Fuel Mart LLC),Circle K - Bressi Ranch Fuel Mart,ID Present,ID Present,ID Present,Pending Launch,In progress
 8b0b00ad-197e-4e6e-af5d-a80d6ca44e06,Circle K (Shahid LLC),Circle K - Conrad Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
-f7440381-ddc5-4cc6-b84c-88c9a96cd0f6,Deva 2016 LLC,Circle K - Deva 2016,22aeedc6-36b3-554e-9bbc-2715a047444b,,,Pending Launch,In progress
-ae594728-39f7-4b59-82af-67a153934fdf,Hari Ohm Corporation,Circle K - Kearneysville,2f8f5442-89d7-57bc-9247-8425e6e47a95,,12809768,Pending Launch,In progress
+f7440381-ddc5-4cc6-b84c-88c9a96cd0f6,Deva 2016 LLC,Circle K - Deva 2016,ID Present,,,Pending Launch,In progress
+ae594728-39f7-4b59-82af-67a153934fdf,Hari Ohm Corporation,Circle K - Kearneysville,ID Present,,12809768,Pending Launch,In progress
 717a9f24-cac4-4a33-b201-71c309bd8a37,Gurkirpa Enterprises Inc,Circle K - Pyrite Shell,0758c33c-e28f-5b39-b3bf-a5f6a9585772,,ID Present,Pending Launch,In progress
 447068a9-51bf-49ea-ae2d-f011bc6b2505,Cottonwood Enterprises Inc,Circle K - Rhonda Rd,8f39b230-4182-55b2-be10-10c86f904c97,,ID Present,Pending Launch,In progress
 163f7c5f-8907-49ae-9a75-7ac705168070,Circle K (Shahid LLC),Circle K - Sandra Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
 7af02998-e4ba-4239-a4eb-db5f1842d7ba,Circle K Flaieh Corporation,Circle K - Upland,ID Present,ID Present,ID Present,Pending Launch,In progress
-1eae1f24-14a5-437c-84a6-53e0dd69e958,Circle K Fullerton,Circle K Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
-e22f8c5a-a8aa-4f19-9fee-45bb97047d11,Clipper Petroleum,Clipper Petroleum #73,b757e80f-1d34-5b2c-9f4c-886ad03a71b8,,12786872,Pending Launch,In progress
+e22f8c5a-a8aa-4f19-9fee-45bb97047d11,Clipper Petroleum,Clipper Petroleum #73,ID Present,,ID Present,Pending Launch,In progress
 13dcce6a-a712-4d42-925d-71e573e6284b,Eagle Stores,Eagle Stores (119 East),ID Present,ID Present,ID Present,Pending Launch,In progress
 348dc6a8-b480-4e51-995d-f7d8640fb5fe,Eagle Stores,Eagle Stores (Bluffton),ID Present,ID Present,ID Present,Pending Launch,In progress
 52e975c3-f2cb-4dcf-b8a2-17f083c1fcde,Eagle Stores,Eagle Stores (Canal Winchester),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -41,21 +40,22 @@ fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Josep
 b22d1fd8-4164-44af-b6aa-837bb3668d87,Circle K (Hollywood 76 Inc),Gas Express Circle K - 1820 Holywood North,ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K (550 Cherokee Parkway),Gas Express Circle K - 550 Cherokee Parkway,ID Present,ID Present,ID Present,Pending Launch,In progress
 ab7c7e6c-b417-4e11-8caf-362460ec7340,Washington Lilos Inc,Gev's Express,ID Present,Missing,ID Present,Pending Launch,In progress
-9ed282a3-b949-4fc1-b6b9-43bd0f6bbd51,Hunt Brothers,Hunt Brothers (Smileys Express 5),b6b23a6e-eef2-5845-8e31-0199ebb51d77,,,Pending Launch,In progress
-300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),b47d9b2a-a709-5915-ae2e-23375ad05558,,12808248,Pending Launch,In progress
-a28741ac-8bd6-4ab6-a1b5-ae69e3a780e5,Minuteman Food Mart,Minuteman Food Mart - 3119,2bb3d0c5-e242-5402-8bad-0d4af853330f,,12806512,Pending Launch,In progress
-76a79dab-ad17-42d4-a2d0-6b7d0a8d72cd,Minuteman Food Mart,Minuteman Food Mart - 3132,74acc3fc-6d49-5117-a4cc-dbbfe5947098,,12781936,Pending Launch,In progress
-e196b9ce-fcee-4590-b611-1aa11c89f91d,Minuteman Food Mart,Minuteman Food Mart - 3157,4080e839-c7bb-593a-822d-befa9fd3ec73,,12808232,Pending Launch,In progress
-a0972418-76be-45b6-8083-c96b316a0822,Minuteman Food Mart,Minuteman Food Mart - 3161,83dd259c-e44c-5fc1-9a6f-ece189bb9371,,12806632,Pending Launch,In progress
-8d8304f1-06b9-4e72-beb7-459c838f2de2,Minuteman Food Mart,Minuteman Food Mart - 3163,20aebfa5-b6ba-5e6c-a63e-9495f7cc0d29,,12806624,Pending Launch,In progress
-b26e2941-957b-4451-8a4c-66dd496ddcf2,K AT BRAND INC,Nobles Roman at Shell Circle K,9a917780-2a7f-57a0-9ccb-df40ad56efe5,,12786904,Pending Launch,In progress
-bfeb9341-94f9-4e62-8d27-e7e1737e7679,Quick Track - LaMa,Quick Track - LaMa #101,867df778-961e-577d-8177-d86d41fad1c5,,ID Present,Pending Launch,In progress
-e91bbf90-839c-44d1-98de-aff3627ccee4,Quick Track - LaMa,Quick Track - LaMa #106,4aaca8f9-c85a-5388-9207-93b1555aa7a2,,ID Present,Pending Launch,In progress
-a494ae61-631f-461f-a0bd-ab9f8404d2b6,Quick Track - LaMa,Quick Track - LaMa #18,c2b219cd-5b06-5718-a3a0-2e045432c4af,,ID Present,Pending Launch,In progress
-3d36b5eb-a1ad-44ec-985c-44d63df7ceb2,Quick Track - LaMa,Quick Track - LaMa #29,394854dd-9836-53c9-9893-fd73327f443f,,ID Present,Pending Launch,In progress
-f39c3788-05e3-4212-a679-6ddf2c34c4a9,Quick Track - LaMa,Quick Track - LaMa #73,ccb8e8c5-d68e-5b40-b777-201ff530d054,,ID Present,Pending Launch,In progress
-c2da8c64-4a99-4432-893c-e64d7b93a436,Quick Track - LaMa,Quick Track - LaMa #77,aa4688e6-af4e-5389-a8ca-ad3e4495e60b,,ID Present,Pending Launch,In progress
-dfdd096c-d274-4bf7-bc44-0df39d083097,Quick Track - LaMa,Quick Track - LaMa #83,9ab68b7f-d466-58e8-9ec1-58b6ccc49bd9,,ID Present,Pending Launch,In progress
+9ed282a3-b949-4fc1-b6b9-43bd0f6bbd51,Hunt Brothers,Hunt Brothers (Smileys Express 5),ID Present,,,Pending Launch,In progress
+300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),ID Present,,ID Present,Pending Launch,In progress
+10bbc68d-41a5-4f2c-ad97-d994114078c7,PHR Starke LLC,Kangaroo Express 2658014,Missing,Missing,Missing,Pending Launch,In progress
+a28741ac-8bd6-4ab6-a1b5-ae69e3a780e5,Minuteman Food Mart,Minuteman Food Mart - 3119,ID Present,,ID Present,Pending Launch,In progress
+76a79dab-ad17-42d4-a2d0-6b7d0a8d72cd,Minuteman Food Mart,Minuteman Food Mart - 3132,ID Present,,ID Present,Pending Launch,In progress
+e196b9ce-fcee-4590-b611-1aa11c89f91d,Minuteman Food Mart,Minuteman Food Mart - 3157,ID Present,,ID Present,Pending Launch,In progress
+a0972418-76be-45b6-8083-c96b316a0822,Minuteman Food Mart,Minuteman Food Mart - 3161,ID Present,,ID Present,Pending Launch,In progress
+8d8304f1-06b9-4e72-beb7-459c838f2de2,Minuteman Food Mart,Minuteman Food Mart - 3163,ID Present,,ID Present,Pending Launch,In progress
+b26e2941-957b-4451-8a4c-66dd496ddcf2,K AT BRAND INC,Nobles Roman at Shell Circle K,ID Present,,ID Present,Pending Launch,In progress
+bfeb9341-94f9-4e62-8d27-e7e1737e7679,Quick Track - LaMa,Quick Track - LaMa #101,ID Present,,ID Present,Pending Launch,In progress
+e91bbf90-839c-44d1-98de-aff3627ccee4,Quick Track - LaMa,Quick Track - LaMa #106,ID Present,,ID Present,Pending Launch,In progress
+a494ae61-631f-461f-a0bd-ab9f8404d2b6,Quick Track - LaMa,Quick Track - LaMa #18,ID Present,,ID Present,Pending Launch,In progress
+3d36b5eb-a1ad-44ec-985c-44d63df7ceb2,Quick Track - LaMa,Quick Track - LaMa #29,ID Present,,ID Present,Pending Launch,In progress
+f39c3788-05e3-4212-a679-6ddf2c34c4a9,Quick Track - LaMa,Quick Track - LaMa #73,ID Present,,ID Present,Pending Launch,In progress
+c2da8c64-4a99-4432-893c-e64d7b93a436,Quick Track - LaMa,Quick Track - LaMa #77,ID Present,,ID Present,Pending Launch,In progress
+dfdd096c-d274-4bf7-bc44-0df39d083097,Quick Track - LaMa,Quick Track - LaMa #83,ID Present,,ID Present,Pending Launch,In progress
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
 387021fc-410c-4601-ac78-4a93c5e86a44,Rocket,Rocket #6101,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -65,11 +65,8 @@ c3b3c712-a947-4156-bff7-08727cdcad6b,Star Stop,Star Stop 110,ID Present,ID Prese
 25ddcd58-7d0b-4ce5-9d65-b9d1307a2587,Star Stop,Star Stop 138,ID Present,ID Present,ID Present,Pending Launch,In progress
 9e5ef2ce-b582-4832-b9b9-07130294ff31,Swiss Farms,Swiss Farms - Brookhaven,ID Present,ID Present,ID Present,Pending Launch,In progress
 fcaf2e06-f66d-43ec-a939-dc1b6f6d2287,Yazzy's Market,Yazzy's Market Inc - 1 Archie Bordeau Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
-af634c3b-8ada-4625-b366-3af90b63fada,Yazzy's Market,Yazzy's Market Inc - 109 South Main st,ID Present,ID Present,ID Present,Pending Launch,In progress
 8fda6f57-9ffe-4acc-913c-881e228bcb07,Yazzy's Market,Yazzy's Market Inc - 125 Mill st,ID Present,ID Present,ID Present,Pending Launch,In progress
 8bd30cd8-2240-41c7-8a2b-97312861991d,Yazzy's Market,Yazzy's Market Inc - 317 Delaware Ave,ID Present,ID Present,ID Present,Pending Launch,In progress
 9ece2f00-a1e3-45d6-bcf6-a7a4ba2ef2b1,Yazzy's Market,Yazzy's Market Inc - 540 W State st,ID Present,ID Present,ID Present,Pending Launch,In progress
 b5345ae7-0a6c-486c-990e-ff46473fc39f,Yazzy's Market,Yazzy's Market Inc - 558 Hoosick rd,ID Present,ID Present,ID Present,Pending Launch,In progress
 75e1b7a9-f2d9-474c-a062-d1cb69833630,Yazzy's Market,Yazzy's Market Inc - 560 Hoosick Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
-49fa8d0c-8333-42ca-bd8e-62e4ac9b2a15,Yazzy's Market,Yazzy's Market Inc - 5790 Route 209,ID Present,ID Present,ID Present,Pending Launch,In progress
-e22070cf-a769-40fe-a030-3f2c76dae65e,Yazzy's Market,Yazzy's Market Inc - 6337 Route 209,ID Present,ID Present,ID Present,Pending Launch,In progress
