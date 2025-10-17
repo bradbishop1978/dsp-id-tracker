@@ -1,5 +1,5 @@
 store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,pipeline_stage,onboarding_status
-d6f5945f-5446-4c02-bd51-386f0892f4ab,Ami LLC,Ami LLC (3671 Orchard Rd),470c7215-1e23-592c-bcb4-f007eafa925f,,,Pending Launch,In progress
+d6f5945f-5446-4c02-bd51-386f0892f4ab,Ami LLC,Ami LLC (3671 Orchard Rd),470c7215-1e23-592c-bcb4-f007eafa925f,,12809688,Pending Launch,In progress
 94ecf2fc-bdcb-429f-91d3-3a58fea39b3a,Jacksons Food Stores,Aztec Grill/Redwood Market #277,ID Present,ID Present,ID Present,Pending Launch,In progress
 453eac94-8c4d-4943-a63e-92a184bb9fb6,Jacksons Food Stores,Aztec Grill/Redwood Market #279,ID Present,ID Present,ID Present,Pending Launch,In progress
 2802759a-1730-4dd7-bb89-b61efba1443c,Jacksons Food Stores,Aztec Grill/Redwood Market #280,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -16,7 +16,7 @@ d4023c58-15de-4f71-aceb-1ba2029da218,Jacksons Food Stores,Aztec Grill/Redwood Ma
 de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 a443011c-00f4-483f-9aa3-8438985d7682,"Soni 2, Inc. (Circle K #2652073)",Circle K - 1021 Orange Ave,b141e170-cc56-57a1-b569-f177819cc871,,,Pending Launch,In progress
-b1a386c5-a02c-4d7b-9424-e49a059fda16,Opal Businesses LLC,Circle K - 119 SW Cashmere Blvd,5c869353-68cd-53cb-9f22-d677f9985042,,,Pending Launch,In progress
+b1a386c5-a02c-4d7b-9424-e49a059fda16,Opal Businesses LLC,Circle K - 119 SW Cashmere Blvd,5c869353-68cd-53cb-9f22-d677f9985042,,12811456,Pending Launch,In progress
 236bd56b-9039-46a7-9f29-c42dca3c4127,Rt 522 Convenience DBA Circle K,Circle K - 1490 N Frederick Pike,9799c8a3-ceaa-5e4e-ba1b-2d69aa56fca5,,12809760,Pending Launch,In progress
 4aa19230-9ef7-4437-8212-843fa09d1c25,M&K Petro LLC,Circle K - 19570 Temescal Canyon,e93b5313-2b80-5ae1-87e2-a2eede42ae43,,ID Present,Pending Launch,In progress
 a167f7f8-f7c6-4202-a9c3-8d7f220f9622,I & R Interprises,Circle K - 68258 Ramond Rd,2c4c6651-ac39-53f1-8d4f-41e427954c14,,,Pending Launch,In progress
@@ -24,7 +24,7 @@ a167f7f8-f7c6-4202-a9c3-8d7f220f9622,I & R Interprises,Circle K - 68258 Ramond R
 54893dab-b498-4b96-a691-09530c3e0be9,Circle K (Bressi Ranch Fuel Mart LLC),Circle K - Bressi Ranch Fuel Mart,ID Present,ID Present,ID Present,Pending Launch,In progress
 8b0b00ad-197e-4e6e-af5d-a80d6ca44e06,Circle K (Shahid LLC),Circle K - Conrad Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
 f7440381-ddc5-4cc6-b84c-88c9a96cd0f6,Deva 2016 LLC,Circle K - Deva 2016,22aeedc6-36b3-554e-9bbc-2715a047444b,,,Pending Launch,In progress
-ae594728-39f7-4b59-82af-67a153934fdf,Hari Ohm Corporation,Circle K - Kearneysville,2f8f5442-89d7-57bc-9247-8425e6e47a95,,,Pending Launch,In progress
+ae594728-39f7-4b59-82af-67a153934fdf,Hari Ohm Corporation,Circle K - Kearneysville,2f8f5442-89d7-57bc-9247-8425e6e47a95,,12809768,Pending Launch,In progress
 717a9f24-cac4-4a33-b201-71c309bd8a37,Gurkirpa Enterprises Inc,Circle K - Pyrite Shell,0758c33c-e28f-5b39-b3bf-a5f6a9585772,,ID Present,Pending Launch,In progress
 447068a9-51bf-49ea-ae2d-f011bc6b2505,Cottonwood Enterprises Inc,Circle K - Rhonda Rd,8f39b230-4182-55b2-be10-10c86f904c97,,ID Present,Pending Launch,In progress
 163f7c5f-8907-49ae-9a75-7ac705168070,Circle K (Shahid LLC),Circle K - Sandra Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -45,7 +45,7 @@ ab7c7e6c-b417-4e11-8caf-362460ec7340,Washington Lilos Inc,Gev's Express,ID Prese
 300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),b47d9b2a-a709-5915-ae2e-23375ad05558,,12808248,Pending Launch,In progress
 a28741ac-8bd6-4ab6-a1b5-ae69e3a780e5,Minuteman Food Mart,Minuteman Food Mart - 3119,2bb3d0c5-e242-5402-8bad-0d4af853330f,,12806512,Pending Launch,In progress
 76a79dab-ad17-42d4-a2d0-6b7d0a8d72cd,Minuteman Food Mart,Minuteman Food Mart - 3132,74acc3fc-6d49-5117-a4cc-dbbfe5947098,,12781936,Pending Launch,In progress
-e196b9ce-fcee-4590-b611-1aa11c89f91d,Minuteman Food Mart,Minuteman Food Mart - 3157,4080e839-c7bb-593a-822d-befa9fd3ec73,,,Pending Launch,In progress
+e196b9ce-fcee-4590-b611-1aa11c89f91d,Minuteman Food Mart,Minuteman Food Mart - 3157,4080e839-c7bb-593a-822d-befa9fd3ec73,,12808232,Pending Launch,In progress
 a0972418-76be-45b6-8083-c96b316a0822,Minuteman Food Mart,Minuteman Food Mart - 3161,83dd259c-e44c-5fc1-9a6f-ece189bb9371,,12806632,Pending Launch,In progress
 8d8304f1-06b9-4e72-beb7-459c838f2de2,Minuteman Food Mart,Minuteman Food Mart - 3163,20aebfa5-b6ba-5e6c-a63e-9495f7cc0d29,,12806624,Pending Launch,In progress
 b26e2941-957b-4451-8a4c-66dd496ddcf2,K AT BRAND INC,Nobles Roman at Shell Circle K,9a917780-2a7f-57a0-9ccb-df40ad56efe5,,12786904,Pending Launch,In progress
