@@ -13,6 +13,7 @@ d4023c58-15de-4f71-aceb-1ba2029da218,Jacksons Food Stores,Aztec Grill/Redwood Ma
 6414b368-5c3c-408d-a5f5-6ad960624b27,Jacksons Food Stores,Aztec Grill/Redwood Market #295,ID Present,ID Present,ID Present,Pending Launch,In progress
 3c05991c-4276-4648-adf9-992c71253126,Chicken King,Chicken King (3177 16th St),ID Present,ID Present,ID Present,Pending Launch,In progress
 4799e460-27c9-48b2-a71d-47deada89eca,Chicken King,Chicken King (Harbour Way Deli),ID Present,ID Present,ID Present,Pending Launch,In progress
+564d38ef-f666-499f-94fb-99de96b22713,AVCK Inc,Circle K (20920 Bear Valley),Missing,Missing,Missing,Pending Launch,In progress
 de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 a443011c-00f4-483f-9aa3-8438985d7682,"Soni 2, Inc. (Circle K #2652073)",Circle K - 1021 Orange Ave,ID Present,,,Pending Launch,In progress
@@ -21,7 +22,6 @@ b1a386c5-a02c-4d7b-9424-e49a059fda16,Opal Businesses LLC,Circle K - 119 SW Cashm
 4aa19230-9ef7-4437-8212-843fa09d1c25,M&K Petro LLC,Circle K - 19570 Temescal Canyon,ID Present,,ID Present,Pending Launch,In progress
 a167f7f8-f7c6-4202-a9c3-8d7f220f9622,I & R Interprises,Circle K - 68258 Ramond Rd,ID Present,,,Pending Launch,In progress
 9cb280a6-c99d-4f05-bd8a-2c5931f7d763,M&K Petro LLC,Circle K - 6908 Indiana Avenue,ID Present,,ID Present,Pending Launch,In progress
-54893dab-b498-4b96-a691-09530c3e0be9,Circle K (Bressi Ranch Fuel Mart LLC),Circle K - Bressi Ranch Fuel Mart,ID Present,ID Present,ID Present,Pending Launch,In progress
 8b0b00ad-197e-4e6e-af5d-a80d6ca44e06,Circle K (Shahid LLC),Circle K - Conrad Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
 f7440381-ddc5-4cc6-b84c-88c9a96cd0f6,Deva 2016 LLC,Circle K - Deva 2016,ID Present,,,Pending Launch,In progress
 ae594728-39f7-4b59-82af-67a153934fdf,Hari Ohm Corporation,Circle K - Kearneysville,ID Present,,ID Present,Pending Launch,In progress
@@ -37,6 +37,7 @@ e22f8c5a-a8aa-4f19-9fee-45bb97047d11,Clipper Petroleum,Clipper Petroleum #73,ID 
 d182cbeb-b40e-4e5c-8f15-7fc3dd3ca9cc,Eagle Stores,Eagle Stores (Lakeview),ID Present,ID Present,ID Present,Pending Launch,In progress
 b2755fed-32c2-4158-a08e-b9d2a256ccd5,RK GAS AND FOOD INC,Gas Express #123,ID Present,ID Present,ID Present,Pending Launch,In progress
 fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Joseph E. Lowery Blvd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
+58d365c2-507f-4857-a81b-2950340a6c59,Circle K Gas Express,Gas Express (Texaco Gas Station),Missing,Missing,Missing,Pending Launch,In progress
 b22d1fd8-4164-44af-b6aa-837bb3668d87,Circle K (Hollywood 76 Inc),Gas Express Circle K - 1820 Holywood North,ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K (550 Cherokee Parkway),Gas Express Circle K - 550 Cherokee Parkway,ID Present,ID Present,ID Present,Pending Launch,In progress
 ab7c7e6c-b417-4e11-8caf-362460ec7340,Washington Lilos Inc,Gev's Express,ID Present,Missing,ID Present,Pending Launch,In progress
@@ -58,6 +59,17 @@ c2da8c64-4a99-4432-893c-e64d7b93a436,Quick Track - LaMa,Quick Track - LaMa #77,I
 dfdd096c-d274-4bf7-bc44-0df39d083097,Quick Track - LaMa,Quick Track - LaMa #83,ID Present,,ID Present,Pending Launch,In progress
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
+1509a567-1c10-4016-9d07-b21d0d977166,Ridgeway Petroleum,Ridgeway 1,Missing,Missing,Missing,Pending Launch,In progress
+1595300e-d707-4d4a-add3-660e595d5d72,Ridgeway Petroleum,Ridgeway 10,Missing,Missing,Missing,Pending Launch,In progress
+a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Ridgeway 11,Missing,Missing,Missing,Pending Launch,In progress
+d3a17722-287c-4310-bd4b-a547329dab50,Ridgeway Petroleum,Ridgeway 2,Missing,Missing,Missing,Pending Launch,In progress
+945f4af2-d763-4539-9bc1-ba84f3733741,Ridgeway Petroleum,Ridgeway 3,Missing,Missing,Missing,Pending Launch,In progress
+b518275f-1ddb-4a6b-8a71-f09ff0a55e39,Ridgeway Petroleum,Ridgeway 4,Missing,Missing,Missing,Pending Launch,In progress
+9142c941-4b7f-4ad3-a00d-e02eada40f98,Ridgeway Petroleum,Ridgeway 5,Missing,Missing,Missing,Pending Launch,In progress
+26db39f8-f19b-4b81-b506-e35737c5774d,Ridgeway Petroleum,Ridgeway 6,Missing,Missing,Missing,Pending Launch,In progress
+279bc45b-5abd-4e60-a15f-4b253f747f35,Ridgeway Petroleum,Ridgeway 7,Missing,Missing,Missing,Pending Launch,In progress
+83fe3602-e5c0-42ef-a18b-bee91bb5304f,Ridgeway Petroleum,Ridgeway 8,Missing,Missing,Missing,Pending Launch,In progress
+e84f4db6-324c-4154-b18b-d3e1748d9367,Ridgeway Petroleum,Ridgeway 9,Missing,Missing,Missing,Pending Launch,In progress
 387021fc-410c-4601-ac78-4a93c5e86a44,Rocket,Rocket #6101,ID Present,ID Present,ID Present,Pending Launch,In progress
 dc64c926-eb7d-4f51-ae11-98f66b2e9844,Rocket,Rocket #6342,ID Present,ID Present,ID Present,Pending Launch,In progress
 ce40c304-f695-433e-87f9-ec9e4d48cffd,Star Stop,Star Stop 108,ID Present,ID Present,ID Present,Pending Launch,In progress
