@@ -13,7 +13,7 @@ d4023c58-15de-4f71-aceb-1ba2029da218,Jacksons Food Stores,Aztec Grill/Redwood Ma
 6414b368-5c3c-408d-a5f5-6ad960624b27,Jacksons Food Stores,Aztec Grill/Redwood Market #295,ID Present,ID Present,ID Present,Pending Launch,In progress
 3c05991c-4276-4648-adf9-992c71253126,Chicken King,Chicken King (3177 16th St),ID Present,ID Present,ID Present,Pending Launch,In progress
 4799e460-27c9-48b2-a71d-47deada89eca,Chicken King,Chicken King (Harbour Way Deli),ID Present,ID Present,ID Present,Pending Launch,In progress
-564d38ef-f666-499f-94fb-99de96b22713,AVCK Inc,Circle K (20920 Bear Valley),,,,Pending Launch,In progress
+564d38ef-f666-499f-94fb-99de96b22713,AVCK Inc,Circle K (20920 Bear Valley),,,12928624,Pending Launch,In progress
 de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 a443011c-00f4-483f-9aa3-8438985d7682,"Soni 2, Inc. (Circle K #2652073)",Circle K - 1021 Orange Ave,ID Present,,12861568,Pending Launch,In progress
@@ -37,24 +37,24 @@ e22f8c5a-a8aa-4f19-9fee-45bb97047d11,Clipper Petroleum,Clipper Petroleum #73,ID 
 d182cbeb-b40e-4e5c-8f15-7fc3dd3ca9cc,Eagle Stores,Eagle Stores (Lakeview),ID Present,ID Present,ID Present,Pending Launch,In progress
 b2755fed-32c2-4158-a08e-b9d2a256ccd5,RK GAS AND FOOD INC,Gas Express #123,ID Present,ID Present,ID Present,Pending Launch,In progress
 fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Joseph E. Lowery Blvd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
-58d365c2-507f-4857-a81b-2950340a6c59,Circle K Gas Express,Gas Express (Texaco Gas Station),,,,Pending Launch,In progress
+58d365c2-507f-4857-a81b-2950340a6c59,Circle K Gas Express,Gas Express (Texaco Gas Station),,,12928616,Pending Launch,In progress
 b22d1fd8-4164-44af-b6aa-837bb3668d87,Circle K (Hollywood 76 Inc),Gas Express Circle K - 1820 Holywood North,ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K (550 Cherokee Parkway),Gas Express Circle K - 550 Cherokee Parkway,ID Present,ID Present,ID Present,Pending Launch,In progress
 ab7c7e6c-b417-4e11-8caf-362460ec7340,Washington Lilos Inc,Gev's Express,ID Present,Missing,ID Present,Pending Launch,In progress
 9ed282a3-b949-4fc1-b6b9-43bd0f6bbd51,Hunt Brothers,Hunt Brothers (Smileys Express 5),ID Present,,12861560,Pending Launch,In progress
 300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),ID Present,,ID Present,Pending Launch,In progress
 10bbc68d-41a5-4f2c-ad97-d994114078c7,PHR Starke LLC,Kangaroo Express 2658014,,,12869120,Pending Launch,In progress
-e84f4db6-324c-4154-b18b-d3e1748d9367,Ridgeway Petroleum,Mastodon Kitchen (121 W Laraway Road),,,,Pending Launch,In progress
-1595300e-d707-4d4a-add3-660e595d5d72,Ridgeway Petroleum,Mastodon Kitchen (15725 W 101st Avenue),,,,Pending Launch,In progress
-a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W. Coal City Road),,,,Pending Launch,In progress
-9142c941-4b7f-4ad3-a00d-e02eada40f98,Ridgeway Petroleum,Mastodon Market (10 45th St.),,,,Pending Launch,In progress
-83fe3602-e5c0-42ef-a18b-bee91bb5304f,Ridgeway Petroleum,Mastodon Market (11200 183rd Place),,,,Pending Launch,In progress
-1509a567-1c10-4016-9d07-b21d0d977166,Ridgeway Petroleum,Mastodon Market (1440 Indianapolis Blvd.),,,,Pending Launch,In progress
-b518275f-1ddb-4a6b-8a71-f09ff0a55e39,Ridgeway Petroleum,Mastodon Market (21 Gostlin),,,,Pending Launch,In progress
-945f4af2-d763-4539-9bc1-ba84f3733741,Ridgeway Petroleum,Mastodon Market (260 165th St.),,,,Pending Launch,In progress
-279bc45b-5abd-4e60-a15f-4b253f747f35,Ridgeway Petroleum,Mastodon Market (2735 Main St.),,,,Pending Launch,In progress
-26db39f8-f19b-4b81-b506-e35737c5774d,Ridgeway Petroleum,Mastodon Market (501 Joliet St.),,,,Pending Launch,In progress
-d3a17722-287c-4310-bd4b-a547329dab50,Ridgeway Petroleum,Mastodon Market (5631 Hohman Ave.),,,,Pending Launch,In progress
+e84f4db6-324c-4154-b18b-d3e1748d9367,Ridgeway Petroleum,Mastodon Kitchen (121 W Laraway Road),,,12935136,Pending Launch,In progress
+1595300e-d707-4d4a-add3-660e595d5d72,Ridgeway Petroleum,Mastodon Kitchen (15725 W 101st Avenue),,,12930432,Pending Launch,In progress
+a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W. Coal City Road),,,12935128,Pending Launch,In progress
+9142c941-4b7f-4ad3-a00d-e02eada40f98,Ridgeway Petroleum,Mastodon Market (10 45th St.),,,12930456,Pending Launch,In progress
+83fe3602-e5c0-42ef-a18b-bee91bb5304f,Ridgeway Petroleum,Mastodon Market (11200 183rd Place),,,12930440,Pending Launch,In progress
+1509a567-1c10-4016-9d07-b21d0d977166,Ridgeway Petroleum,Mastodon Market (1440 Indianapolis Blvd.),,,12928640,Pending Launch,In progress
+b518275f-1ddb-4a6b-8a71-f09ff0a55e39,Ridgeway Petroleum,Mastodon Market (21 Gostlin),,,12928632,Pending Launch,In progress
+945f4af2-d763-4539-9bc1-ba84f3733741,Ridgeway Petroleum,Mastodon Market (260 165th St.),,,12935144,Pending Launch,In progress
+279bc45b-5abd-4e60-a15f-4b253f747f35,Ridgeway Petroleum,Mastodon Market (2735 Main St.),,,12933472,Pending Launch,In progress
+26db39f8-f19b-4b81-b506-e35737c5774d,Ridgeway Petroleum,Mastodon Market (501 Joliet St.),,,12930448,Pending Launch,In progress
+d3a17722-287c-4310-bd4b-a547329dab50,Ridgeway Petroleum,Mastodon Market (5631 Hohman Ave.),,,12935152,Pending Launch,In progress
 a28741ac-8bd6-4ab6-a1b5-ae69e3a780e5,Minuteman Food Mart,Minuteman Food Mart - 3119,ID Present,,ID Present,Pending Launch,In progress
 76a79dab-ad17-42d4-a2d0-6b7d0a8d72cd,Minuteman Food Mart,Minuteman Food Mart - 3132,ID Present,,ID Present,Pending Launch,In progress
 e196b9ce-fcee-4590-b611-1aa11c89f91d,Minuteman Food Mart,Minuteman Food Mart - 3157,ID Present,,ID Present,Pending Launch,In progress
