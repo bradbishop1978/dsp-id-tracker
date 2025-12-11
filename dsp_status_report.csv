@@ -11,7 +11,6 @@ bc9f2a39-fb53-4361-8195-bc3543df3a1a,Jacksons Food Stores,Aztec Grill/Redwood Ma
 d4023c58-15de-4f71-aceb-1ba2029da218,Jacksons Food Stores,Aztec Grill/Redwood Market #292,ID Present,ID Present,ID Present,Pending Launch,In progress
 425865ab-cc52-4e75-9978-35f8a610583e,Jacksons Food Stores,Aztec Grill/Redwood Market #293,ID Present,ID Present,ID Present,Pending Launch,In progress
 6414b368-5c3c-408d-a5f5-6ad960624b27,Jacksons Food Stores,Aztec Grill/Redwood Market #295,ID Present,ID Present,ID Present,Pending Launch,In progress
-64f3e988-fcee-4ca5-92be-d8d5be853196,Fast Track,BR92 Oil Corp,,,,Pending Launch,In progress
 dcb583a0-65ef-4c10-847f-86ccba9ee4ed,Break Time,Break Time (100 E Hwy 40),,,,Pending Launch,In progress
 effffd3c-734c-4432-87a6-6d79c7a68583,Break Time,Break Time (1000 Smiley Ln),,,13261360,Pending Launch,In progress
 6a2e6a7f-bc7f-4e13-807c-97ace0d686b7,Break Time,Break Time (1000 W College St),,,,Pending Launch,In progress
@@ -76,7 +75,6 @@ d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,,,13310912,P
 ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,,,13317272,Pending Launch,In progress
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
 e22f8c5a-a8aa-4f19-9fee-45bb97047d11,Clipper Petroleum,Clipper Petroleum #73,ID Present,ID Present,ID Present,Pending Launch,In progress
-69832ea9-2cf9-4320-9eae-8002937cbd76,Fast Track,College View Oil Corp,,,,Pending Launch,In progress
 7a0feecf-b7a4-4b8b-b71a-8837c1d9a1b1,EZ Market,EZ Market (120 Piedmont Ave),a637d4f4-78ce-5225-b4d6-65dbf1f2ba0b,,ID Present,Pending Launch,In progress
 697c223d-2206-424a-b10b-b47c11f80db8,EZ Market,EZ Market (1209 Collier Rd NW),1101808f-77ae-53a8-9e83-14e54418cb95,,ID Present,Pending Launch,In progress
 d898c8b1-7b53-4053-95e4-227933a113ac,EZ Market,EZ Market (1222 West Marietta St NW),94493074-9c75-5ac8-8074-612ee5d26052,,ID Present,Pending Launch,In progress
@@ -102,7 +100,19 @@ c8d7acdc-bb86-488c-b51b-fddf824819da,EZ Market,EZ Market (9595 Main St),fefe7636
 348dc6a8-b480-4e51-995d-f7d8640fb5fe,Eagle Stores,Eagle Stores (Bluffton),ID Present,ID Present,ID Present,Pending Launch,In progress
 52e975c3-f2cb-4dcf-b8a2-17f083c1fcde,Eagle Stores,Eagle Stores (Canal Winchester),ID Present,ID Present,ID Present,Pending Launch,In progress
 d182cbeb-b40e-4e5c-8f15-7fc3dd3ca9cc,Eagle Stores,Eagle Stores (Lakeview),ID Present,ID Present,ID Present,Pending Launch,In progress
-9644ce1f-201c-488f-97ca-2f00c91da331,Fast Track,Etna Oil Inc,,,,Pending Launch,In progress
+9644ce1f-201c-488f-97ca-2f00c91da331,Fast Track,Fast Track (10 Commercial St),,,,Pending Launch,In progress
+64f3e988-fcee-4ca5-92be-d8d5be853196,Fast Track,Fast Track (101 Lake Blvd),,,,Pending Launch,In progress
+f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,Fast Track (1120 Churn Creek Rd),,,,Pending Launch,In progress
+f2f4352e-b590-413f-a32d-9a29a01e3caf,Fast Track,Fast Track (14361 Holiday Rd),,,,Pending Launch,In progress
+41ede769-19d9-4a71-88f7-ef374a7cc84c,Fast Track,Fast Track (14385 Wonderland Blvd),,,,Pending Launch,In progress
+f63d8d4d-7f13-43dd-ae92-421cf740d7cf,Fast Track,Fast Track (1801 Park Marina Dr),,,,Pending Launch,In progress
+69832ea9-2cf9-4320-9eae-8002937cbd76,Fast Track,Fast Track (19973 College View Dr),,,,Pending Launch,In progress
+1b2cf86c-96f3-41f7-b3bd-3e309b302264,Fast Track,Fast Track (250 E Webb St),,,,Pending Launch,In progress
+392f92c4-63e8-47a9-bf86-7276a442fe91,Fast Track,Fast Track (2604 Hilltop Dr),,,,Pending Launch,In progress
+810f1cd7-ae03-4978-a649-c2959d3bf91f,Fast Track,Fast Track (338 County Highway A12),,,,Pending Launch,In progress
+774e966f-d505-4e91-a418-6a9b863fb2e0,Fast Track,Fast Track (411 W Lake St),,,,Pending Launch,In progress
+8e2fd3fd-70f3-4933-84c9-6f45416e0d68,Fast Track,Fast Track (4746 Churn Creek Rd),,,,Pending Launch,In progress
+618170e0-3ccd-42a6-b33a-2edc406f40bf,Fast Track,Fast Track (9539 Old Oregon Trail),,,,Pending Launch,In progress
 2388d877-f6fc-4570-aa16-7c866d9b29df,Circle K Gas Express,Gas Express (1880 OLD 41) - DUP,55f7e08c-5f60-56d6-a61f-b9e5b70f9a9f,ID Present,ID Present,Pending Launch,In progress
 b2755fed-32c2-4158-a08e-b9d2a256ccd5,Circle K Gas Express,Gas Express (1880 Old 41),ID Present,ID Present,ID Present,Pending Launch,In progress
 fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Joseph E. Lowery Blvd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -110,22 +120,19 @@ fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Josep
 0ff5db55-5e56-4ef9-8251-2253e88d110b,Circle K Gas Express,Gas Express (Texaco Gas Station),c0424ae1-bd67-5ffe-ac2f-d0b1a4c85982,ID Present,ID Present,Pending Launch,In progress
 b22d1fd8-4164-44af-b6aa-837bb3668d87,Circle K (Hollywood 76 Inc),Gas Express Circle K - 1820 Holywood North,ID Present,ID Present,ID Present,Pending Launch,In progress
 ab7c7e6c-b417-4e11-8caf-362460ec7340,Washington Lilos Inc,Gev's Express,ID Present,Missing,ID Present,Pending Launch,In progress
-392f92c4-63e8-47a9-bf86-7276a442fe91,Fast Track,Gill Oil Corp,,,,Pending Launch,In progress
-ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),88b42257-b549-5c09-9fac-e95a659ae84f,ID Present,13262832,Pending Launch,In progress
-6ff4079f-a209-4c09-b4e0-207aa4ee0f0d,Gogo Stores,Gogo (Calhoun & Taber St),67029bf1-a85f-599c-a14f-14fb7689b175,ID Present,13264576,Pending Launch,In progress
+ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),ID Present,ID Present,13262832,Pending Launch,In progress
+6ff4079f-a209-4c09-b4e0-207aa4ee0f0d,Gogo Stores,Gogo (Calhoun & Taber St),ID Present,ID Present,13264576,Pending Launch,In progress
 0ed845f7-fd68-4e16-a448-d076e95ab72a,Gogo Stores,Gogo (Coldwater rd & Washington Center),ID Present,ID Present,13264600,Pending Launch,In progress
-4e1e400e-a227-4a1c-b8cf-f4cc28bb7802,Gogo Stores,Gogo (Hanna & Lewis),e10d122d-997c-583a-9fd2-a4f1f5309891,ID Present,13262824,Pending Launch,In progress
-918e18ab-f03a-42e5-accb-60be99bd7575,Gogo Stores,Gogo (Hessen Cassel),cafc9172-c9d8-58fe-84c9-06de99fd9eb1,ID Present,13256616,Pending Launch,In progress
-e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),0d23c088-b1d6-5394-b132-0b2956429b42,ID Present,13259688,Pending Launch,In progress
-0c3e55a0-14e0-4685-8fe9-1f8ed79b360d,Gogo Stores,Gogo (Lake & Anthony),352f112b-d518-5411-be97-c7104231ae3e,ID Present,13264592,Pending Launch,In progress
+4e1e400e-a227-4a1c-b8cf-f4cc28bb7802,Gogo Stores,Gogo (Hanna & Lewis),ID Present,ID Present,13262824,Pending Launch,In progress
+918e18ab-f03a-42e5-accb-60be99bd7575,Gogo Stores,Gogo (Hessen Cassel),ID Present,ID Present,13256616,Pending Launch,In progress
+e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,ID Present,13259688,Pending Launch,In progress
+0c3e55a0-14e0-4685-8fe9-1f8ed79b360d,Gogo Stores,Gogo (Lake & Anthony),ID Present,ID Present,13264592,Pending Launch,In progress
 c40c4a3f-cbd8-4eba-b01c-9757f90b7352,Gogo Stores,Gogo (Lincoln Hwy),ID Present,ID Present,13258096,Pending Launch,In progress
-3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),40d6ee4e-4d50-527c-84e9-de3a22fabef4,ID Present,13264584,Pending Launch,In progress
-810f1cd7-ae03-4978-a649-c2959d3bf91f,Fast Track,Grenada Oil Inc,,,,Pending Launch,In progress
+3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,13264584,Pending Launch,In progress
 fc660e1d-c836-4ddf-8142-926ca93cfed0,Hunt Brothers,Hunt Brothers (AARIV LLC),,,13261352,Pending Launch,In progress
 72973cee-a47d-4769-b54b-0153c1e4172e,Hunt Brothers,"Hunt Brothers (Delta 110, LLC)",b0131b63-ba90-5620-b9ae-96a2835abf0c,ID Present,ID Present,Pending Launch,In progress
 75ef355e-752a-4624-9822-1381cf00ba84,Hunt Brothers,Hunt Brothers (LMR Oil Fuel Mart),ID Present,ID Present,ID Present,Pending Launch,In progress
 9ed282a3-b949-4fc1-b6b9-43bd0f6bbd51,Hunt Brothers,Hunt Brothers (Smileys Express 5),ID Present,ID Present,ID Present,Pending Launch,In progress
-8e2fd3fd-70f3-4933-84c9-6f45416e0d68,Fast Track,JB Brother Enterprises,,,,Pending Launch,In progress
 9ecef4f3-526b-4d32-99b8-5c4608a8c1d9,Jacksons Food Stores,Jacksons Food Stores #601,370ba4a3-86e6-5eb6-b9fd-636f3cb28cd9,ID Present,ID Present,Pending Launch,In progress
 33b7b8ac-fa57-4b37-97d3-50d1c232d770,Jacksons Food Stores,Jacksons Food Stores #602,531dbb61-c84c-5f51-ac95-c67811e9a5cd,ID Present,ID Present,Pending Launch,In progress
 8537761a-0d94-4657-abeb-59bf0a05d453,Jacksons Food Stores,Jacksons Food Stores #605,af46f385-b899-5826-b054-8869748f0d14,ID Present,ID Present,Pending Launch,In progress
@@ -156,7 +163,6 @@ d2fc5b7d-0dd1-45c6-a10d-f6827fb4fbc7,Jacksons Food Stores,Jacksons Food Stores #
 300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 10bbc68d-41a5-4f2c-ad97-d994114078c7,PHR Starke LLC,Kangaroo Express 2658014,403e60ad-def7-5fc3-b9d3-ab97a48b7bb5,ID Present,ID Present,Pending Launch,In progress
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,f32bd86f-e0ac-543a-b4ad-41468ec37f7c,,ID Present,Pending Launch,In progress
-f2f4352e-b590-413f-a32d-9a29a01e3caf,Fast Track,MG Noble Oil Inc,,,,Pending Launch,In progress
 e84f4db6-324c-4154-b18b-d3e1748d9367,Ridgeway Petroleum,Mastodon Kitchen (121 W Laraway Road),ID Present,ID Present,ID Present,Pending Launch,In progress
 1595300e-d707-4d4a-add3-660e595d5d72,Ridgeway Petroleum,Mastodon Kitchen (15725 W 101st Avenue),ID Present,ID Present,ID Present,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W. Coal City Road),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -173,10 +179,7 @@ a28741ac-8bd6-4ab6-a1b5-ae69e3a780e5,Minuteman Food Mart,Minuteman Food Mart - 3
 e196b9ce-fcee-4590-b611-1aa11c89f91d,Minuteman Food Mart,Minuteman Food Mart - 3157,ID Present,ID Present,ID Present,Pending Launch,In progress
 a0972418-76be-45b6-8083-c96b316a0822,Minuteman Food Mart,Minuteman Food Mart - 3161,ID Present,ID Present,ID Present,Pending Launch,In progress
 8d8304f1-06b9-4e72-beb7-459c838f2de2,Minuteman Food Mart,Minuteman Food Mart - 3163,ID Present,ID Present,ID Present,Pending Launch,In progress
-1b2cf86c-96f3-41f7-b3bd-3e309b302264,Fast Track,Montague Oil Corp,,,,Pending Launch,In progress
-774e966f-d505-4e91-a418-6a9b863fb2e0,Fast Track,Mt Shasta Oil Inc,,,,Pending Launch,In progress
 b26e2941-957b-4451-8a4c-66dd496ddcf2,K AT BRAND INC,Nobles Roman at Shell Circle K,ID Present,ID Present,ID Present,Pending Launch,In progress
-618170e0-3ccd-42a6-b33a-2edc406f40bf,Fast Track,Oregon Trail Oil Inc,,,,Pending Launch,In progress
 bfeb9341-94f9-4e62-8d27-e7e1737e7679,Quick Track - LaMa,Quick Track - LaMa #101,ID Present,ID Present,ID Present,Pending Launch,In progress
 e91bbf90-839c-44d1-98de-aff3627ccee4,Quick Track - LaMa,Quick Track - LaMa #106,ID Present,ID Present,ID Present,Pending Launch,In progress
 a494ae61-631f-461f-a0bd-ab9f8404d2b6,Quick Track - LaMa,Quick Track - LaMa #18,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -184,9 +187,6 @@ ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
 387021fc-410c-4601-ac78-4a93c5e86a44,Rocket,Rocket #6101,ID Present,ID Present,ID Present,Pending Launch,In progress
 dc64c926-eb7d-4f51-ae11-98f66b2e9844,Rocket,Rocket #6342,ID Present,ID Present,ID Present,Pending Launch,In progress
-f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,Sahib Oil Corp,,,,Pending Launch,In progress
-f63d8d4d-7f13-43dd-ae92-421cf740d7cf,Fast Track,Turtle Bay Oil Corp,,,,Pending Launch,In progress
-41ede769-19d9-4a71-88f7-ef374a7cc84c,Fast Track,Wonderland Oil Inc,,,,Pending Launch,In progress
 fcaf2e06-f66d-43ec-a939-dc1b6f6d2287,Yazzy's Market,Yazzy's Market Inc - 1 Archie Bordeau Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
 8fda6f57-9ffe-4acc-913c-881e228bcb07,Yazzy's Market,Yazzy's Market Inc - 125 Mill st,ID Present,ID Present,ID Present,Pending Launch,In progress
 8bd30cd8-2240-41c7-8a2b-97312861991d,Yazzy's Market,Yazzy's Market Inc - 317 Delaware Ave,ID Present,ID Present,ID Present,Pending Launch,In progress
