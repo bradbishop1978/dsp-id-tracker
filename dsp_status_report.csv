@@ -48,7 +48,7 @@ e9a7c4bc-5fc7-4211-94cc-087935318aae,Break Time,Break Time (7701 Roanoke Dr),,,1
 8b6306e2-5f59-4a90-8e73-1d626a740092,Break Time,Break Time (810 Stadium Blvd),,,13258120,Pending Launch,In progress
 3c05991c-4276-4648-adf9-992c71253126,Chicken King,Chicken King (3177 16th St),ID Present,ID Present,ID Present,Pending Launch,In progress
 4799e460-27c9-48b2-a71d-47deada89eca,Chicken King,Chicken King (Harbour Way Deli),ID Present,ID Present,ID Present,Pending Launch,In progress
-a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),,,13315704,Pending Launch,In progress
+a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),,,ID Present,Pending Launch,In progress
 564d38ef-f666-499f-94fb-99de96b22713,AVCK Inc,Circle K (20920 Bear Valley),2be082c0-acad-5bc4-938f-0dd96d4a0c57,ID Present,ID Present,Pending Launch,In progress
 de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -68,11 +68,11 @@ d0b670b1-c707-4fa1-8e3f-0dd5d2150c96,Goosecreek Fishersville LLC,Circle K 26544,
 251fe773-ad29-4f6e-b587-bd0a8b2a0cfa,Circle K (Kashmir),Circle K 2730,674f7d5b-b30b-590f-af98-3631cbb37b72,,ID Present,Pending Launch,In progress
 34f00278-6825-4d7d-8663-03b89580137b,Circle K (Kashmir),Circle K 2940,99e626ab-2c8b-5711-a2a4-b02770514b53,,ID Present,Pending Launch,In progress
 13ff4278-be28-43c5-ab76-10f212c81bce,Circle K (Kashmir),Circle K Anaheim,f3a659f5-eb72-5782-95c1-d3d0fa4643dc,ID Present,ID Present,Pending Launch,In progress
-4cd1683b-fe1f-4165-ad56-455131d1aea2,Kwik Trip Oil,Circle K Atlantic Beach,,,13310920,Pending Launch,In progress
-9bc8c25c-45e7-4f35-b28b-cafc064efc86,Kwik Trip Oil,Circle K Bowden,,,13318856,Pending Launch,In progress
-9f9bbc80-10cc-4152-9c47-0348a5b36b45,Kwik Trip Oil,Circle K Gateway,,,13310904,Pending Launch,In progress
-d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,,,13310912,Pending Launch,In progress
-ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,,,13317272,Pending Launch,In progress
+4cd1683b-fe1f-4165-ad56-455131d1aea2,Kwik Trip Oil,Circle K Atlantic Beach,,,ID Present,Pending Launch,In progress
+9bc8c25c-45e7-4f35-b28b-cafc064efc86,Kwik Trip Oil,Circle K Bowden,,,ID Present,Pending Launch,In progress
+9f9bbc80-10cc-4152-9c47-0348a5b36b45,Kwik Trip Oil,Circle K Gateway,,,ID Present,Pending Launch,In progress
+d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,,,ID Present,Pending Launch,In progress
+ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,,,ID Present,Pending Launch,In progress
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
 e22f8c5a-a8aa-4f19-9fee-45bb97047d11,Clipper Petroleum,Clipper Petroleum #73,ID Present,ID Present,ID Present,Pending Launch,In progress
 7a0feecf-b7a4-4b8b-b71a-8837c1d9a1b1,EZ Market,EZ Market (120 Piedmont Ave),a637d4f4-78ce-5225-b4d6-65dbf1f2ba0b,,ID Present,Pending Launch,In progress
@@ -120,15 +120,15 @@ fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Josep
 0ff5db55-5e56-4ef9-8251-2253e88d110b,Circle K Gas Express,Gas Express (Texaco Gas Station),c0424ae1-bd67-5ffe-ac2f-d0b1a4c85982,ID Present,ID Present,Pending Launch,In progress
 b22d1fd8-4164-44af-b6aa-837bb3668d87,Circle K (Hollywood 76 Inc),Gas Express Circle K - 1820 Holywood North,ID Present,ID Present,ID Present,Pending Launch,In progress
 ab7c7e6c-b417-4e11-8caf-362460ec7340,Washington Lilos Inc,Gev's Express,ID Present,Missing,ID Present,Pending Launch,In progress
-ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),ID Present,ID Present,13262832,Pending Launch,In progress
-6ff4079f-a209-4c09-b4e0-207aa4ee0f0d,Gogo Stores,Gogo (Calhoun & Taber St),ID Present,ID Present,13264576,Pending Launch,In progress
-0ed845f7-fd68-4e16-a448-d076e95ab72a,Gogo Stores,Gogo (Coldwater rd & Washington Center),ID Present,ID Present,13264600,Pending Launch,In progress
-4e1e400e-a227-4a1c-b8cf-f4cc28bb7802,Gogo Stores,Gogo (Hanna & Lewis),ID Present,ID Present,13262824,Pending Launch,In progress
-918e18ab-f03a-42e5-accb-60be99bd7575,Gogo Stores,Gogo (Hessen Cassel),ID Present,ID Present,13256616,Pending Launch,In progress
-e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,ID Present,13259688,Pending Launch,In progress
-0c3e55a0-14e0-4685-8fe9-1f8ed79b360d,Gogo Stores,Gogo (Lake & Anthony),ID Present,ID Present,13264592,Pending Launch,In progress
-c40c4a3f-cbd8-4eba-b01c-9757f90b7352,Gogo Stores,Gogo (Lincoln Hwy),ID Present,ID Present,13258096,Pending Launch,In progress
-3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,13264584,Pending Launch,In progress
+ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),ID Present,ID Present,ID Present,Pending Launch,In progress
+6ff4079f-a209-4c09-b4e0-207aa4ee0f0d,Gogo Stores,Gogo (Calhoun & Taber St),ID Present,ID Present,ID Present,Pending Launch,In progress
+0ed845f7-fd68-4e16-a448-d076e95ab72a,Gogo Stores,Gogo (Coldwater rd & Washington Center),ID Present,ID Present,ID Present,Pending Launch,In progress
+4e1e400e-a227-4a1c-b8cf-f4cc28bb7802,Gogo Stores,Gogo (Hanna & Lewis),ID Present,ID Present,ID Present,Pending Launch,In progress
+918e18ab-f03a-42e5-accb-60be99bd7575,Gogo Stores,Gogo (Hessen Cassel),ID Present,ID Present,ID Present,Pending Launch,In progress
+e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
+0c3e55a0-14e0-4685-8fe9-1f8ed79b360d,Gogo Stores,Gogo (Lake & Anthony),ID Present,ID Present,ID Present,Pending Launch,In progress
+c40c4a3f-cbd8-4eba-b01c-9757f90b7352,Gogo Stores,Gogo (Lincoln Hwy),ID Present,ID Present,ID Present,Pending Launch,In progress
+3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,ID Present,Pending Launch,In progress
 fc660e1d-c836-4ddf-8142-926ca93cfed0,Hunt Brothers,Hunt Brothers (AARIV LLC),,,13261352,Pending Launch,In progress
 72973cee-a47d-4769-b54b-0153c1e4172e,Hunt Brothers,"Hunt Brothers (Delta 110, LLC)",ID Present,ID Present,ID Present,Pending Launch,In progress
 75ef355e-752a-4624-9822-1381cf00ba84,Hunt Brothers,Hunt Brothers (LMR Oil Fuel Mart),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -162,7 +162,7 @@ ced242d5-92fa-4794-a219-ee333a6d6ea1,Jacksons Food Stores,Jacksons Food Stores #
 d2fc5b7d-0dd1-45c6-a10d-f6827fb4fbc7,Jacksons Food Stores,Jacksons Food Stores #658,2e40908a-c283-5010-afc7-231017ae0c37,ID Present,ID Present,Pending Launch,In progress
 300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 10bbc68d-41a5-4f2c-ad97-d994114078c7,PHR Starke LLC,Kangaroo Express 2658014,403e60ad-def7-5fc3-b9d3-ab97a48b7bb5,ID Present,ID Present,Pending Launch,In progress
-46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,f32bd86f-e0ac-543a-b4ad-41468ec37f7c,,ID Present,Pending Launch,In progress
+46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,,ID Present,Pending Launch,In progress
 e84f4db6-324c-4154-b18b-d3e1748d9367,Ridgeway Petroleum,Mastodon Kitchen (121 W Laraway Road),ID Present,ID Present,ID Present,Pending Launch,In progress
 1595300e-d707-4d4a-add3-660e595d5d72,Ridgeway Petroleum,Mastodon Kitchen (15725 W 101st Avenue),ID Present,ID Present,ID Present,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W. Coal City Road),ID Present,ID Present,ID Present,Pending Launch,In progress
