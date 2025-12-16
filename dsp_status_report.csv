@@ -49,6 +49,7 @@ e9a7c4bc-5fc7-4211-94cc-087935318aae,Break Time,Break Time (7701 Roanoke Dr),,,1
 3c05991c-4276-4648-adf9-992c71253126,Chicken King,Chicken King (3177 16th St),ID Present,ID Present,ID Present,Pending Launch,In progress
 4799e460-27c9-48b2-a71d-47deada89eca,Chicken King,Chicken King (Harbour Way Deli),ID Present,ID Present,ID Present,Pending Launch,In progress
 a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),,,ID Present,Pending Launch,In progress
+b22d1fd8-4164-44af-b6aa-837bb3668d87,Circle K (Hollywood 76 Inc),Circle K (1820 Holywood North),ID Present,ID Present,ID Present,Pending Launch,In progress
 564d38ef-f666-499f-94fb-99de96b22713,AVCK Inc,Circle K (20920 Bear Valley),2be082c0-acad-5bc4-938f-0dd96d4a0c57,ID Present,ID Present,Pending Launch,In progress
 de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -117,8 +118,6 @@ f63d8d4d-7f13-43dd-ae92-421cf740d7cf,Fast Track,Fast Track (1801 Park Marina Dr)
 b2755fed-32c2-4158-a08e-b9d2a256ccd5,Circle K Gas Express,Gas Express (1880 Old 41),ID Present,ID Present,ID Present,Pending Launch,In progress
 fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Joseph E. Lowery Blvd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 58d365c2-507f-4857-a81b-2950340a6c59,Circle K Gas Express,Gas Express (4603 Atlanta Hwy),975febe2-c00f-59e1-9989-703c1e73ce44,ID Present,ID Present,Pending Launch,In progress
-0ff5db55-5e56-4ef9-8251-2253e88d110b,Circle K Gas Express,Gas Express (Texaco Gas Station),c0424ae1-bd67-5ffe-ac2f-d0b1a4c85982,ID Present,ID Present,Pending Launch,In progress
-b22d1fd8-4164-44af-b6aa-837bb3668d87,Circle K (Hollywood 76 Inc),Gas Express Circle K - 1820 Holywood North,ID Present,ID Present,ID Present,Pending Launch,In progress
 ab7c7e6c-b417-4e11-8caf-362460ec7340,Washington Lilos Inc,Gev's Express,ID Present,Missing,ID Present,Pending Launch,In progress
 ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),ID Present,ID Present,ID Present,Pending Launch,In progress
 6ff4079f-a209-4c09-b4e0-207aa4ee0f0d,Gogo Stores,Gogo (Calhoun & Taber St),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -133,33 +132,33 @@ fc660e1d-c836-4ddf-8142-926ca93cfed0,Hunt Brothers,Hunt Brothers (AARIV LLC),,,1
 72973cee-a47d-4769-b54b-0153c1e4172e,Hunt Brothers,"Hunt Brothers (Delta 110, LLC)",ID Present,ID Present,ID Present,Pending Launch,In progress
 75ef355e-752a-4624-9822-1381cf00ba84,Hunt Brothers,Hunt Brothers (LMR Oil Fuel Mart),ID Present,ID Present,ID Present,Pending Launch,In progress
 9ed282a3-b949-4fc1-b6b9-43bd0f6bbd51,Hunt Brothers,Hunt Brothers (Smileys Express 5),ID Present,ID Present,ID Present,Pending Launch,In progress
-9ecef4f3-526b-4d32-99b8-5c4608a8c1d9,Jacksons Food Stores,Jacksons Food Stores #601,370ba4a3-86e6-5eb6-b9fd-636f3cb28cd9,ID Present,ID Present,Pending Launch,In progress
-33b7b8ac-fa57-4b37-97d3-50d1c232d770,Jacksons Food Stores,Jacksons Food Stores #602,531dbb61-c84c-5f51-ac95-c67811e9a5cd,ID Present,ID Present,Pending Launch,In progress
-8537761a-0d94-4657-abeb-59bf0a05d453,Jacksons Food Stores,Jacksons Food Stores #605,af46f385-b899-5826-b054-8869748f0d14,ID Present,ID Present,Pending Launch,In progress
-6080e07e-2298-47f9-becb-d6d6f75e9a05,Jacksons Food Stores,Jacksons Food Stores #606,c40ec721-972a-5476-94ec-70e7cae2cbb0,ID Present,ID Present,Pending Launch,In progress
-6633412b-edd9-4a2a-947d-d9ceedb115bb,Jacksons Food Stores,Jacksons Food Stores #608,2ae47551-7720-5234-9c0b-01a78b8ac32b,ID Present,ID Present,Pending Launch,In progress
-c010f57a-4454-4871-90a7-c90bd42c5028,Jacksons Food Stores,Jacksons Food Stores #611,384b176a-e430-50a2-8ae5-49dc828ba4a9,ID Present,ID Present,Pending Launch,In progress
-80c0d242-975b-4f3f-bdbf-52f073d51956,Jacksons Food Stores,Jacksons Food Stores #612,5c389079-d7b7-5aab-81e3-4224c2059f5e,ID Present,ID Present,Pending Launch,In progress
-495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,86aa34c2-b55e-5a39-b77d-8b49d2d21205,ID Present,ID Present,Pending Launch,In progress
-5776f9c6-6150-480b-b8af-c04a464453dc,Jacksons Food Stores,Jacksons Food Stores #619,f9086b8a-f641-5be5-b72c-c892a44267fd,ID Present,ID Present,Pending Launch,In progress
-b7418958-703e-4540-9b94-4125cef2be7b,Jacksons Food Stores,Jacksons Food Stores #620,85b3293a-f4d0-5eaf-ad7e-c6d2d7bb5192,ID Present,ID Present,Pending Launch,In progress
-217ef8c4-edb6-48ec-a28b-d4db67bdb9cd,Jacksons Food Stores,Jacksons Food Stores #621,22179390-afe4-5c69-8103-95cbc2941d36,ID Present,ID Present,Pending Launch,In progress
-3b613e19-b123-4e14-b948-c88193ce8d08,Jacksons Food Stores,Jacksons Food Stores #622,31fc2a65-6c30-524e-aff8-17d55761d347,ID Present,ID Present,Pending Launch,In progress
-94177499-910c-458b-b375-f10c3243dafd,Jacksons Food Stores,Jacksons Food Stores #623,20afb3b6-ea9d-5927-b0d1-b79deba7cec5,ID Present,ID Present,Pending Launch,In progress
-420c3b07-5054-4b74-9c71-375c52d95dc8,Jacksons Food Stores,Jacksons Food Stores #624,266e4ab3-c946-5d6a-960b-23198d7c731f,ID Present,ID Present,Pending Launch,In progress
-8d1666a6-cd70-49c5-9919-2418ecb63dbe,Jacksons Food Stores,Jacksons Food Stores #627,7df1ecfb-5972-5e23-878e-e46f761d8083,ID Present,ID Present,Pending Launch,In progress
-af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,b6b254fd-19df-51ee-a701-63e7662ec899,ID Present,ID Present,Pending Launch,In progress
-6bcb9321-6bc1-4e07-a995-e62dadf930e9,Jacksons Food Stores,Jacksons Food Stores #631,7ef54756-cd2c-555b-80d4-e9c5af67ac4a,ID Present,ID Present,Pending Launch,In progress
-3b14faa8-df2e-42f8-82d7-d5cba5971f0b,Jacksons Food Stores,Jacksons Food Stores #635,cf15d215-b13a-5ee5-8965-0f900f1bf110,ID Present,ID Present,Pending Launch,In progress
-5cec6b9a-717a-45e0-a6e8-3170f7ff824c,Jacksons Food Stores,Jacksons Food Stores #636,e5b1057f-b780-5416-9598-20da01b4c264,ID Present,ID Present,Pending Launch,In progress
-832e316b-8e78-4a9a-b5dc-dfc36f8bba15,Jacksons Food Stores,Jacksons Food Stores #641,b48e19b7-9bd5-5e38-b430-823ebd5ee394,ID Present,ID Present,Pending Launch,In progress
-fc40e44a-52f2-43b6-a5f3-4efb75e3ea69,Jacksons Food Stores,Jacksons Food Stores #642,6baab560-044a-5f3c-82cf-991ed52ecaa9,ID Present,ID Present,Pending Launch,In progress
-ced242d5-92fa-4794-a219-ee333a6d6ea1,Jacksons Food Stores,Jacksons Food Stores #644,7d2c7ee1-04a4-59f2-beee-dcb1ddca4556,ID Present,ID Present,Pending Launch,In progress
-68204ad3-6e59-4386-aae9-abe4008442ea,Jacksons Food Stores,Jacksons Food Stores #646,9245d872-20cb-500e-a9b1-b6256d2c0520,ID Present,ID Present,Pending Launch,In progress
-5d2d6353-cd6d-4a99-9a5b-d901a048a2c8,Jacksons Food Stores,Jacksons Food Stores #647,06833000-7397-5b7d-be66-131960462e24,ID Present,ID Present,Pending Launch,In progress
-12debcfb-7733-46d0-bd7c-fc08b24e27ff,Jacksons Food Stores,Jacksons Food Stores #649,73784e6e-6ebf-52c0-93f7-36d6212872fa,ID Present,ID Present,Pending Launch,In progress
-77da8799-46cb-490d-81b2-0a6e7f5d8b5d,Jacksons Food Stores,Jacksons Food Stores #656,842045f2-33a9-5ce7-94fb-102ae3950051,ID Present,ID Present,Pending Launch,In progress
-d2fc5b7d-0dd1-45c6-a10d-f6827fb4fbc7,Jacksons Food Stores,Jacksons Food Stores #658,2e40908a-c283-5010-afc7-231017ae0c37,ID Present,ID Present,Pending Launch,In progress
+9ecef4f3-526b-4d32-99b8-5c4608a8c1d9,Jacksons Food Stores,Jacksons Food Stores #601,ID Present,ID Present,ID Present,Pending Launch,In progress
+33b7b8ac-fa57-4b37-97d3-50d1c232d770,Jacksons Food Stores,Jacksons Food Stores #602,ID Present,ID Present,ID Present,Pending Launch,In progress
+8537761a-0d94-4657-abeb-59bf0a05d453,Jacksons Food Stores,Jacksons Food Stores #605,ID Present,ID Present,ID Present,Pending Launch,In progress
+6080e07e-2298-47f9-becb-d6d6f75e9a05,Jacksons Food Stores,Jacksons Food Stores #606,ID Present,ID Present,ID Present,Pending Launch,In progress
+6633412b-edd9-4a2a-947d-d9ceedb115bb,Jacksons Food Stores,Jacksons Food Stores #608,ID Present,ID Present,ID Present,Pending Launch,In progress
+c010f57a-4454-4871-90a7-c90bd42c5028,Jacksons Food Stores,Jacksons Food Stores #611,ID Present,ID Present,ID Present,Pending Launch,In progress
+80c0d242-975b-4f3f-bdbf-52f073d51956,Jacksons Food Stores,Jacksons Food Stores #612,ID Present,ID Present,ID Present,Pending Launch,In progress
+495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
+5776f9c6-6150-480b-b8af-c04a464453dc,Jacksons Food Stores,Jacksons Food Stores #619,ID Present,ID Present,ID Present,Pending Launch,In progress
+b7418958-703e-4540-9b94-4125cef2be7b,Jacksons Food Stores,Jacksons Food Stores #620,ID Present,ID Present,ID Present,Pending Launch,In progress
+217ef8c4-edb6-48ec-a28b-d4db67bdb9cd,Jacksons Food Stores,Jacksons Food Stores #621,ID Present,ID Present,ID Present,Pending Launch,In progress
+3b613e19-b123-4e14-b948-c88193ce8d08,Jacksons Food Stores,Jacksons Food Stores #622,ID Present,ID Present,ID Present,Pending Launch,In progress
+94177499-910c-458b-b375-f10c3243dafd,Jacksons Food Stores,Jacksons Food Stores #623,ID Present,ID Present,ID Present,Pending Launch,In progress
+420c3b07-5054-4b74-9c71-375c52d95dc8,Jacksons Food Stores,Jacksons Food Stores #624,ID Present,ID Present,ID Present,Pending Launch,In progress
+8d1666a6-cd70-49c5-9919-2418ecb63dbe,Jacksons Food Stores,Jacksons Food Stores #627,ID Present,ID Present,ID Present,Pending Launch,In progress
+af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
+6bcb9321-6bc1-4e07-a995-e62dadf930e9,Jacksons Food Stores,Jacksons Food Stores #631,ID Present,ID Present,ID Present,Pending Launch,In progress
+3b14faa8-df2e-42f8-82d7-d5cba5971f0b,Jacksons Food Stores,Jacksons Food Stores #635,ID Present,ID Present,ID Present,Pending Launch,In progress
+5cec6b9a-717a-45e0-a6e8-3170f7ff824c,Jacksons Food Stores,Jacksons Food Stores #636,ID Present,ID Present,ID Present,Pending Launch,In progress
+832e316b-8e78-4a9a-b5dc-dfc36f8bba15,Jacksons Food Stores,Jacksons Food Stores #641,ID Present,ID Present,ID Present,Pending Launch,In progress
+fc40e44a-52f2-43b6-a5f3-4efb75e3ea69,Jacksons Food Stores,Jacksons Food Stores #642,ID Present,ID Present,ID Present,Pending Launch,In progress
+ced242d5-92fa-4794-a219-ee333a6d6ea1,Jacksons Food Stores,Jacksons Food Stores #644,ID Present,ID Present,ID Present,Pending Launch,In progress
+68204ad3-6e59-4386-aae9-abe4008442ea,Jacksons Food Stores,Jacksons Food Stores #646,ID Present,ID Present,ID Present,Pending Launch,In progress
+5d2d6353-cd6d-4a99-9a5b-d901a048a2c8,Jacksons Food Stores,Jacksons Food Stores #647,ID Present,ID Present,ID Present,Pending Launch,In progress
+12debcfb-7733-46d0-bd7c-fc08b24e27ff,Jacksons Food Stores,Jacksons Food Stores #649,ID Present,ID Present,ID Present,Pending Launch,In progress
+77da8799-46cb-490d-81b2-0a6e7f5d8b5d,Jacksons Food Stores,Jacksons Food Stores #656,ID Present,ID Present,ID Present,Pending Launch,In progress
+d2fc5b7d-0dd1-45c6-a10d-f6827fb4fbc7,Jacksons Food Stores,Jacksons Food Stores #658,ID Present,ID Present,ID Present,Pending Launch,In progress
 300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 10bbc68d-41a5-4f2c-ad97-d994114078c7,PHR Starke LLC,Kangaroo Express 2658014,403e60ad-def7-5fc3-b9d3-ab97a48b7bb5,ID Present,ID Present,Pending Launch,In progress
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,,ID Present,Pending Launch,In progress
@@ -187,6 +186,7 @@ ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
 387021fc-410c-4601-ac78-4a93c5e86a44,Rocket,Rocket #6101,ID Present,ID Present,ID Present,Pending Launch,In progress
 dc64c926-eb7d-4f51-ae11-98f66b2e9844,Rocket,Rocket #6342,ID Present,ID Present,ID Present,Pending Launch,In progress
+0ff5db55-5e56-4ef9-8251-2253e88d110b,Circle K Gas Express,STALLED - Gas Express (Texaco Gas Station),c0424ae1-bd67-5ffe-ac2f-d0b1a4c85982,ID Present,ID Present,Pending Launch,In progress
 fcaf2e06-f66d-43ec-a939-dc1b6f6d2287,Yazzy's Market,Yazzy's Market Inc - 1 Archie Bordeau Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
 8fda6f57-9ffe-4acc-913c-881e228bcb07,Yazzy's Market,Yazzy's Market Inc - 125 Mill st,ID Present,ID Present,ID Present,Pending Launch,In progress
 8bd30cd8-2240-41c7-8a2b-97312861991d,Yazzy's Market,Yazzy's Market Inc - 317 Delaware Ave,ID Present,ID Present,ID Present,Pending Launch,In progress
