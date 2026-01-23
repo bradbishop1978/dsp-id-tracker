@@ -1,5 +1,5 @@
 store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,pipeline_stage,onboarding_status
-7b29e3e0-4407-43a4-a3e2-fbad74e17448,Santa Fe Petroleum Inc,AMPM Vista,,40051329,,Pending Launch,In progress
+7b29e3e0-4407-43a4-a3e2-fbad74e17448,Santa Fe Petroleum Inc,AMPM Vista,81fb693e-f588-5664-92c8-b58491de8ed2,40051329,,Pending Launch,In progress
 d6f5945f-5446-4c02-bd51-386f0892f4ab,Ami LLC,Ami LLC (3671 Orchard Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 94ecf2fc-bdcb-429f-91d3-3a58fea39b3a,Jacksons Food Stores,Aztec Grill/Redwood Market #277,ID Present,ID Present,ID Present,Pending Launch,In progress
 453eac94-8c4d-4943-a63e-92a184bb9fb6,Jacksons Food Stores,Aztec Grill/Redwood Market #279,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -17,7 +17,7 @@ d4023c58-15de-4f71-aceb-1ba2029da218,Jacksons Food Stores,Aztec Grill/Redwood Ma
 dcb583a0-65ef-4c10-847f-86ccba9ee4ed,Break Time,BreakTime (100 E Hwy 40),ID Present,ID Present,,Pending Launch,In progress
 effffd3c-734c-4432-87a6-6d79c7a68583,Break Time,BreakTime (1000 Smiley Ln),ID Present,ID Present,ID Present,Pending Launch,In progress
 6a2e6a7f-bc7f-4e13-807c-97ace0d686b7,Break Time,BreakTime (1000 W College St),ID Present,ID Present,,Pending Launch,In progress
-6a0c74b2-765c-4064-9851-44b9ac4006f8,Break Time,BreakTime (101 E 7th St),ID Present,ID Present,,Pending Launch,In progress
+6a0c74b2-765c-4064-9851-44b9ac4006f8,Break Time,BreakTime (101 E 7th St),ID Present,ID Present,13707480,Pending Launch,In progress
 11e013bb-20c7-4a10-8f1c-935b9b17abcd,Break Time,BreakTime (101 Rebar Rd),ID Present,,ID Present,Pending Launch,In progress
 27255ffa-d74e-4957-8b70-211dbf30efc7,Break Time,BreakTime (105 N Hwy 63),ID Present,,ID Present,Pending Launch,In progress
 3336438b-6811-4eed-a863-60e3c59a412a,Break Time,BreakTime (1299 N Northwest 13 Hwy),ID Present,ID Present,,Pending Launch,In progress
@@ -33,12 +33,12 @@ cb0aebb1-6779-40e7-b8fd-e091b61d1deb,Break Time,BreakTime (1545 W Republic Rd),I
 6b0f4741-b447-407b-b6f1-ed9d7c044aac,Break Time,BreakTime (200 S Olive St),ID Present,ID Present,,Pending Launch,In progress
 1ffbdc0c-f6fd-4a73-9435-47b6f3c07046,Break Time,BreakTime (204 S US Hwy 71),ID Present,ID Present,ID Present,Pending Launch,In progress
 2adca637-3cd9-4552-94c3-f4173ab35945,Break Time,BreakTime (2167 E Hwy 7),ID Present,ID Present,ID Present,Pending Launch,In progress
-7ae4480e-57a1-43a3-b610-f16329a32269,Break Time,BreakTime (2205 N Stadium Blvd),ID Present,ID Present,,Pending Launch,In progress
+7ae4480e-57a1-43a3-b610-f16329a32269,Break Time,BreakTime (2205 N Stadium Blvd),ID Present,ID Present,13709072,Pending Launch,In progress
 cb9601d9-1df1-4c49-97d7-d686ac33ab2c,Break Time,BreakTime (2213 Cardinal Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
 c2a26170-9ead-4d7a-adaa-c93e2f02505f,Break Time,BreakTime (2225 N Stone Creek Dr),ID Present,ID Present,,Pending Launch,In progress
 3746f29d-f36f-4f56-9c5c-6d362e2b670f,Break Time,BreakTime (2259 Bagnell Dam Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
 3f3eb025-9427-4e61-8af6-672db6e4bbb3,Break Time,BreakTime (2505 S Killingsworth Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
-7ef89a18-1015-4534-b1a3-cd80923ea57b,Break Time,BreakTime (2755 Militia Dr),ID Present,ID Present,,Pending Launch,In progress
+7ef89a18-1015-4534-b1a3-cd80923ea57b,Break Time,BreakTime (2755 Militia Dr),ID Present,ID Present,13700224,Pending Launch,In progress
 77178048-868b-4994-8eb1-04bcfdbf3c4c,Break Time,BreakTime (2823 E Malone Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 1ce0397b-fa69-450b-8b3c-eed07ba457d9,Break Time,BreakTime (2940 N Westwood Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
 6e920265-459f-4a69-9dc0-517270fef874,Break Time,BreakTime (3021 NE Independence Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -101,7 +101,7 @@ de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peac
 f980a495-d28a-4dd6-918e-b9c81529f0b8,Circle K Gas Express,Circle K (46840 Warm Springs Rd),,,,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,Circle K (550 Cherokee Pkwy) Dup,ID Present,ID Present,ID Present,Pending Launch,In progress
-e9739b19-3999-4e17-a6cf-a9de561793fb,Circle K Franchisee (Belly Petro Mart Inc.),Circle K (Arkansas Ave),,40051210,,Pending Launch,In progress
+e9739b19-3999-4e17-a6cf-a9de561793fb,Circle K Franchisee (Belly Petro Mart Inc.),Circle K (Arkansas Ave),30c1117f-e927-5a7c-8405-9d996daa7136,40051210,,Pending Launch,In progress
 ac45359b-24af-4a9d-8d1c-f429c11552fa,BCS Trident Inc.,Circle K - 18999 Colima Road,ID Present,ID Present,ID Present,Pending Launch,In progress
 399ad01e-5c99-481b-bb92-a7a12fffd38f,Ghaneshay 01 Inc,Circle K - 2655229,,,,Pending Launch,In progress
 2b7fe724-e6c4-4e21-af4c-d0905397ee05,Kumar Friends Inc,Circle K - Baldwin Park,,,,Pending Launch,In progress
@@ -148,8 +148,8 @@ c8d7acdc-bb86-488c-b51b-fddf824819da,EZ Market,EZ Market (9595 Main St),ID Prese
 d182cbeb-b40e-4e5c-8f15-7fc3dd3ca9cc,Eagle Stores,Eagle Stores (Lakeview),ID Present,ID Present,ID Present,Pending Launch,In progress
 9644ce1f-201c-488f-97ca-2f00c91da331,Fast Track,Fast Track (10 Commercial St),ID Present,ID Present,,Pending Launch,In progress
 64f3e988-fcee-4ca5-92be-d8d5be853196,Fast Track,Fast Track (101 Lake Blvd),ID Present,ID Present,,Pending Launch,In progress
-f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,Fast Track (1120 Churn Creek Rd),,ID Present,,Pending Launch,In progress
-f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,Fast Track (1120 Churn Creek Rd),,ID Present,,Pending Launch,In progress
+f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,,Pending Launch,In progress
+f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,,Pending Launch,In progress
 f2f4352e-b590-413f-a32d-9a29a01e3caf,Fast Track,Fast Track (14361 Holiday Rd),ID Present,,,Pending Launch,In progress
 41ede769-19d9-4a71-88f7-ef374a7cc84c,Fast Track,Fast Track (14385 Wonderland Blvd),ID Present,,,Pending Launch,In progress
 f63d8d4d-7f13-43dd-ae92-421cf740d7cf,Fast Track,Fast Track (1801 Park Marina Dr),ID Present,ID Present,,Pending Launch,In progress
@@ -190,7 +190,7 @@ b04df734-45d7-4104-8a0d-65305ffdaa5d,Ghaneshay 01 Inc,Kangaroo Ex 2658179,,,,Pen
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W Coal City Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 9142c941-4b7f-4ad3-a00d-e02eada40f98,Ridgeway Petroleum,Mastodon Market (10 45th St),ID Present,ID Present,ID Present,Pending Launch,In progress
 1509a567-1c10-4016-9d07-b21d0d977166,Ridgeway Petroleum,Mastodon Market (1440 Indianapolis Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
-719a7f79-1a62-43fd-869e-9238c18eb210,Ridgeway Petroleum,Mastodon Market (15725 W 101st Ave),,ID Present,,Pending Launch,In progress
+719a7f79-1a62-43fd-869e-9238c18eb210,Ridgeway Petroleum,Mastodon Market (15725 W 101st Ave),9157ac04-d0a1-5c0e-8729-99614d0a9b9a,ID Present,,Pending Launch,In progress
 b518275f-1ddb-4a6b-8a71-f09ff0a55e39,Ridgeway Petroleum,Mastodon Market (21 Gostlin),ID Present,ID Present,ID Present,Pending Launch,In progress
 945f4af2-d763-4539-9bc1-ba84f3733741,Ridgeway Petroleum,Mastodon Market (260 165th St),ID Present,ID Present,ID Present,Pending Launch,In progress
 279bc45b-5abd-4e60-a15f-4b253f747f35,Ridgeway Petroleum,Mastodon Market (2735 Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
