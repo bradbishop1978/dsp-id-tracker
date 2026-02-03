@@ -99,13 +99,13 @@ c83a98df-cf45-4323-af1a-ec9eafc907f3,Chestnut Market,Chestnut Market – US-6 (B
 a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),ID Present,ID Present,ID Present,Pending Launch,In progress
 b22d1fd8-4164-44af-b6aa-837bb3668d87,Circle K (Hollywood 76 Inc),Circle K (1820 Holywood North),ID Present,ID Present,ID Present,Pending Launch,In progress
 de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
-f980a495-d28a-4dd6-918e-b9c81529f0b8,Circle K Gas Express,Circle K (46840 Warm Springs Rd),f8ab2ae6-a6ee-5b14-8a50-212fcf93e19f,,,Pending Launch,In progress
+f980a495-d28a-4dd6-918e-b9c81529f0b8,Circle K Gas Express,Circle K (46840 Warm Springs Rd),f8ab2ae6-a6ee-5b14-8a50-212fcf93e19f,40264641,,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,Circle K (550 Cherokee Pkwy) Dup,ID Present,ID Present,ID Present,Pending Launch,In progress
 e9739b19-3999-4e17-a6cf-a9de561793fb,Circle K Franchisee (Belly Petro Mart Inc.),Circle K (Arkansas Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 399ad01e-5c99-481b-bb92-a7a12fffd38f,Ghaneshay 01 Inc,Circle K - 2655229,d4b1f503-672c-55be-b927-7f13b0524b05,,ID Present,Pending Launch,In progress
-2b7fe724-e6c4-4e21-af4c-d0905397ee05,Kumar Friends Inc,Circle K - Baldwin Park,2bf5abbf-1b93-5926-85ba-49c1b395263d,,,Pending Launch,In progress
-2b7fe724-e6c4-4e21-af4c-d0905397ee05,Kumar Friends Inc,Circle K - Baldwin Park,2bf5abbf-1b93-5926-85ba-49c1b395263d,,,Pending Launch,In progress
+2b7fe724-e6c4-4e21-af4c-d0905397ee05,Kumar Friends Inc,Circle K - Baldwin Park,2bf5abbf-1b93-5926-85ba-49c1b395263d,40264643,,Pending Launch,In progress
+2b7fe724-e6c4-4e21-af4c-d0905397ee05,Kumar Friends Inc,Circle K - Baldwin Park,2bf5abbf-1b93-5926-85ba-49c1b395263d,40264643,,Pending Launch,In progress
 d158a021-83bb-412a-a289-e66114c9eca4,Colton Super Center Inc.,Circle K - Colton,,,,Pending Launch,In progress
 f077e613-ef60-4213-8164-5acdbd6af280,IMSR Enterprises LLC,Circle K - Date Palm Drive,ID Present,ID Present,ID Present,Pending Launch,In progress
 213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,,,,Pending Launch,In progress
@@ -122,8 +122,8 @@ d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,ID Present,I
 ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,ID Present,ID Present,ID Present,Pending Launch,In progress
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
 f5d2c93e-9d3f-45f6-ae53-f9fae2a837ac,BSD Inc,Circle K- 2799 4th St Santa Rosa,,,,Pending Launch,In progress
-43f4604c-7f4f-4d81-9069-ed78aa62c2c8,Veeram Inc,Circle K- 44462 E. Florida Ave,a9167018-9b33-5fde-ac00-baac241d7fe5,,,Pending Launch,In progress
-91720618-b9a3-4a13-8957-b493d71daa96,DK & GK inc. DBA Elk Grove Shell,Circle K- 9190 East Stockton Blvd,90e62488-7ba5-500d-ade9-eeb6d462919b,,,Pending Launch,In progress
+43f4604c-7f4f-4d81-9069-ed78aa62c2c8,Veeram Inc,Circle K- 44462 E. Florida Ave,a9167018-9b33-5fde-ac00-baac241d7fe5,40264621,,Pending Launch,In progress
+91720618-b9a3-4a13-8957-b493d71daa96,DK & GK inc. DBA Elk Grove Shell,Circle K- 9190 East Stockton Blvd,90e62488-7ba5-500d-ade9-eeb6d462919b,40264625,,Pending Launch,In progress
 1ff0c370-4e3a-42fd-a6df-86df640d95d8,Flatshoals Exxon Usa Inc,Citgo Speed Zone (200 Upper Riverdale Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 7a0feecf-b7a4-4b8b-b71a-8837c1d9a1b1,EZ Market,EZ Market (120 Piedmont Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 697c223d-2206-424a-b10b-b47c11f80db8,EZ Market,EZ Market (1209 Collier Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -178,15 +178,15 @@ e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,
 3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,ID Present,Pending Launch,In progress
 d1266f45-02f0-46af-b5ed-75170c23d7db,Hunt Brothers,Hunt Brothers (A&D Market),,,,Pending Launch,In progress
 0ee6cfa2-2048-4484-8c20-80d552460e8a,Hunt Brothers,Hunt Brothers (Fairground Food Mart),49e316a3-8f0c-5201-8b6e-52074bb52f2b,ID Present,ID Present,Pending Launch,In progress
-1275f940-dfdb-42fb-966e-b001e7b7a107,Hunt Brothers,Hunt Brothers (LMR Oil Claremore),9a13ccb4-b872-5ad4-811d-4628847a814a,,,Pending Launch,In progress
-7fbc2dab-30b2-432e-8868-01224d92cbaa,Hunt Brothers,Hunt Brothers (LMR Oil Park Hill),06a5757b-83fe-5246-9a79-cc363172e6a0,,,Pending Launch,In progress
+1275f940-dfdb-42fb-966e-b001e7b7a107,Hunt Brothers,Hunt Brothers (LMR Oil Claremore),9a13ccb4-b872-5ad4-811d-4628847a814a,40264635,,Pending Launch,In progress
+7fbc2dab-30b2-432e-8868-01224d92cbaa,Hunt Brothers,Hunt Brothers (LMR Oil Park Hill),06a5757b-83fe-5246-9a79-cc363172e6a0,40264623,,Pending Launch,In progress
 177d241c-e130-44af-aa16-107de94aa6b5,Hunt Brothers,Hunt Brothers (Pierce Crossing BP),ID Present,ID Present,ID Present,Pending Launch,In progress
 9f14549e-40af-4ac4-b1d2-5e2beb4a5d75,Hunt Brothers,Hunt Brothers (Raceway #6725),770e4f21-4ca5-5c9f-8e02-42898cf5b68f,ID Present,ID Present,Pending Launch,In progress
 6ac45fe3-2ae9-4c2f-8bfd-82eaa3d18668,Hunt Brothers,Hunt Brothers (Raceway Selma #885),ID Present,ID Present,ID Present,Pending Launch,In progress
 495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
 af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
 300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-b04df734-45d7-4104-8a0d-65305ffdaa5d,Ghaneshay 01 Inc,Kangaroo Ex 2658179,e8fdf2a1-a3d7-5661-8448-6659bb3f8f03,,ID Present,Pending Launch,In progress
+b04df734-45d7-4104-8a0d-65305ffdaa5d,Ghaneshay 01 Inc,Kangaroo Ex 2658179,e8fdf2a1-a3d7-5661-8448-6659bb3f8f03,40264619,ID Present,Pending Launch,In progress
 10bbc68d-41a5-4f2c-ad97-d994114078c7,PHR Starke LLC,Kangaroo Express 2658014,ID Present,ID Present,ID Present,Pending Launch,In progress
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
 1595300e-d707-4d4a-add3-660e595d5d72,Ridgeway Petroleum,Mastodon Kitchen (15725 W 101st Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -201,12 +201,12 @@ b518275f-1ddb-4a6b-8a71-f09ff0a55e39,Ridgeway Petroleum,Mastodon Market (21 Gost
 d3a17722-287c-4310-bd4b-a547329dab50,Ridgeway Petroleum,Mastodon Market (5631 Hohman Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 a28741ac-8bd6-4ab6-a1b5-ae69e3a780e5,Minuteman Food Mart,Minuteman Food Mart - 3119,ID Present,ID Present,ID Present,Pending Launch,In progress
 76a79dab-ad17-42d4-a2d0-6b7d0a8d72cd,Minuteman Food Mart,Minuteman Food Mart - 3132,ID Present,ID Present,ID Present,Pending Launch,In progress
-885e33af-1e00-4015-974d-02159f8edafb,Minuteman Food Mart,Minuteman Food Mart - 3144,4da9ef5b-cfbd-595e-83ef-2849c8a069ae,,ID Present,Pending Launch,In progress
+885e33af-1e00-4015-974d-02159f8edafb,Minuteman Food Mart,Minuteman Food Mart - 3144,4da9ef5b-cfbd-595e-83ef-2849c8a069ae,40264627,ID Present,Pending Launch,In progress
 e196b9ce-fcee-4590-b611-1aa11c89f91d,Minuteman Food Mart,Minuteman Food Mart - 3157,ID Present,ID Present,ID Present,Pending Launch,In progress
 a0972418-76be-45b6-8083-c96b316a0822,Minuteman Food Mart,Minuteman Food Mart - 3161,ID Present,ID Present,ID Present,Pending Launch,In progress
 8d8304f1-06b9-4e72-beb7-459c838f2de2,Minuteman Food Mart,Minuteman Food Mart - 3163,ID Present,ID Present,ID Present,Pending Launch,In progress
-d212af00-00d5-4a49-b8f8-47c3eb40b0fb,Minuteman Food Mart,Minuteman Food Mart - 3219,3a7997c6-7944-5ce1-9b67-30b990274c77,,ID Present,Pending Launch,In progress
-04cfff43-4553-41dd-a355-69d09360c494,Minuteman Food Mart,Minuteman Food Mart - 3220,51e6659b-29b1-5c8b-91ed-7a547bf9089d,,ID Present,Pending Launch,In progress
+d212af00-00d5-4a49-b8f8-47c3eb40b0fb,Minuteman Food Mart,Minuteman Food Mart - 3219,3a7997c6-7944-5ce1-9b67-30b990274c77,40264631,ID Present,Pending Launch,In progress
+04cfff43-4553-41dd-a355-69d09360c494,Minuteman Food Mart,Minuteman Food Mart - 3220,51e6659b-29b1-5c8b-91ed-7a547bf9089d,40264637,ID Present,Pending Launch,In progress
 e5330784-5d4d-4322-860d-87ce885ced6a,Minuteman Food Mart,Minuteman Food Mart - 3223,b1359d90-bc4a-5bee-a07e-7690478cc575,,ID Present,Pending Launch,In progress
 29aba096-d185-498c-9663-94181e949d7a,Minuteman Food Mart,Minuteman Food Mart - 3225,dda93a75-c7b4-5a69-b5ee-80dd310ecbf2,,ID Present,Pending Launch,In progress
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
