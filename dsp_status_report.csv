@@ -38,13 +38,11 @@ cb9601d9-1df1-4c49-97d7-d686ac33ab2c,Break Time,BreakTime (2213 Cardinal Dr),ID 
 c2a26170-9ead-4d7a-adaa-c93e2f02505f,Break Time,BreakTime (2225 N Stone Creek Dr),ID Present,ID Present,13823184,Pending Launch,In progress
 3746f29d-f36f-4f56-9c5c-6d362e2b670f,Break Time,BreakTime (2259 Bagnell Dam Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
 3f3eb025-9427-4e61-8af6-672db6e4bbb3,Break Time,BreakTime (2505 S Killingsworth Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
-7ef89a18-1015-4534-b1a3-cd80923ea57b,Break Time,BreakTime (2755 Militia Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
 77178048-868b-4994-8eb1-04bcfdbf3c4c,Break Time,BreakTime (2823 E Malone Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 1ce0397b-fa69-450b-8b3c-eed07ba457d9,Break Time,BreakTime (2940 N Westwood Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
 6e920265-459f-4a69-9dc0-517270fef874,Break Time,BreakTime (3021 NE Independence Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 1da6ca93-457a-4e8e-8c09-26ad3fe6e69b,Break Time,BreakTime (3200 E Stadium Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
 8376ade3-91b8-46fa-9708-ccd0421b89f2,Break Time,BreakTime (420 N Main St),ID Present,ID Present,13698608,Pending Launch,In progress
-76741d5f-c973-4790-918a-2f7e82057c8a,Break Time,BreakTime (4701 E Elk Park Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
 d53edbe1-c92d-49d1-84d4-9b749fca4a6d,Break Time,BreakTime (609 N Catalpa St),ID Present,ID Present,ID Present,Pending Launch,In progress
 e9a7c4bc-5fc7-4211-94cc-087935318aae,Break Time,BreakTime (7701 Roanoke Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
 1074cde6-3a69-4183-962b-6c2408ebc1e7,Break Time,BreakTime (805 N Missouri St),ID Present,ID Present,,Pending Launch,In progress
@@ -111,7 +109,6 @@ f077e613-ef60-4213-8164-5acdbd6af280,IMSR Enterprises LLC,Circle K - Date Palm D
 213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,,,,Pending Launch,In progress
 d70764a2-8d99-45fb-9fc0-c67048812323,Circle K (Ocala Marathon),Circle K - Jacksonville Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
 663fc12c-cf5a-4124-876d-cd40ecf6f863,Oak Valley Express,Circle K - Oak Valley 76,49fefd7f-8b9a-5813-9a2d-4508861cd59f,,ID Present,Pending Launch,In progress
-eb36b29a-4b4f-49fa-8b83-53bad4279281,Seco Canyon,Circle K - Seco Canyon,ID Present,ID Present,ID Present,Pending Launch,In progress
 fa6ea105-a1d6-4bd6-918d-77113a32a982,Colton Super Center Inc.,Circle K - Tustin,,,,Pending Launch,In progress
 fe2cd103-748e-402f-abf2-59063ce351ee,Orange Tree Fresh Fruit & Nuts Inc.,Circle K - Woodcrest 76,ID Present,ID Present,ID Present,Pending Launch,In progress
 d0b670b1-c707-4fa1-8e3f-0dd5d2150c96,Goosecreek Fishersville LLC,Circle K 26544,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -124,6 +121,7 @@ da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mount
 f5d2c93e-9d3f-45f6-ae53-f9fae2a837ac,BSD Inc,Circle K- 2799 4th St,,,,Pending Launch,In progress
 43f4604c-7f4f-4d81-9069-ed78aa62c2c8,Veeram Inc,Circle K- 44462 E. Florida Ave,a9167018-9b33-5fde-ac00-baac241d7fe5,40264621,13826432,Pending Launch,In progress
 91720618-b9a3-4a13-8957-b493d71daa96,DK & GK inc. DBA Elk Grove Shell,Circle K- 9190 East Stockton Blvd,90e62488-7ba5-500d-ade9-eeb6d462919b,40264625,13827936,Pending Launch,In progress
+3d30a61f-5733-44ff-85a3-38fc4512f950,HCI Fuels,Circle K- Mission Boulevard,,,,Pending Launch,In progress
 1ff0c370-4e3a-42fd-a6df-86df640d95d8,Flatshoals Exxon Usa Inc,Citgo Speed Zone (200 Upper Riverdale Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 7a0feecf-b7a4-4b8b-b71a-8837c1d9a1b1,EZ Market,EZ Market (120 Piedmont Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 697c223d-2206-424a-b10b-b47c11f80db8,EZ Market,EZ Market (1209 Collier Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -183,6 +181,7 @@ d1266f45-02f0-46af-b5ed-75170c23d7db,Hunt Brothers,Hunt Brothers (A&D Market),,,
 177d241c-e130-44af-aa16-107de94aa6b5,Hunt Brothers,Hunt Brothers (Pierce Crossing BP),ID Present,ID Present,ID Present,Pending Launch,In progress
 9f14549e-40af-4ac4-b1d2-5e2beb4a5d75,Hunt Brothers,Hunt Brothers (Raceway #6725),ID Present,ID Present,ID Present,Pending Launch,In progress
 6ac45fe3-2ae9-4c2f-8bfd-82eaa3d18668,Hunt Brothers,Hunt Brothers (Raceway Selma #885),ID Present,ID Present,ID Present,Pending Launch,In progress
+28e05d3e-5660-4213-8649-77772f759241,Hunt Brothers,Hunt Brothers (Sunshine FoodMart),,,,Pending Launch,In progress
 495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
 af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
 300514c0-84e1-4cd9-b9e8-de6b678305c9,Ami LLC,KKC (3671 Orchard Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
