@@ -104,6 +104,7 @@ d70764a2-8d99-45fb-9fc0-c67048812323,Circle K (Ocala Marathon),Circle K - Jackso
 6105ab35-2f04-40d9-b834-e7ad1ed40270,S&N Nazar Inc,Circle K - Silicon Valley Valero,,,,Pending Launch,In progress
 fa6ea105-a1d6-4bd6-918d-77113a32a982,Colton Super Center Inc.,Circle K - Tustin,,,ID Present,Pending Launch,In progress
 5a241e58-fb58-4215-90a0-25528e58eb77,JNT Management Inc,Circle K - Woodbridge,,,,Pending Launch,In progress
+97aa9407-307d-4758-b190-cd9c7bb344b0,LWS Highland Gas Inc,Circle K 2654059,,,,Pending Launch,In progress
 4cd1683b-fe1f-4165-ad56-455131d1aea2,Kwik Trip Oil,Circle K Atlantic Beach,ID Present,ID Present,ID Present,Pending Launch,In progress
 9bc8c25c-45e7-4f35-b28b-cafc064efc86,Kwik Trip Oil,Circle K Bowden,ID Present,ID Present,ID Present,Pending Launch,In progress
 9f9bbc80-10cc-4152-9c47-0348a5b36b45,Kwik Trip Oil,Circle K Gateway,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -124,10 +125,7 @@ acd462ff-7a79-40d5-879c-df1674df0a3c,EZ Market,EZ Market (1888 Peachtree St),ID 
 d57694ec-8db6-460c-b695-3658ec958d1b,EZ Market,EZ Market (2375 Shallowford Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 b861f8fd-c1ec-4c28-bd9c-0fa570be10fe,EZ Market,EZ Market (3004 Piedmont Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 a4f7ca3f-34b7-423d-abd1-7dcd01cdc3d5,EZ Market,EZ Market (329 14th St NW),ID Present,ID Present,ID Present,Pending Launch,In progress
-8319fdc9-23ae-45ec-b4e2-8bf81672a448,EZ Market,EZ Market (3892 Buford Hwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 33b10d7d-56d3-4860-89f2-70881ab4789c,EZ Market,EZ Market (486 Ponce De Leon Ave NE),ID Present,ID Present,ID Present,Pending Launch,In progress
-5d493818-18ec-4b31-91f7-3110e295b967,EZ Market,EZ Market (490 Whitehall St SW),ID Present,ID Present,ID Present,Pending Launch,In progress
-a38f55c5-d1dc-44fb-8250-39a61eacc3e6,EZ Market,EZ Market (4968 Roswell Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 bc2a238f-1626-48ae-bbbb-5696d2924fbb,EZ Market,EZ Market (516 Lee St SW),ID Present,ID Present,ID Present,Pending Launch,In progress
 7ecbb641-e476-42c6-a78c-3d4a642ad654,EZ Market,EZ Market (5220 Hwy 278),ID Present,ID Present,ID Present,Pending Launch,In progress
 950133c8-a369-4301-bef9-00d8c5223bb2,EZ Market,EZ Market (556 Northside Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -165,23 +163,21 @@ b04df734-45d7-4104-8a0d-65305ffdaa5d,Ghaneshay 01 Inc,Kangaroo Ex 2658179,ID Pre
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
 36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),,,,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W Coal City Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-9142c941-4b7f-4ad3-a00d-e02eada40f98,Ridgeway Petroleum,Mastodon Market (10 45th St),ID Present,ID Present,ID Present,Pending Launch,In progress
-1509a567-1c10-4016-9d07-b21d0d977166,Ridgeway Petroleum,Mastodon Market (1440 Indianapolis Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
-279bc45b-5abd-4e60-a15f-4b253f747f35,Ridgeway Petroleum,Mastodon Market (2735 Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
-26db39f8-f19b-4b81-b506-e35737c5774d,Ridgeway Petroleum,Mastodon Market (501 Joliet St),ID Present,ID Present,ID Present,Pending Launch,In progress
-c5d81208-55d2-4c8f-afbd-2258db772d9a,Minuteman Food Mart,Minuteman Food Mart - 204,,,,Pending Launch,In progress
-f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3116,,,,Pending Launch,In progress
-581049d5-b08d-40ca-aff1-cdc19c586c22,Minuteman Food Mart,Minuteman Food Mart - 3118,,,,Pending Launch,In progress
-96b71ce5-03f4-4098-bd03-360ad52d5e77,Minuteman Food Mart,Minuteman Food Mart - 3131,,,,Pending Launch,In progress
-0dcea5af-2475-4b21-9321-6bd182606d11,Minuteman Food Mart,Minuteman Food Mart - 3133,,,,Pending Launch,In progress
-952c9f81-447c-412f-8af6-c9ac24e5f426,Minuteman Food Mart,Minuteman Food Mart - 3137,,,,Pending Launch,In progress
+c5d81208-55d2-4c8f-afbd-2258db772d9a,Minuteman Food Mart,Minuteman Food Mart - 204,,Missing,,Pending Launch,In progress
+f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3116,,Missing,,Pending Launch,In progress
+581049d5-b08d-40ca-aff1-cdc19c586c22,Minuteman Food Mart,Minuteman Food Mart - 3118,,Missing,,Pending Launch,In progress
+96b71ce5-03f4-4098-bd03-360ad52d5e77,Minuteman Food Mart,Minuteman Food Mart - 3131,,Missing,,Pending Launch,In progress
+0dcea5af-2475-4b21-9321-6bd182606d11,Minuteman Food Mart,Minuteman Food Mart - 3133,,Missing,,Pending Launch,In progress
+952c9f81-447c-412f-8af6-c9ac24e5f426,Minuteman Food Mart,Minuteman Food Mart - 3137,,Missing,,Pending Launch,In progress
 885e33af-1e00-4015-974d-02159f8edafb,Minuteman Food Mart,Minuteman Food Mart - 3144,ID Present,ID Present,ID Present,Pending Launch,In progress
-790a963b-1d2b-40c1-b75a-29b1b7912935,Minuteman Food Mart,Minuteman Food Mart - 3145,,,,Pending Launch,In progress
-105046e1-9d28-4a86-9e78-e83e7bf1ed54,Minuteman Food Mart,Minuteman Food Mart - 3158,,,,Pending Launch,In progress
+790a963b-1d2b-40c1-b75a-29b1b7912935,Minuteman Food Mart,Minuteman Food Mart - 3145,,Missing,,Pending Launch,In progress
+105046e1-9d28-4a86-9e78-e83e7bf1ed54,Minuteman Food Mart,Minuteman Food Mart - 3158,,Missing,,Pending Launch,In progress
 d212af00-00d5-4a49-b8f8-47c3eb40b0fb,Minuteman Food Mart,Minuteman Food Mart - 3219,ID Present,ID Present,ID Present,Pending Launch,In progress
 04cfff43-4553-41dd-a355-69d09360c494,Minuteman Food Mart,Minuteman Food Mart - 3220,ID Present,ID Present,ID Present,Pending Launch,In progress
 e5330784-5d4d-4322-860d-87ce885ced6a,Minuteman Food Mart,Minuteman Food Mart - 3223,ID Present,,ID Present,Pending Launch,In progress
 29aba096-d185-498c-9663-94181e949d7a,Minuteman Food Mart,Minuteman Food Mart - 3225,ID Present,,ID Present,Pending Launch,In progress
+c6b767fc-9224-4624-b557-15e3702a460d,Quick Track - LaMa,Quick Track 118,,,,Pending Launch,In progress
+6e994c38-c405-4dfc-b23d-b0a7350103fd,Quick Track - LaMa,Quick Track 126,,,,Pending Launch,In progress
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),,,,Pending Launch,In progress
