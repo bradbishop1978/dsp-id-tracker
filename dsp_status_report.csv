@@ -102,7 +102,7 @@ d158a021-83bb-412a-a289-e66114c9eca4,Colton Super Center Inc.,Circle K - Colton,
 6105ab35-2f04-40d9-b834-e7ad1ed40270,S&N Nazar Inc,Circle K - Silicon Valley Valero,1c5b289f-504b-58b1-aebe-87e355c8b58f,,,Pending Launch,In progress
 fa6ea105-a1d6-4bd6-918d-77113a32a982,Colton Super Center Inc.,Circle K - Tustin,6575b771-4fff-524a-a79e-103a2f7b034a,,ID Present,Pending Launch,In progress
 5a241e58-fb58-4215-90a0-25528e58eb77,JNT Management Inc,Circle K - Woodbridge,,,,Pending Launch,In progress
-97aa9407-307d-4758-b190-cd9c7bb344b0,LWS Highland Gas Inc,Circle K 2654059,,,,Pending Launch,In progress
+97aa9407-307d-4758-b190-cd9c7bb344b0,LWS Highland Gas Inc,Circle K 2654059,,Missing,,Pending Launch,In progress
 4cd1683b-fe1f-4165-ad56-455131d1aea2,Kwik Trip Oil,Circle K Atlantic Beach,ID Present,ID Present,ID Present,Pending Launch,In progress
 3f8b1013-6f0f-474a-8cb6-e2ceb8effaeb,Circle K Franchise (HM1 Corporation),Circle K Batavia Ave,,Missing,,Pending Launch,In progress
 9bc8c25c-45e7-4f35-b28b-cafc064efc86,Kwik Trip Oil,Circle K Bowden,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -110,6 +110,7 @@ fa6ea105-a1d6-4bd6-918d-77113a32a982,Colton Super Center Inc.,Circle K - Tustin,
 d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,ID Present,ID Present,ID Present,Pending Launch,In progress
 ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,ID Present,ID Present,ID Present,Pending Launch,In progress
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
+1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K- 1813 South Main St,,Missing,,Pending Launch,In progress
 1ff0c370-4e3a-42fd-a6df-86df640d95d8,Flatshoals Exxon Usa Inc,Citgo Speed Zone (200 Upper Riverdale Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 7a0feecf-b7a4-4b8b-b71a-8837c1d9a1b1,EZ Market,EZ Market (120 Piedmont Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 697c223d-2206-424a-b10b-b47c11f80db8,EZ Market,EZ Market (1209 Collier Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -152,13 +153,12 @@ ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),ID Prese
 e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 0c3e55a0-14e0-4685-8fe9-1f8ed79b360d,Gogo Stores,Gogo (Lake & Anthony),ID Present,ID Present,ID Present,Pending Launch,In progress
 3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,ID Present,Pending Launch,In progress
-d1266f45-02f0-46af-b5ed-75170c23d7db,Hunt Brothers,Hunt Brothers (A&D Market),ID Present,ID Present,ID Present,Pending Launch,In progress
 1275f940-dfdb-42fb-966e-b001e7b7a107,Hunt Brothers,Hunt Brothers (LMR Oil Claremore),ID Present,ID Present,ID Present,Pending Launch,In progress
-7fbc2dab-30b2-432e-8868-01224d92cbaa,Hunt Brothers,Hunt Brothers (LMR Oil Park Hill),ID Present,ID Present,ID Present,Pending Launch,In progress
 28e05d3e-5660-4213-8649-77772f759241,Hunt Brothers,Hunt Brothers (Sunshine FoodMart),ID Present,ID Present,,Pending Launch,In progress
 495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
 af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
 b04df734-45d7-4104-8a0d-65305ffdaa5d,Ghaneshay 01 Inc,Kangaroo Ex 2658179,ID Present,ID Present,ID Present,Pending Launch,In progress
+2baff316-e1e9-4fe0-a8d1-eb12aef4ff4b,Kangaroo Expres (Eclipse First Coast Investment),Kangaroo Express- 2658077,,Missing,,Pending Launch,In progress
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
 36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),,Missing,,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W Coal City Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -175,14 +175,12 @@ d212af00-00d5-4a49-b8f8-47c3eb40b0fb,Minuteman Food Mart,Minuteman Food Mart - 3
 04cfff43-4553-41dd-a355-69d09360c494,Minuteman Food Mart,Minuteman Food Mart - 3220,ID Present,ID Present,ID Present,Pending Launch,In progress
 e5330784-5d4d-4322-860d-87ce885ced6a,Minuteman Food Mart,Minuteman Food Mart - 3223,ID Present,,ID Present,Pending Launch,In progress
 29aba096-d185-498c-9663-94181e949d7a,Minuteman Food Mart,Minuteman Food Mart - 3225,ID Present,,ID Present,Pending Launch,In progress
-c6b767fc-9224-4624-b557-15e3702a460d,Quick Track - LaMa,Quick Track 118,,,,Pending Launch,In progress
-6e994c38-c405-4dfc-b23d-b0a7350103fd,Quick Track - LaMa,Quick Track 126,,,,Pending Launch,In progress
+c6b767fc-9224-4624-b557-15e3702a460d,Quick Track - LaMa,Quick Track 118,,Missing,,Pending Launch,In progress
+6e994c38-c405-4dfc-b23d-b0a7350103fd,Quick Track - LaMa,Quick Track 126,,Missing,,Pending Launch,In progress
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
-37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),,,,Pending Launch,In progress
+37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),,Missing,,Pending Launch,In progress
 75e1b7a9-f2d9-474c-a062-d1cb69833630,Yazzy's Market,Yazzy's Market Inc - 1163 Hoosick Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
-8fda6f57-9ffe-4acc-913c-881e228bcb07,Yazzy's Market,Yazzy's Market Inc - 125 Mill St,ID Present,ID Present,ID Present,Pending Launch,In progress
-8bd30cd8-2240-41c7-8a2b-97312861991d,Yazzy's Market,Yazzy's Market Inc - 317 Delaware Ave,ID Present,ID Present,ID Present,Pending Launch,In progress
 f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,[DUP] Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,13668200,Pending Launch,In progress
 6bae9e17-d13e-4f68-87e5-f3bf1dea9ef7,Circle K Gas Express,f'real Shake Shop (10200 Unit B Rodney Parham Rd),,,,Pending Launch,In progress
 ac78a67c-4262-479b-b849-d31ef8aa3496,Circle K Gas Express,f'real Shake Shop (10321 Unit B Colonel Glenn Rd),,,,Pending Launch,In progress
