@@ -79,7 +79,7 @@ c3f8f935-f31b-401a-8bc0-117ee7a80581,Chestnut Market,Chestnut Market (504 New Ro
 0ebfd044-2b3b-4a9c-86f1-d27309f72107,Chestnut Market,Chestnut Market (870 Route 35),ID Present,ID Present,ID Present,Pending Launch,In progress
 fdd5bd1f-8368-4b57-88d3-bdaaef5b0849,Chestnut Market,Chestnut Market (Hutchinson River Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 c83a98df-cf45-4323-af1a-ec9eafc907f3,Chestnut Market,Chestnut Market – US-6 (Baldwin Place),ID Present,ID Present,ID Present,Pending Launch,In progress
-3c4769ae-77df-4a5a-bd32-001b5589061d,Circle K Gas Express,Circle K (111 Boulevard NE),,,ID Present,Pending Launch,In progress
+3c4769ae-77df-4a5a-bd32-001b5589061d,Circle K Gas Express,Circle K (111 Boulevard NE),8ae4221f-85fb-5cc0-b68c-05a62fa572ad,,ID Present,Pending Launch,In progress
 a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),ID Present,ID Present,ID Present,Pending Launch,In progress
 f980a495-d28a-4dd6-918e-b9c81529f0b8,Circle K Gas Express,Circle K (46840 Warm Springs Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -118,7 +118,7 @@ d898c8b1-7b53-4053-95e4-227933a113ac,EZ Market,EZ Market (1222 West Marietta St 
 999d54cc-fb95-45a6-bd58-3f1867ffcd4a,EZ Market,EZ Market (1411 Bouldercrest Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 dcc5c2cf-6fba-4cdf-93a8-f7f6901ec1e6,EZ Market,EZ Market (1804 Beaver Ruin Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 91de7eee-925d-456f-8419-2a0d4f3741bc,EZ Market,EZ Market (1810 Forest Parkway),ID Present,ID Present,ID Present,Pending Launch,In progress
-052edfc1-b46a-4b05-9d56-c2f7beb9f7b5,EZ Market,EZ Market (1885 Clairmont Rd),,,,Pending Launch,In progress
+052edfc1-b46a-4b05-9d56-c2f7beb9f7b5,EZ Market,EZ Market (1885 Clairmont Rd),60e2acd0-7eb9-5535-9ca6-22984c75f9f4,,,Pending Launch,In progress
 acd462ff-7a79-40d5-879c-df1674df0a3c,EZ Market,EZ Market (1888 Peachtree St),ID Present,ID Present,ID Present,Pending Launch,In progress
 8a8e665d-3187-45da-98f1-9fb79b7f7bbf,EZ Market,EZ Market (1892 Howell Mill Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 95e03fe2-f3e6-432d-b7c7-6e925140f2e1,EZ Market,EZ Market (2041 Marietta Blvd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -173,7 +173,7 @@ f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3
 105046e1-9d28-4a86-9e78-e83e7bf1ed54,Minuteman Food Mart,Minuteman Food Mart - 3158,,Missing,,Pending Launch,In progress
 d212af00-00d5-4a49-b8f8-47c3eb40b0fb,Minuteman Food Mart,Minuteman Food Mart - 3219,ID Present,ID Present,ID Present,Pending Launch,In progress
 04cfff43-4553-41dd-a355-69d09360c494,Minuteman Food Mart,Minuteman Food Mart - 3220,ID Present,ID Present,ID Present,Pending Launch,In progress
-e5330784-5d4d-4322-860d-87ce885ced6a,Minuteman Food Mart,Minuteman Food Mart - 3223,ID Present,,ID Present,Pending Launch,In progress
+e5330784-5d4d-4322-860d-87ce885ced6a,Minuteman Food Mart,Minuteman Food Mart - 3223,ID Present,ID Present,ID Present,Pending Launch,In progress
 29aba096-d185-498c-9663-94181e949d7a,Minuteman Food Mart,Minuteman Food Mart - 3225,ID Present,,ID Present,Pending Launch,In progress
 c6b767fc-9224-4624-b557-15e3702a460d,Quick Track - LaMa,Quick Track 118,,Missing,,Pending Launch,In progress
 6e994c38-c405-4dfc-b23d-b0a7350103fd,Quick Track - LaMa,Quick Track 126,,Missing,,Pending Launch,In progress
@@ -182,38 +182,38 @@ cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),,Missing,,Pending Launch,In progress
 75e1b7a9-f2d9-474c-a062-d1cb69833630,Yazzy's Market,Yazzy's Market Inc - 1163 Hoosick Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
 f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,[DUP] Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,13668200,Pending Launch,In progress
-6bae9e17-d13e-4f68-87e5-f3bf1dea9ef7,Circle K Gas Express,f'real Shake Shop (10200 Unit B Rodney Parham Rd),,,,Pending Launch,In progress
-ac78a67c-4262-479b-b849-d31ef8aa3496,Circle K Gas Express,f'real Shake Shop (10321 Unit B Colonel Glenn Rd),,,,Pending Launch,In progress
-c26bfec6-2c5a-4451-bc5a-41ed5927094b,Circle K Gas Express,f'real Shake Shop (109 Unit B N Chester St),,,,Pending Launch,In progress
-66e437b2-e252-40fa-af7a-580c6202e4a8,Circle K Gas Express,f'real Shake Shop (118 Unit B Country Club Rd),,,,Pending Launch,In progress
-016a8d4b-06aa-45b2-96ed-dc69acb39f62,Circle K Gas Express,f'real Shake Shop (11819 Unit B Colonel Glenn Rd),,,,Pending Launch,In progress
-7c45062c-083e-4787-9a18-1dd9248b4974,Circle K Gas Express,f'real Shake Shop (1600 Unit B Pike Ave),,,,Pending Launch,In progress
-6e73ba77-00a9-4bef-9f30-40ef40ea7320,Circle K Gas Express,f'real Shake Shop (1684 Unit B S College St),,,,Pending Launch,In progress
-fdef9bd2-829f-4f2e-8e8c-ee5e8b2c5556,Circle K Gas Express,f'real Shake Shop (1720 Marietta Blvd NW),,,,Pending Launch,In progress
-34124731-930d-4642-9ef4-9717986c18e0,Circle K Gas Express,f'real Shake Shop (1810 Unit B Dry Pond Rd),,,,Pending Launch,In progress
-cf56c14f-7e4b-4e94-b8d6-55598beb3b16,Circle K Gas Express,f'real Shake Shop (1820 Unit B Hollywood Rd NW),,,,Pending Launch,In progress
-547b8f37-f88a-426b-8b6d-7649fc050e40,Circle K Gas Express,f'real Shake Shop (1896 Unit B Piedmont Rd NE),,,,Pending Launch,In progress
-a64e4e16-b6cd-431e-9d98-596e646efed7,Circle K Gas Express,f'real Shake Shop (2300 Unit B Whitesville Rd),,,,Pending Launch,In progress
-3216b060-c1ea-45ca-ade1-8c4855a9f736,Circle K Gas Express,f'real Shake Shop (2808 Unit B W Huntsville Ave),,,,Pending Launch,In progress
-b901bf85-b5a7-4a95-90d7-aa2c8e8fd961,Circle K Gas Express,f'real Shake Shop (2906 Unit B Atlanta Hwy),,,,Pending Launch,In progress
-73d9920f-da26-4f21-93bd-da5db158f081,Circle K Gas Express,f'real Shake Shop (2909 Unit B E South Blvd),,,,Pending Launch,In progress
-d146cd2b-1884-4186-a888-4652e1ee0f1d,Circle K Gas Express,f'real Shake Shop (3106 Unit B Jenny Lind Rd),,,,Pending Launch,In progress
-0f27cdf8-3495-46ea-bff2-15551fe87040,Circle K Gas Express,f'real Shake Shop (3285 Unit B McGinnis Ferry Rd),,,,Pending Launch,In progress
-99ddd79b-344a-49b2-9a2c-24bdfbbe8bc3,Circle K Gas Express,f'real Shake Shop (3301 Unit B SW 2nd St),,,,Pending Launch,In progress
-89021260-85d1-4a33-9c8d-b250e33b3c6b,Circle K Gas Express,f'real Shake Shop (3320 Unit B JF Kennedy Blvd),,,,Pending Launch,In progress
-d7642af4-479a-4718-9f39-0bfa2c6ebe4c,Circle K Gas Express,f'real Shake Shop (3400 Unit B Busbee Dr NW),,,,Pending Launch,In progress
-2a5cbc85-35ed-4999-a789-c3d0551a25c2,Circle K Gas Express,f'real Shake Shop (3801 Unit B Flat Shoals Pkwy),,,,Pending Launch,In progress
-3f7bb147-6f73-48eb-977d-8a7b748a05e9,Circle K Gas Express,f'real Shake Shop (38507 Unit B E Hwy 30),,,,Pending Launch,In progress
-3f23edca-d7d1-46c7-9276-706a72fbc38e,Circle K Gas Express,f'real Shake Shop (4101 Unit B Brooken Hill Dr),,,,Pending Launch,In progress
-33d2fe1b-f249-4853-aa4d-01163d306500,Circle K Gas Express,f'real Shake Shop (4300 Unit B E Broadway St),,,,Pending Launch,In progress
-a69bd57a-6de6-45d7-9628-c295d3945049,Circle K Gas Express,f'real Shake Shop (4507 Unit B Troy Hwy),,,,Pending Launch,In progress
-2f6d7e1f-4924-4961-93e4-e3855879d8a0,Circle K Gas Express,f'real Shake Shop (5051 Unit B Warden Rd),,,,Pending Launch,In progress
-1a142473-17b6-4086-b9d3-798b239ef922,Circle K Gas Express,f'real Shake Shop (5615 Unit B Lindsey Rd),,,,Pending Launch,In progress
-6a53f041-f358-4b60-a85b-69988f4da771,Circle K Gas Express,f'real Shake Shop (6142 Unit B Old Dixie Hwy),,,,Pending Launch,In progress
-9624fd82-96bb-4fc0-91ea-e59f58f48e07,Circle K Gas Express,f'real Shake Shop (6201 Unit B Colonel Glenn Rd),,,,Pending Launch,In progress
-ebfcc445-037b-4177-a719-59245b683312,Circle K Gas Express,f'real Shake Shop (648 Unit B Belle Terre Blvd),,,,Pending Launch,In progress
-4a469f09-08ff-41c6-abd1-754dcbebe5af,Circle K Gas Express,f'real Shake Shop (758 Unit B W North Street),,,,Pending Launch,In progress
-4fb0979d-e4ef-4bea-ab73-8a27aca1ca88,Circle K Gas Express,f'real Shake Shop (8023 Unit B Cumming Hwy),,,,Pending Launch,In progress
-35323735-f4e8-4c6d-9349-f3cadd15a73d,Circle K Gas Express,f'real Shake Shop (8967 Unit B Jefferson Hwy),,,,Pending Launch,In progress
-5af8b4e9-68e2-407d-96e0-5511057932ef,Circle K Gas Express,f'real Shake Shop (943 Unit B Hwy 53),,,,Pending Launch,In progress
-9e1b3714-0d76-4471-8f6d-2e6017b02e80,Circle K Gas Express,f'real Shake Shop (9811 Unit B AR 253),,,,Pending Launch,In progress
+6bae9e17-d13e-4f68-87e5-f3bf1dea9ef7,Circle K Gas Express,f'real Shake Shop (10200 Unit B Rodney Parham Rd),8ec94af4-d18d-586a-9122-317d1f37bfa3,,,Pending Launch,In progress
+ac78a67c-4262-479b-b849-d31ef8aa3496,Circle K Gas Express,f'real Shake Shop (10321 Unit B Colonel Glenn Rd),566f3ead-0725-59f9-9d98-d362f4026da5,,,Pending Launch,In progress
+c26bfec6-2c5a-4451-bc5a-41ed5927094b,Circle K Gas Express,f'real Shake Shop (109 Unit B N Chester St),5e536ba7-db6c-5ec9-83da-ce3c58e16dd4,,,Pending Launch,In progress
+66e437b2-e252-40fa-af7a-580c6202e4a8,Circle K Gas Express,f'real Shake Shop (118 Unit B Country Club Rd),8587499b-4438-56f3-9ab2-ffdb8cdcc300,,,Pending Launch,In progress
+016a8d4b-06aa-45b2-96ed-dc69acb39f62,Circle K Gas Express,f'real Shake Shop (11819 Unit B Colonel Glenn Rd),97596ff0-c055-52a8-939c-21c0d9415271,,,Pending Launch,In progress
+7c45062c-083e-4787-9a18-1dd9248b4974,Circle K Gas Express,f'real Shake Shop (1600 Unit B Pike Ave),6efb2957-a9e1-5f49-ab06-50f1eec1b6c0,,,Pending Launch,In progress
+6e73ba77-00a9-4bef-9f30-40ef40ea7320,Circle K Gas Express,f'real Shake Shop (1684 Unit B S College St),5f77efb8-050e-57e5-95b0-7347245f48d9,,,Pending Launch,In progress
+fdef9bd2-829f-4f2e-8e8c-ee5e8b2c5556,Circle K Gas Express,f'real Shake Shop (1720 Marietta Blvd NW),a3dc4957-5613-5a70-af79-e0fa79f63902,,,Pending Launch,In progress
+34124731-930d-4642-9ef4-9717986c18e0,Circle K Gas Express,f'real Shake Shop (1810 Unit B Dry Pond Rd),6035460c-3ea9-5760-85fe-11967725b87a,,,Pending Launch,In progress
+cf56c14f-7e4b-4e94-b8d6-55598beb3b16,Circle K Gas Express,f'real Shake Shop (1820 Unit B Hollywood Rd NW),91a7581d-a960-592e-a0b9-a685e6c139f0,,,Pending Launch,In progress
+547b8f37-f88a-426b-8b6d-7649fc050e40,Circle K Gas Express,f'real Shake Shop (1896 Unit B Piedmont Rd NE),42899d09-d5ff-55f9-88bc-e84957d4c7e1,,,Pending Launch,In progress
+a64e4e16-b6cd-431e-9d98-596e646efed7,Circle K Gas Express,f'real Shake Shop (2300 Unit B Whitesville Rd),22f03818-d57c-54de-8c66-f52992a63554,,,Pending Launch,In progress
+3216b060-c1ea-45ca-ade1-8c4855a9f736,Circle K Gas Express,f'real Shake Shop (2808 Unit B W Huntsville Ave),d64562d3-7898-59b6-b6af-e1537ab0224c,,,Pending Launch,In progress
+b901bf85-b5a7-4a95-90d7-aa2c8e8fd961,Circle K Gas Express,f'real Shake Shop (2906 Unit B Atlanta Hwy),26569aa3-34c8-588c-a5c3-7ac490189f28,,,Pending Launch,In progress
+73d9920f-da26-4f21-93bd-da5db158f081,Circle K Gas Express,f'real Shake Shop (2909 Unit B E South Blvd),e7a301c0-f6e0-5c51-8c26-d2569e933e77,,,Pending Launch,In progress
+d146cd2b-1884-4186-a888-4652e1ee0f1d,Circle K Gas Express,f'real Shake Shop (3106 Unit B Jenny Lind Rd),6cfa9722-843f-5b4e-94d6-9b24d4ae301b,,,Pending Launch,In progress
+0f27cdf8-3495-46ea-bff2-15551fe87040,Circle K Gas Express,f'real Shake Shop (3285 Unit B McGinnis Ferry Rd),68a4e5f4-a599-5635-8a29-5d9a22c14ac6,,,Pending Launch,In progress
+99ddd79b-344a-49b2-9a2c-24bdfbbe8bc3,Circle K Gas Express,f'real Shake Shop (3301 Unit B SW 2nd St),5ac66d34-4261-519f-94d2-af12243f755b,,,Pending Launch,In progress
+89021260-85d1-4a33-9c8d-b250e33b3c6b,Circle K Gas Express,f'real Shake Shop (3320 Unit B JF Kennedy Blvd),736c6fae-3b9c-59ee-ae39-b683684a513b,,,Pending Launch,In progress
+d7642af4-479a-4718-9f39-0bfa2c6ebe4c,Circle K Gas Express,f'real Shake Shop (3400 Unit B Busbee Dr NW),d3d62dba-df22-5811-83c7-c1a7ab2fc59d,,,Pending Launch,In progress
+2a5cbc85-35ed-4999-a789-c3d0551a25c2,Circle K Gas Express,f'real Shake Shop (3801 Unit B Flat Shoals Pkwy),254aae8f-67bf-558f-8f31-292d832da5b0,,,Pending Launch,In progress
+3f7bb147-6f73-48eb-977d-8a7b748a05e9,Circle K Gas Express,f'real Shake Shop (38507 Unit B E Hwy 30),122a4a1f-93db-512d-973b-d735a0b4b455,,,Pending Launch,In progress
+3f23edca-d7d1-46c7-9276-706a72fbc38e,Circle K Gas Express,f'real Shake Shop (4101 Unit B Brooken Hill Dr),b814c234-1ac9-5c12-8a29-cf9502b97b6b,,,Pending Launch,In progress
+33d2fe1b-f249-4853-aa4d-01163d306500,Circle K Gas Express,f'real Shake Shop (4300 Unit B E Broadway St),7c2a7f78-c4f0-5744-b975-92c63d8583c7,,,Pending Launch,In progress
+a69bd57a-6de6-45d7-9628-c295d3945049,Circle K Gas Express,f'real Shake Shop (4507 Unit B Troy Hwy),fcd9474f-0d3e-501f-be08-fb18c5295371,,,Pending Launch,In progress
+2f6d7e1f-4924-4961-93e4-e3855879d8a0,Circle K Gas Express,f'real Shake Shop (5051 Unit B Warden Rd),db3ca8fb-00c9-5850-a9df-bf3c9f19268f,,,Pending Launch,In progress
+1a142473-17b6-4086-b9d3-798b239ef922,Circle K Gas Express,f'real Shake Shop (5615 Unit B Lindsey Rd),2431a761-cc28-55bd-8cfc-bbe704256dad,,,Pending Launch,In progress
+6a53f041-f358-4b60-a85b-69988f4da771,Circle K Gas Express,f'real Shake Shop (6142 Unit B Old Dixie Hwy),0d7485d6-bf96-5f2f-86b0-c7fdbdde2fc9,,,Pending Launch,In progress
+9624fd82-96bb-4fc0-91ea-e59f58f48e07,Circle K Gas Express,f'real Shake Shop (6201 Unit B Colonel Glenn Rd),97596ff0-c055-52a8-939c-21c0d9415271,,,Pending Launch,In progress
+ebfcc445-037b-4177-a719-59245b683312,Circle K Gas Express,f'real Shake Shop (648 Unit B Belle Terre Blvd),a19853dc-0d72-5a3c-95e5-791c36e0241e,,,Pending Launch,In progress
+4a469f09-08ff-41c6-abd1-754dcbebe5af,Circle K Gas Express,f'real Shake Shop (758 Unit B W North Street),1848a7ce-11ea-51aa-9211-d6ec8e9f973d,,,Pending Launch,In progress
+4fb0979d-e4ef-4bea-ab73-8a27aca1ca88,Circle K Gas Express,f'real Shake Shop (8023 Unit B Cumming Hwy),f14e2fd9-5fdc-5b15-8ecd-d36bf3e0b4c3,,,Pending Launch,In progress
+35323735-f4e8-4c6d-9349-f3cadd15a73d,Circle K Gas Express,f'real Shake Shop (8967 Unit B Jefferson Hwy),949c391f-869f-521f-aaa1-c9b050fde5f6,,,Pending Launch,In progress
+5af8b4e9-68e2-407d-96e0-5511057932ef,Circle K Gas Express,f'real Shake Shop (943 Unit B Hwy 53),c5d14368-7b24-5820-8320-21570390b03c,,,Pending Launch,In progress
+9e1b3714-0d76-4471-8f6d-2e6017b02e80,Circle K Gas Express,f'real Shake Shop (9811 Unit B AR 253),63991394-90d0-5137-8125-b6735f0db0cf,,,Pending Launch,In progress
