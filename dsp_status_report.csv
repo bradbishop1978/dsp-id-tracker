@@ -11,7 +11,6 @@ d4023c58-15de-4f71-aceb-1ba2029da218,Jacksons Food Stores,Aztec Grill/Redwood Ma
 425865ab-cc52-4e75-9978-35f8a610583e,Jacksons Food Stores,Aztec Grill/Redwood Market #293,ID Present,ID Present,ID Present,Pending Launch,In progress
 6414b368-5c3c-408d-a5f5-6ad960624b27,Jacksons Food Stores,Aztec Grill/Redwood Market #295,ID Present,ID Present,ID Present,Pending Launch,In progress
 294cee7c-c809-4d8b-8a60-0f779e206417,Flatshoals Exxon Usa Inc,BP Foodmart (1885 Clairmont Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-9011f45d-96f9-42a5-a14c-4c7ec4ef2068,Flatshoals Exxon Usa Inc,BP Foodmart (2346 Lawrenceville Hwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 effffd3c-734c-4432-87a6-6d79c7a68583,Break Time,BreakTime (1000 Smiley Ln),ID Present,ID Present,ID Present,Pending Launch,In progress
 6a0c74b2-765c-4064-9851-44b9ac4006f8,Break Time,BreakTime (101 E 7th St),ID Present,ID Present,ID Present,Pending Launch,In progress
 11e013bb-20c7-4a10-8f1c-935b9b17abcd,Break Time,BreakTime (101 Rebar Rd),ID Present,,ID Present,Pending Launch,In progress
@@ -94,10 +93,11 @@ cf982af5-3387-4d4a-9828-bbd9e61c7721,Busch Food Mart,Circle K - Busch Food Mart,
 d158a021-83bb-412a-a289-e66114c9eca4,Colton Super Center Inc.,Circle K - Colton,ID Present,,ID Present,Pending Launch,In progress
 7e849878-04cd-4f5f-ad49-0223380ec5b9,JNT Management Inc,Circle K - Countyline,,Missing,,Pending Launch,In progress
 213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,ID Present,,ID Present,Pending Launch,In progress
+93d90817-59f5-44c6-9777-f59440c414f2,Kennedy and Lois Shell Inc,Circle K - Kennedy Blvd,,Missing,,Pending Launch,In progress
 9260ce2c-c32b-449f-a048-8b404f0ea40a,Lovekin Liquor & Deli Circle K,Circle K - Lovekin Blvd,ID Present,,14147944,Pending Launch,In progress
+487e8384-c4c5-41a6-8087-c9a1a7a85d9b,N S MANNING LLC,Circle K - Manning Ave,,Missing,,Pending Launch,In progress
 3d30a61f-5733-44ff-85a3-38fc4512f950,HCI Fuels,Circle K - Mission Boulevard,ID Present,,14151040,Pending Launch,In progress
 00c0a102-efb6-47b7-8fe7-fbd31d6e53e1,Shiv Asim Krupa Inc DBA Circle K,Circle K - Mobil Gas Station,,Missing,,Pending Launch,In progress
-663fc12c-cf5a-4124-876d-cd40ecf6f863,Oak Valley Express,Circle K - Oak Valley 76,ID Present,ID Present,ID Present,Pending Launch,In progress
 6b24b523-e029-4cb6-99bf-9fb887e5fe54,JNT Management Inc,Circle K - Renaissance,,Missing,,Pending Launch,In progress
 6105ab35-2f04-40d9-b834-e7ad1ed40270,S&N Nazar Inc,Circle K - Silicon Valley Valero,ID Present,,14147936,Pending Launch,In progress
 fa6ea105-a1d6-4bd6-918d-77113a32a982,Colton Super Center Inc.,Circle K - Tustin,ID Present,,ID Present,Pending Launch,In progress
@@ -111,26 +111,14 @@ d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,ID Present,I
 ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,ID Present,ID Present,ID Present,Pending Launch,In progress
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
 1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K- 1813 South Main St,,Missing,,Pending Launch,In progress
-1ff0c370-4e3a-42fd-a6df-86df640d95d8,Flatshoals Exxon Usa Inc,Citgo Speed Zone (200 Upper Riverdale Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-7a0feecf-b7a4-4b8b-b71a-8837c1d9a1b1,EZ Market,EZ Market (120 Piedmont Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
+a565b65a-5b40-46f6-bc5b-bf1ab93b52ae,Circle K (Shri Balaji Wilmington LLC),Circle K- Concord Pike,,Missing,,Pending Launch,In progress
 697c223d-2206-424a-b10b-b47c11f80db8,EZ Market,EZ Market (1209 Collier Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 d898c8b1-7b53-4053-95e4-227933a113ac,EZ Market,EZ Market (1222 West Marietta St NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 999d54cc-fb95-45a6-bd58-3f1867ffcd4a,EZ Market,EZ Market (1411 Bouldercrest Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-dcc5c2cf-6fba-4cdf-93a8-f7f6901ec1e6,EZ Market,EZ Market (1804 Beaver Ruin Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 91de7eee-925d-456f-8419-2a0d4f3741bc,EZ Market,EZ Market (1810 Forest Parkway),ID Present,ID Present,ID Present,Pending Launch,In progress
 052edfc1-b46a-4b05-9d56-c2f7beb9f7b5,EZ Market,EZ Market (1885 Clairmont Rd),60e2acd0-7eb9-5535-9ca6-22984c75f9f4,,14158440,Pending Launch,In progress
-acd462ff-7a79-40d5-879c-df1674df0a3c,EZ Market,EZ Market (1888 Peachtree St),ID Present,ID Present,ID Present,Pending Launch,In progress
 8a8e665d-3187-45da-98f1-9fb79b7f7bbf,EZ Market,EZ Market (1892 Howell Mill Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-95e03fe2-f3e6-432d-b7c7-6e925140f2e1,EZ Market,EZ Market (2041 Marietta Blvd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
-d57694ec-8db6-460c-b695-3658ec958d1b,EZ Market,EZ Market (2375 Shallowford Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-b861f8fd-c1ec-4c28-bd9c-0fa570be10fe,EZ Market,EZ Market (3004 Piedmont Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-a4f7ca3f-34b7-423d-abd1-7dcd01cdc3d5,EZ Market,EZ Market (329 14th St NW),ID Present,ID Present,ID Present,Pending Launch,In progress
-33b10d7d-56d3-4860-89f2-70881ab4789c,EZ Market,EZ Market (486 Ponce De Leon Ave NE),ID Present,ID Present,ID Present,Pending Launch,In progress
-bc2a238f-1626-48ae-bbbb-5696d2924fbb,EZ Market,EZ Market (516 Lee St SW),ID Present,ID Present,ID Present,Pending Launch,In progress
-7ecbb641-e476-42c6-a78c-3d4a642ad654,EZ Market,EZ Market (5220 Hwy 278),ID Present,ID Present,ID Present,Pending Launch,In progress
-950133c8-a369-4301-bef9-00d8c5223bb2,EZ Market,EZ Market (556 Northside Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
 da84973f-461d-4096-9f96-c88f4c592e74,EZ Market,EZ Market (720 Donald Lee Hollowell Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
-3f11e582-6f96-4edd-a36a-99d6face32f0,EZ Market,EZ Market (7325 Roswell Rd NE),ID Present,ID Present,ID Present,Pending Launch,In progress
 c8d7acdc-bb86-488c-b51b-fddf824819da,EZ Market,EZ Market (9595 Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
 9644ce1f-201c-488f-97ca-2f00c91da331,Fast Track,Fast Track (10 Commercial St),ID Present,ID Present,,Pending Launch,In progress
 64f3e988-fcee-4ca5-92be-d8d5be853196,Fast Track,Fast Track (101 Lake Blvd),ID Present,ID Present,,Pending Launch,In progress
@@ -153,7 +141,7 @@ ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),ID Prese
 e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 0c3e55a0-14e0-4685-8fe9-1f8ed79b360d,Gogo Stores,Gogo (Lake & Anthony),ID Present,ID Present,ID Present,Pending Launch,In progress
 3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,ID Present,Pending Launch,In progress
-1275f940-dfdb-42fb-966e-b001e7b7a107,Hunt Brothers,Hunt Brothers (LMR Oil Claremore),ID Present,ID Present,ID Present,Pending Launch,In progress
+1275f940-dfdb-42fb-966e-b001e7b7a107,Miles Kitchen,Hunt Brothers (LMR Oil Claremore),ID Present,ID Present,ID Present,Pending Launch,In progress
 28e05d3e-5660-4213-8649-77772f759241,Hunt Brothers,Hunt Brothers (Sunshine FoodMart),ID Present,ID Present,ID Present,Pending Launch,In progress
 495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
 af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
