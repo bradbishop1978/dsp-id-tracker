@@ -78,10 +78,10 @@ f5d2c93e-9d3f-45f6-ae53-f9fae2a837ac,BSD Inc,Circle K - 2799 4th St,ID Present,I
 cf982af5-3387-4d4a-9828-bbd9e61c7721,Busch Food Mart,Circle K - Busch Food Mart,ID Present,ID Present,ID Present,Pending Launch,In progress
 d158a021-83bb-412a-a289-e66114c9eca4,Colton Super Center Inc.,Circle K - Colton,ID Present,,ID Present,Pending Launch,In progress
 7e849878-04cd-4f5f-ad49-0223380ec5b9,JNT Management Inc,Circle K - Countyline,ID Present,ID Present,,Pending Launch,In progress
-a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,,Missing,,Pending Launch,In progress
+a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,,Missing,14342896,Pending Launch,In progress
 213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,ID Present,,ID Present,Pending Launch,In progress
 93d90817-59f5-44c6-9777-f59440c414f2,Kennedy and Lois Shell Inc,Circle K - Kennedy Blvd,ID Present,ID Present,,Pending Launch,In progress
-444c89e7-bfaa-4de0-9a6c-3c6217375923,"Lathrop Gas & Food,Inc",Circle K - Lathrop Road,,Missing,,Pending Launch,In progress
+444c89e7-bfaa-4de0-9a6c-3c6217375923,"Lathrop Gas & Food,Inc",Circle K - Lathrop Road,,Missing,14339832,Pending Launch,In progress
 9260ce2c-c32b-449f-a048-8b404f0ea40a,Lovekin Liquor & Deli Circle K,Circle K - Lovekin Blvd,ID Present,ID Present,ID Present,Pending Launch,In progress
 487e8384-c4c5-41a6-8087-c9a1a7a85d9b,N S MANNING LLC,Circle K - Manning Ave,ID Present,ID Present,,Pending Launch,In progress
 3d30a61f-5733-44ff-85a3-38fc4512f950,HCI Fuels,Circle K - Mission Boulevard,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -99,9 +99,9 @@ d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,ID Present,I
 ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,ID Present,ID Present,ID Present,Pending Launch,In progress
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
 1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K- 1813 South Main St,ID Present,ID Present,ID Present,Pending Launch,In progress
-a622c1e1-eb31-4607-bb15-6b7bc3c88682,Circle K (SUCCESS FUEL LLC),Circle K- 2812 W Kennedy Blvd,,Missing,,Pending Launch,In progress
-458d6ed6-fdd1-4234-9a0b-0217581c4713,BECHELLI LANE ENTERPRISES INC,Circle K- Bechelli Ln,,Missing,,Pending Launch,In progress
-1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,,Missing,,Pending Launch,In progress
+a622c1e1-eb31-4607-bb15-6b7bc3c88682,Circle K (SUCCESS FUEL LLC),Circle K- 2812 W Kennedy Blvd,,Missing,14338328,Pending Launch,In progress
+458d6ed6-fdd1-4234-9a0b-0217581c4713,BECHELLI LANE ENTERPRISES INC,Circle K- Bechelli Ln,,Missing,14339840,Pending Launch,In progress
+1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,,Missing,14338320,Pending Launch,In progress
 a565b65a-5b40-46f6-bc5b-bf1ab93b52ae,Circle K (Shri Balaji Wilmington LLC),Circle K- Concord Pike,ID Present,ID Present,,Pending Launch,In progress
 697c223d-2206-424a-b10b-b47c11f80db8,EZ Market,EZ Market (1209 Collier Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 d898c8b1-7b53-4053-95e4-227933a113ac,EZ Market,EZ Market (1222 West Marietta St NW),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -125,7 +125,7 @@ e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,
 0c3e55a0-14e0-4685-8fe9-1f8ed79b360d,Gogo Stores,Gogo (Lake & Anthony),ID Present,ID Present,ID Present,Pending Launch,In progress
 3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,ID Present,Pending Launch,In progress
 28e05d3e-5660-4213-8649-77772f759241,Hunt Brothers,Hunt Brothers (Sunshine FoodMart),ID Present,ID Present,ID Present,Pending Launch,In progress
-e861dc4a-52a5-46a7-89d3-2f189aedecb9,Jacksons Food Stores,Jacksons Food Stores #252,,Missing,,Pending Launch,In progress
+e861dc4a-52a5-46a7-89d3-2f189aedecb9,Jacksons Food Stores,Jacksons Food Stores #252,,Missing,14342888,Pending Launch,In progress
 495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
 af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
 b04df734-45d7-4104-8a0d-65305ffdaa5d,Ghaneshay 01 Inc,Kangaroo Ex 2658179,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -143,7 +143,7 @@ f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3
 105046e1-9d28-4a86-9e78-e83e7bf1ed54,Minuteman Food Mart,Minuteman Food Mart - 3158,ID Present,ID Present,ID Present,Pending Launch,In progress
 c6b767fc-9224-4624-b557-15e3702a460d,Quick Track - LaMa,Quick Track 118,ID Present,ID Present,ID Present,Pending Launch,In progress
 6e994c38-c405-4dfc-b23d-b0a7350103fd,Quick Track - LaMa,Quick Track 126,ID Present,ID Present,ID Present,Pending Launch,In progress
-151dbd7e-7854-448f-a2ea-523620253be5,Quick Track - LaMa,Quick Track-LaMa 81,,Missing,,Pending Launch,In progress
+151dbd7e-7854-448f-a2ea-523620253be5,Quick Track - LaMa,Quick Track-LaMa 81,,Missing,14342904,Pending Launch,In progress
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,,Pending Launch,In progress
