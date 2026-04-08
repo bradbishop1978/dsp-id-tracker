@@ -21,6 +21,8 @@ cb9601d9-1df1-4c49-97d7-d686ac33ab2c,Break Time,BreakTime (2213 Cardinal Dr),ID 
 77178048-868b-4994-8eb1-04bcfdbf3c4c,Break Time,BreakTime (2823 E Malone Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 1ce0397b-fa69-450b-8b3c-eed07ba457d9,Break Time,BreakTime (2940 N Westwood Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
 8376ade3-91b8-46fa-9708-ccd0421b89f2,Break Time,BreakTime (420 N Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
+be1f7d73-f9f4-4924-9cde-5924db795851,Egypt and Dale Retail Inc,CIRCLE K MOBIL GILRAY,,Missing,,Pending Launch,In progress
+e5657365-ad11-43c7-b4d9-f22f1a934196,Egypt and Dale Retail Inc,CIRCLE K SHELL DALE MABRY EGYPT LAKE,,Missing,,Pending Launch,In progress
 6b088546-2671-428b-a75f-32901edad1c1,Chestnut Market,Chestnut Market (10 W Merritt Blvd.),ID Present,ID Present,ID Present,Pending Launch,In progress
 e4a1832e-eccb-4a68-a575-cb2f4c74730f,Chestnut Market,Chestnut Market (101 Bloomfield Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
 e4e2e985-8e41-4b21-b204-94dc23f0caf0,Chestnut Market,Chestnut Market (1110 Violet Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -36,7 +38,6 @@ c19a1dc9-9a5c-43be-82b7-783cc9c34d34,Chestnut Market,Chestnut Market (133 Main S
 8c3e2dc4-d495-461a-8d61-36673ef10160,Chestnut Market,Chestnut Market (192 N Bedford Rd.),ID Present,ID Present,ID Present,Pending Launch,In progress
 0056cf3e-fdc7-431b-aa76-6746c0a6bc65,Chestnut Market,Chestnut Market (203 Greenwood Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
 86f8d3dc-8225-4b58-8d35-f30acec16ff0,Chestnut Market,Chestnut Market (2035 Sawmill River Rd.),ID Present,ID Present,ID Present,Pending Launch,In progress
-5955dc74-37d4-45fd-a50f-546f7f1f7e8a,Chestnut Market,Chestnut Market (2063 New Hackensack Rd.),ID Present,ID Present,ID Present,Pending Launch,In progress
 629bfe9b-c815-4335-93a9-cc65a6652a40,Chestnut Market,Chestnut Market (209 NJ-3 Frontage Rd.),ID Present,ID Present,ID Present,Pending Launch,In progress
 fdc84e13-d805-4c0f-b531-43801ec714bc,Chestnut Market,Chestnut Market (215 N Broadway.),ID Present,ID Present,ID Present,Pending Launch,In progress
 cc71bf52-8c2b-489e-93e1-3eea1028d3a4,Chestnut Market,Chestnut Market (2749 Main St.),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -45,13 +46,11 @@ ebab912e-55bf-4fb5-8738-9392bce7782c,Chestnut Market,Chestnut Market (280 N Sawm
 e0f097ed-9c56-4f40-8fef-c90062776fc8,Chestnut Market,Chestnut Market (30 Lincoln Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
 42ab0bb0-a03f-4d9d-b40b-ef3425c6082a,Chestnut Market,Chestnut Market (307 Connecticut Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
 983715f2-78f2-434e-a982-152bafdf929d,Chestnut Market,Chestnut Market (3081 Route 22),ID Present,ID Present,ID Present,Pending Launch,In progress
-f54bdfdf-173b-4e52-81da-3fcf7e93e134,Chestnut Market,Chestnut Market (3480 North Rd.),ID Present,ID Present,ID Present,Pending Launch,In progress
 336a27cf-7c91-4a55-a43d-1fa42bef3d4d,Chestnut Market,Chestnut Market (361 Bradhurst Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
 55732758-6e48-4f4f-9fa8-f54de05a29dd,Chestnut Market,Chestnut Market (381 Knollwood Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 761778f1-879b-4b47-a1bd-96190fd5c491,Chestnut Market,Chestnut Market (395 Main Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
 ed3adeba-d250-4cab-b4df-72a595111f7e,Chestnut Market,Chestnut Market (409 Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
 e24a717b-9911-4067-8d40-7e67ba198666,Chestnut Market,Chestnut Market (425 Boston Post Rd.),ID Present,ID Present,ID Present,Pending Launch,In progress
-171e1c8b-c683-41fb-9786-540767bd3c6c,Chestnut Market,Chestnut Market (425 Dobbs Ferry Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 b20ca1db-b284-4006-8d10-0e4dfa8c114c,Chestnut Market,Chestnut Market (430 Broadway),ID Present,ID Present,ID Present,Pending Launch,In progress
 b6381372-9d8f-4ea6-bf08-ba23f5027555,Chestnut Market,Chestnut Market (432 Broadway Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
 ad1640d0-efcf-4be3-adf2-63c6046e3a7d,Chestnut Market,Chestnut Market (434 Gramatan Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -67,19 +66,20 @@ fdd5bd1f-8368-4b57-88d3-bdaaef5b0849,Chestnut Market,Chestnut Market (Hutchinson
 c83a98df-cf45-4323-af1a-ec9eafc907f3,Chestnut Market,Chestnut Market – US-6 (Baldwin Place),ID Present,ID Present,ID Present,Pending Launch,In progress
 3c4769ae-77df-4a5a-bd32-001b5589061d,Circle K Gas Express,Circle K (111 Boulevard NE),ID Present,ID Present,ID Present,Pending Launch,In progress
 a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),ID Present,ID Present,ID Present,Pending Launch,In progress
-f980a495-d28a-4dd6-918e-b9c81529f0b8,Circle K Gas Express,Circle K (46840 Warm Springs Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,Circle K (550 Cherokee Pkwy) Dup,ID Present,ID Present,ID Present,Pending Launch,In progress
 399ad01e-5c99-481b-bb92-a7a12fffd38f,Ghaneshay 01 Inc,Circle K - 2655229,ID Present,ID Present,ID Present,Pending Launch,In progress
-f5d2c93e-9d3f-45f6-ae53-f9fae2a837ac,BSD Inc,Circle K - 2799 4th St,ID Present,ID Present,ID Present,Pending Launch,In progress
+33fcedc6-4fe0-4b4c-b074-adfa28be960c,Walport Enterprises Inc,Circle K - 2655789,,Missing,,Pending Launch,In progress
 43f4604c-7f4f-4d81-9069-ed78aa62c2c8,Veeram Inc,Circle K - 44462 East Florida Avenue,ID Present,ID Present,ID Present,Pending Launch,In progress
 2b7fe724-e6c4-4e21-af4c-d0905397ee05,Kumar Friends Inc,Circle K - Baldwin Park,ID Present,ID Present,ID Present,Pending Launch,In progress
 2b7fe724-e6c4-4e21-af4c-d0905397ee05,Kumar Friends Inc,Circle K - Baldwin Park,ID Present,ID Present,ID Present,Pending Launch,In progress
+a2ce88f7-f098-4189-ab76-508c44ad3a06,Circle K Franchise (Viraj Jhala),Circle K - Breakwater Marathon,,Missing,,Pending Launch,In progress
 cf982af5-3387-4d4a-9828-bbd9e61c7721,Busch Food Mart,Circle K - Busch Food Mart,ID Present,ID Present,ID Present,Pending Launch,In progress
 d158a021-83bb-412a-a289-e66114c9eca4,Colton Super Center Inc.,Circle K - Colton,ID Present,,ID Present,Pending Launch,In progress
 7e849878-04cd-4f5f-ad49-0223380ec5b9,JNT Management Inc,Circle K - Countyline,ID Present,ID Present,,Pending Launch,In progress
 a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,,Missing,14342896,Pending Launch,In progress
 213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,ID Present,,ID Present,Pending Launch,In progress
+e21819cc-ec84-427b-a21a-bdd986cd7c97,Circle K (Sahni Fueling Inc),Circle K - Golf Course 76,,Missing,,Pending Launch,In progress
 93d90817-59f5-44c6-9777-f59440c414f2,Kennedy and Lois Shell Inc,Circle K - Kennedy Blvd,ID Present,ID Present,,Pending Launch,In progress
 444c89e7-bfaa-4de0-9a6c-3c6217375923,"Lathrop Gas & Food,Inc",Circle K - Lathrop Road,,Missing,14339832,Pending Launch,In progress
 9260ce2c-c32b-449f-a048-8b404f0ea40a,Lovekin Liquor & Deli Circle K,Circle K - Lovekin Blvd,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -107,6 +107,7 @@ a622c1e1-eb31-4607-bb15-6b7bc3c88682,Circle K (SUCCESS FUEL LLC),Circle K- 2812 
 1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,,Missing,14338320,Pending Launch,In progress
 a565b65a-5b40-46f6-bc5b-bf1ab93b52ae,Circle K (Shri Balaji Wilmington LLC),Circle K- Concord Pike,ID Present,ID Present,,Pending Launch,In progress
 e56078c4-626b-43b8-9537-ae73a9f2d44c,Circle K Norwalk,Circle K- Downey,,Missing,,Pending Launch,In progress
+02f10dd9-791b-4d91-98fc-5f728d4f6483,Circle K Franchise (Viraj Jhala),Circle K- JEFFERSON MARATHON,,Missing,,Pending Launch,In progress
 7efd3620-1821-40b0-a775-f1b3366bc134,Circle K Norwalk,Circle K- Norwalk,,Missing,,Pending Launch,In progress
 9a6acfaf-4482-402e-906f-0f87123cffdd,comraxllc,Circle K-2654250,,Missing,,Pending Launch,In progress
 51af2328-d8d6-4b61-a5f6-0cef596134e5,EXTRAM LLC,Circle K-2655992,,Missing,,Pending Launch,In progress
@@ -143,10 +144,10 @@ ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),ID Prese
 e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 0c3e55a0-14e0-4685-8fe9-1f8ed79b360d,Gogo Stores,Gogo (Lake & Anthony),ID Present,ID Present,ID Present,Pending Launch,In progress
 3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,ID Present,Pending Launch,In progress
-28e05d3e-5660-4213-8649-77772f759241,Hunt Brothers,Hunt Brothers (Sunshine FoodMart),ID Present,ID Present,ID Present,Pending Launch,In progress
 e861dc4a-52a5-46a7-89d3-2f189aedecb9,Jacksons Food Stores,Jacksons Food Stores #252,,Missing,14342888,Pending Launch,In progress
 495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
 af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
+eaebca9b-3294-4ee5-9c95-505f5bc460ac,Egypt and Dale Retail Inc,KANGAROO SHELL DESOTO,,Missing,,Pending Launch,In progress
 b04df734-45d7-4104-8a0d-65305ffdaa5d,Ghaneshay 01 Inc,Kangaroo Ex 2658179,ID Present,ID Present,ID Present,Pending Launch,In progress
 2baff316-e1e9-4fe0-a8d1-eb12aef4ff4b,Kangaroo Expres (Eclipse First Coast Investment),Kangaroo Express- 2658077,ID Present,ID Present,ID Present,Pending Launch,In progress
 8dea3ef3-7017-4bb1-b2e8-f98bebe91d45,Rocket,Krispy Krunchy Chicken (1297 Hwy 4 Unit B),,Missing,,Pending Launch,In progress
