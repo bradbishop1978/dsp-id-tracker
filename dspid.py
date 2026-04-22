@@ -67,7 +67,10 @@ if data is not None:
         return ''
     
     # Apply the style to the relevant columns
-    styled_data = data[column_order].style.applymap(style_numeric, subset=['ubereats_status', 'doordash_status', 'grubhub_status'])
+    styled_data = data[column_order].style.map(
+    style_numeric,
+    subset=['ubereats_status', 'doordash_status', 'grubhub_status']
+)
     
     # Display the raw data with clickable store names in the new order
     st.write("### Full DSP Status Report")
