@@ -8,10 +8,10 @@ store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,
 57d49f04-506c-4fc2-b224-20651aea532f,Jacksons Food Stores,Aztec Grill/Redwood Market #281,ID Present,ID Present,ID Present,Pending Launch,In progress
 47a38b8c-4d63-4c89-981c-37c8c3cbc233,Jacksons Food Stores,Aztec Grill/Redwood Market #286,ID Present,ID Present,ID Present,Pending Launch,In progress
 7d5a9796-5278-45e8-83e1-2e6a22412983,Jacksons Food Stores,Aztec Grill/Redwood Market #287,ID Present,ID Present,ID Present,Pending Launch,In progress
-11e013bb-20c7-4a10-8f1c-935b9b17abcd,Break Time,BreakTime (101 Rebar Rd),ID Present,,ID Present,Pending Launch,In progress
+11e013bb-20c7-4a10-8f1c-935b9b17abcd,Break Time,BreakTime (101 Rebar Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 3336438b-6811-4eed-a863-60e3c59a412a,Break Time,BreakTime (1299 N Northwest 13 Hwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 cb0aebb1-6779-40e7-b8fd-e091b61d1deb,Break Time,BreakTime (1545 W Republic Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-12ed8961-1c90-4589-95d9-8b789a302b3a,Break Time,BreakTime (1751 E Urbandale Dr),ID Present,,ID Present,Pending Launch,In progress
+12ed8961-1c90-4589-95d9-8b789a302b3a,Break Time,BreakTime (1751 E Urbandale Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
 962de3c7-9556-497f-8f56-e4bb70549ce5,Break Time,BreakTime (1805 N Bishop Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 9bcaf41a-a04b-4e85-b383-7b5499386555,Break Time,BreakTime (1940 W Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
 cb9601d9-1df1-4c49-97d7-d686ac33ab2c,Break Time,BreakTime (2213 Cardinal Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -21,8 +21,8 @@ cb9601d9-1df1-4c49-97d7-d686ac33ab2c,Break Time,BreakTime (2213 Cardinal Dr),ID 
 8376ade3-91b8-46fa-9708-ccd0421b89f2,Break Time,BreakTime (420 N Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
 be1f7d73-f9f4-4924-9cde-5924db795851,Egypt and Dale Retail Inc,CIRCLE K MOBIL GILRAY,ID Present,Missing,,Pending Launch,In progress
 e5657365-ad11-43c7-b4d9-f22f1a934196,Egypt and Dale Retail Inc,CIRCLE K SHELL DALE MABRY EGYPT LAKE,ID Present,Missing,,Pending Launch,In progress
-066135df-403f-476f-9a5f-1db4d91d2642,Chester's - Corrigan Oil,Chester's Chicken (15815 South Oakley),Missing,Missing,Missing,Pending Launch,In progress
-c7b83578-6f0f-4179-ab2e-1b3bc19899e4,Break Time,Chester's Chicken (2755 Militia Dr),Missing,Missing,Missing,Pending Launch,In progress
+066135df-403f-476f-9a5f-1db4d91d2642,Chester's - Corrigan Oil,Chester's Chicken (15815 South Oakley),,Missing,,Pending Launch,In progress
+c7b83578-6f0f-4179-ab2e-1b3bc19899e4,Break Time,Chester's Chicken (2755 Militia Dr),,Missing,,Pending Launch,In progress
 6b088546-2671-428b-a75f-32901edad1c1,Chestnut Market,Chestnut Market (10 W Merritt Blvd.),ID Present,ID Present,ID Present,Pending Launch,In progress
 e4a1832e-eccb-4a68-a575-cb2f4c74730f,Chestnut Market,Chestnut Market (101 Bloomfield Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
 e4e2e985-8e41-4b21-b204-94dc23f0caf0,Chestnut Market,Chestnut Market (1110 Violet Ave.),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -76,10 +76,10 @@ cf982af5-3387-4d4a-9828-bbd9e61c7721,Busch Food Mart,Circle K - Busch Food Mart,
 d158a021-83bb-412a-a289-e66114c9eca4,Colton Super Center Inc.,Circle K - Colton,ID Present,,ID Present,Pending Launch,In progress
 7e849878-04cd-4f5f-ad49-0223380ec5b9,JNT Management Inc,Circle K - Countyline,ID Present,ID Present,,Pending Launch,In progress
 a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
-213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,ID Present,,ID Present,Pending Launch,In progress
+213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,ID Present,ID Present,ID Present,Pending Launch,In progress
 42aa4bd8-0219-44e8-b6c0-e04e4b13b00e,"Grand Martco, Inc.",Circle K - Grand 76,,Missing,,Pending Launch,In progress
 93d90817-59f5-44c6-9777-f59440c414f2,Kennedy and Lois Shell Inc,Circle K - Kennedy Blvd,ID Present,ID Present,ID Present,Pending Launch,In progress
-444c89e7-bfaa-4de0-9a6c-3c6217375923,"Lathrop Gas & Food,Inc",Circle K - Lathrop Road,ID Present,Missing,ID Present,Pending Launch,In progress
+444c89e7-bfaa-4de0-9a6c-3c6217375923,"Lathrop Gas & Food,Inc",Circle K - Lathrop Road,ID Present,ID Present,ID Present,Pending Launch,In progress
 9260ce2c-c32b-449f-a048-8b404f0ea40a,Lovekin Liquor & Deli Circle K,Circle K - Lovekin Blvd,ID Present,ID Present,ID Present,Pending Launch,In progress
 487e8384-c4c5-41a6-8087-c9a1a7a85d9b,N S MANNING LLC,Circle K - Manning Ave,ID Present,ID Present,ID Present,Pending Launch,In progress
 9ca0c2bc-358a-474e-81a8-a0477ab68f37,"Grand Martco, Inc.",Circle K - Mission Martco,,Missing,,Pending Launch,In progress
@@ -87,7 +87,7 @@ a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mo
 ab1fa524-01e8-40ec-b0a5-4ffc642cf14b,"Grand Martco, Inc.",Circle K - Redwood City Martco,,Missing,,Pending Launch,In progress
 6b24b523-e029-4cb6-99bf-9fb887e5fe54,JNT Management Inc,Circle K - Renaissance,ID Present,ID Present,,Pending Launch,In progress
 6bc74c28-abed-47b5-9421-c58d1e242148,Circle K (Shidler Services Corp),Circle K - Savi Ranch 76,ID Present,Missing,,Pending Launch,In progress
-fa6ea105-a1d6-4bd6-918d-77113a32a982,Colton Super Center Inc.,Circle K - Tustin,ID Present,,ID Present,Pending Launch,In progress
+fa6ea105-a1d6-4bd6-918d-77113a32a982,Colton Super Center Inc.,Circle K - Tustin,ID Present,ID Present,ID Present,Pending Launch,In progress
 5a241e58-fb58-4215-90a0-25528e58eb77,JNT Management Inc,Circle K - Woodbridge,ID Present,ID Present,,Pending Launch,In progress
 4cd1683b-fe1f-4165-ad56-455131d1aea2,Kwik Trip Oil,Circle K Atlantic Beach,ID Present,ID Present,ID Present,Pending Launch,In progress
 3f8b1013-6f0f-474a-8cb6-e2ceb8effaeb,Circle K Franchise (HM1 Corporation),Circle K Batavia Ave,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -104,7 +104,7 @@ a622c1e1-eb31-4607-bb15-6b7bc3c88682,Circle K (SUCCESS FUEL LLC),Circle K- 2812 
 1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
 a565b65a-5b40-46f6-bc5b-bf1ab93b52ae,Circle K (Shri Balaji Wilmington LLC),Circle K- Concord Pike,ID Present,ID Present,ID Present,Pending Launch,In progress
 e56078c4-626b-43b8-9537-ae73a9f2d44c,Circle K Norwalk,Circle K- Downey,ID Present,Missing,,Pending Launch,In progress
-0d576d18-a070-4fc5-9214-c398f5a5c2cf,1310 LAGRANGE FIRM LLC,Circle K- GX 162,Missing,Missing,Missing,Pending Launch,In progress
+0d576d18-a070-4fc5-9214-c398f5a5c2cf,1310 LAGRANGE FIRM LLC,Circle K- GX 162,,Missing,,Pending Launch,In progress
 02f10dd9-791b-4d91-98fc-5f728d4f6483,Circle K Franchise (Viraj Jhala),Circle K- JEFFERSON MARATHON,ID Present,Missing,,Pending Launch,In progress
 7efd3620-1821-40b0-a775-f1b3366bc134,Circle K Norwalk,Circle K- Norwalk,ID Present,Missing,,Pending Launch,In progress
 9a6acfaf-4482-402e-906f-0f87123cffdd,comraxllc,Circle K-2654250,ID Present,Missing,,Pending Launch,In progress
@@ -114,7 +114,7 @@ dca9fb33-a33c-4afc-86d3-d16099e6b583,Kapacity Fuel LLC,Circle K-7305 Culebra,ID 
 d898c8b1-7b53-4053-95e4-227933a113ac,EZ Market,EZ Market (1222 West Marietta St NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 999d54cc-fb95-45a6-bd58-3f1867ffcd4a,EZ Market,EZ Market (1411 Bouldercrest Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 91de7eee-925d-456f-8419-2a0d4f3741bc,EZ Market,EZ Market (1810 Forest Parkway),ID Present,ID Present,ID Present,Pending Launch,In progress
-052edfc1-b46a-4b05-9d56-c2f7beb9f7b5,EZ Market,EZ Market (1885 Clairmont Rd),ID Present,,ID Present,Pending Launch,In progress
+052edfc1-b46a-4b05-9d56-c2f7beb9f7b5,EZ Market,EZ Market (1885 Clairmont Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 8a8e665d-3187-45da-98f1-9fb79b7f7bbf,EZ Market,EZ Market (1892 Howell Mill Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 da84973f-461d-4096-9f96-c88f4c592e74,EZ Market,EZ Market (720 Donald Lee Hollowell Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 c8d7acdc-bb86-488c-b51b-fddf824819da,EZ Market,EZ Market (9595 Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -174,23 +174,23 @@ c6b767fc-9224-4624-b557-15e3702a460d,Quick Track - LaMa,Quick Track 118,ID Prese
 151dbd7e-7854-448f-a2ea-523620253be5,Quick Track - LaMa,Quick Track 81,ID Present,ID Present,ID Present,Pending Launch,In progress
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
-58ff55e3-cf29-432a-932e-77436a7a46b4,Star Stop,Star Stop 101,ID Present,Missing,,Pending Launch,In progress
-34334422-091b-487c-914f-da4c42b13978,Star Stop,Star Stop 104,ID Present,Missing,,Pending Launch,In progress
-8c506b76-cae7-4a02-abc3-fc7d54e03034,Star Stop,Star Stop 106,ID Present,Missing,,Pending Launch,In progress
-7efdac46-5130-46fa-93b7-607d7886d02f,Star Stop,Star Stop 109,ID Present,Missing,,Pending Launch,In progress
-0ae0a184-bc69-404c-be32-65530b018f5b,Star Stop,Star Stop 112,ID Present,Missing,,Pending Launch,In progress
-03d491c1-e220-4519-9b65-203013da2ea6,Star Stop,Star Stop 114,ID Present,Missing,,Pending Launch,In progress
-534647f7-1057-416a-8638-eb79f1dd50ae,Star Stop,Star Stop 119,ID Present,Missing,,Pending Launch,In progress
-c396438b-0ee1-4202-a30d-af4305b97569,Star Stop,Star Stop 122,ID Present,Missing,,Pending Launch,In progress
-40627358-c0fe-45ef-a70e-6f974a6b224b,Star Stop,Star Stop 123,ID Present,Missing,,Pending Launch,In progress
-5b0b60ab-4501-4e67-b480-13e6d04275dc,Star Stop,Star Stop 125,ID Present,Missing,,Pending Launch,In progress
-c0f3e0df-a3d0-4d7b-9ed7-8a3a5528b45c,Star Stop,Star Stop 128,ID Present,Missing,,Pending Launch,In progress
-51c7c934-c312-4af9-bd70-6710636fab77,Star Stop,Star Stop 129,ID Present,Missing,,Pending Launch,In progress
-ebc363ce-1db4-44b2-ad9c-e2662f98d603,Star Stop,Star Stop 131,ID Present,Missing,,Pending Launch,In progress
-bac02b05-ff6f-4bea-a538-d2f8b63b13f4,Star Stop,Star Stop 132,ID Present,Missing,,Pending Launch,In progress
-1cfdf505-aadd-4ea3-9d63-3a43fd25c561,Star Stop,Star Stop 137,ID Present,Missing,,Pending Launch,In progress
-71baacfd-42a2-4a7f-92f2-d51d8d755b65,Star Stop,Star Stop 141,ID Present,Missing,,Pending Launch,In progress
-ee8e6539-0fad-4432-a88a-81c8c4dc5730,Star Stop,Star Stop 144,ID Present,Missing,,Pending Launch,In progress
+58ff55e3-cf29-432a-932e-77436a7a46b4,Star Stop,Star Stop 101,ID Present,ID Present,,Pending Launch,In progress
+34334422-091b-487c-914f-da4c42b13978,Star Stop,Star Stop 104,ID Present,ID Present,,Pending Launch,In progress
+8c506b76-cae7-4a02-abc3-fc7d54e03034,Star Stop,Star Stop 106,ID Present,ID Present,,Pending Launch,In progress
+7efdac46-5130-46fa-93b7-607d7886d02f,Star Stop,Star Stop 109,ID Present,ID Present,,Pending Launch,In progress
+0ae0a184-bc69-404c-be32-65530b018f5b,Star Stop,Star Stop 112,ID Present,ID Present,,Pending Launch,In progress
+03d491c1-e220-4519-9b65-203013da2ea6,Star Stop,Star Stop 114,ID Present,ID Present,,Pending Launch,In progress
+534647f7-1057-416a-8638-eb79f1dd50ae,Star Stop,Star Stop 119,ID Present,ID Present,,Pending Launch,In progress
+c396438b-0ee1-4202-a30d-af4305b97569,Star Stop,Star Stop 122,ID Present,ID Present,,Pending Launch,In progress
+40627358-c0fe-45ef-a70e-6f974a6b224b,Star Stop,Star Stop 123,ID Present,ID Present,,Pending Launch,In progress
+5b0b60ab-4501-4e67-b480-13e6d04275dc,Star Stop,Star Stop 125,ID Present,ID Present,,Pending Launch,In progress
+c0f3e0df-a3d0-4d7b-9ed7-8a3a5528b45c,Star Stop,Star Stop 128,ID Present,ID Present,,Pending Launch,In progress
+51c7c934-c312-4af9-bd70-6710636fab77,Star Stop,Star Stop 129,ID Present,ID Present,,Pending Launch,In progress
+ebc363ce-1db4-44b2-ad9c-e2662f98d603,Star Stop,Star Stop 131,ID Present,ID Present,,Pending Launch,In progress
+bac02b05-ff6f-4bea-a538-d2f8b63b13f4,Star Stop,Star Stop 132,ID Present,ID Present,,Pending Launch,In progress
+1cfdf505-aadd-4ea3-9d63-3a43fd25c561,Star Stop,Star Stop 137,ID Present,ID Present,,Pending Launch,In progress
+71baacfd-42a2-4a7f-92f2-d51d8d755b65,Star Stop,Star Stop 141,ID Present,ID Present,,Pending Launch,In progress
+ee8e6539-0fad-4432-a88a-81c8c4dc5730,Star Stop,Star Stop 144,ID Present,ID Present,,Pending Launch,In progress
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,,Pending Launch,In progress
 75e1b7a9-f2d9-474c-a062-d1cb69833630,Yazzy's Market,Yazzy's Market Inc - 1163 Hoosick Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
 f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,[DUP] Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,13668200,Pending Launch,In progress
