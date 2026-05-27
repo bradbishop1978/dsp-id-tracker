@@ -44,6 +44,7 @@ d158a021-83bb-412a-a289-e66114c9eca4,Colton Super Center Inc.,Circle K - Colton,
 e56078c4-626b-43b8-9537-ae73a9f2d44c,Circle K Norwalk,Circle K - Downey,ID Present,Missing,,Pending Launch,In progress
 a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
 213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,ID Present,ID Present,ID Present,Pending Launch,In progress
+0d576d18-a070-4fc5-9214-c398f5a5c2cf,1310 Lagrange Firm LLC,Circle K - GX 162,ID Present,ID Present,,Pending Launch,In progress
 42aa4bd8-0219-44e8-b6c0-e04e4b13b00e,"Grand Martco, Inc.",Circle K - Grand 76,ID Present,Missing,,Pending Launch,In progress
 015a303f-c250-4da8-983e-b03b10bacfa5,Miami Food Mart Inc,Circle K - Miami Food Mart,,Missing,,Pending Launch,In progress
 9ca0c2bc-358a-474e-81a8-a0477ab68f37,"Grand Martco, Inc.",Circle K - Mission Martco,ID Present,Missing,,Pending Launch,In progress
@@ -74,7 +75,6 @@ f71eaac7-879a-4a85-9ce9-5c2bbbd6bdc1,"Gawfco Enterprises, Inc.",Circle K Westley
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
 1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K- 1813 South Main St,ID Present,ID Present,ID Present,Pending Launch,In progress
 1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
-0d576d18-a070-4fc5-9214-c398f5a5c2cf,1310 LAGRANGE FIRM LLC,Circle K- GX 162,ID Present,ID Present,,Pending Launch,In progress
 02f10dd9-791b-4d91-98fc-5f728d4f6483,Circle K Franchise (Viraj Jhala),Circle K- JEFFERSON MARATHON,ID Present,Missing,,Pending Launch,In progress
 9a6acfaf-4482-402e-906f-0f87123cffdd,comraxllc,Circle K-2654250,ID Present,Missing,,Pending Launch,In progress
 51af2328-d8d6-4b61-a5f6-0cef596134e5,EXTRAM LLC,Circle K-2655992,ID Present,Missing,,Pending Launch,In progress
@@ -100,7 +100,7 @@ e31931ef-1821-4811-956b-95fc65176eac,"Gawfco Enterprises, Inc.",Fast Fill Market
 120ec0be-2b94-446a-8dc6-c7ffed83b5f4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 5605 E Kings Canyon Rd ),ID Present,ID Present,,Pending Launch,In progress
 be80774c-6534-4d45-ae15-ca301d2bbc32,"Gawfco Enterprises, Inc.",Fast Fill Market ( 6097 Snell Ave ),ID Present,ID Present,,Pending Launch,In progress
 ab2b0c40-12db-4f29-a983-caefe9f11fea,"Gawfco Enterprises, Inc.",Fast Fill Market ( 72275 Ramon Rd ),ID Present,ID Present,,Pending Launch,In progress
-767d517d-a28b-4958-8a78-199c03b801a4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),738f851e-f65b-5b34-b537-edd2085317f7,Missing,Missing,Pending Launch,In progress
+767d517d-a28b-4958-8a78-199c03b801a4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),738f851e-f65b-5b34-b537-edd2085317f7,Missing,,Pending Launch,In progress
 27982272-2d6d-428f-ad12-c4209335e470,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),ID Present,ID Present,,Pending Launch,In progress
 2cbaac4b-3f10-4bbb-a9ea-ee4cf895e7e5,"Gawfco Enterprises, Inc.",Fast Fill Market (4298 MISSION ST.),ID Present,ID Present,,Pending Launch,In progress
 b7f8bf10-0bef-4da8-aec3-51a09b05b7e7,"Gawfco Enterprises, Inc.",Fast Fill Market Brawley ( 1691 Main St ),ID Present,ID Present,,Pending Launch,In progress
@@ -227,7 +227,7 @@ bbd71d3e-2b4a-4535-9341-c99092a706ea,Star Stop,Star Stop 45,,Missing,,Pending La
 1924b7bf-6ce4-4cab-be6c-f256b84493da,Star Stop,Star Stop 52,,Missing,,Pending Launch,In progress
 4e789d08-bc1e-436d-b2be-b112059e1ba9,Star Stop,Star Stop 53,,Missing,,Pending Launch,In progress
 9a6192d6-10b3-41d4-bc21-d83aa7e32c53,Star Stop,Star Stop 54,,Missing,,Pending Launch,In progress
-06d3566f-6501-4e91-bd49-85a6c3f83d9b,Star Stop,Star Stop 57,,Missing,Missing,Pending Launch,In progress
+06d3566f-6501-4e91-bd49-85a6c3f83d9b,Star Stop,Star Stop 57,,Missing,,Pending Launch,In progress
 b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,,Missing,,Pending Launch,In progress
 6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,,Missing,,Pending Launch,In progress
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,,Pending Launch,In progress
