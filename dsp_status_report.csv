@@ -3,7 +3,7 @@ store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,
 7f0295c7-ed84-4da3-99ad-d08847e02703,JAMACHA PETROLEUM LLC,AMPM Jamacha,ID Present,ID Present,,Pending Launch,In progress
 7b3ec3f1-0aff-4a2d-b57e-96b9cf7eb711,Miramar Petroleum LLC,AMPM Miramar,ID Present,ID Present,,Pending Launch,In progress
 6d31f976-967d-438b-a52d-9a7b62d47911,Sabre Springs Petroleum LLC,AMPM Sabre Springs Petroleum,ID Present,ID Present,,Pending Launch,In progress
-af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,c567526d-db3d-59c5-83d5-0dc141a5ee78,Missing,,Pending Launch,In progress
+af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,ID Present,Missing,,Pending Launch,In progress
 223b90ce-e3db-4c78-a71f-4250a2165000,Atlantis Management Group,Atlantis #199,ID Present,ID Present,,Pending Launch,In progress
 a418cd3e-c479-4c72-930e-0e9b7af90b82,Atlantis Management Group,Atlantis #202,ID Present,ID Present,,Pending Launch,In progress
 e2a701bb-9ffc-4ba9-9543-bec715499b54,Atlantis Management Group,Atlantis #208,ID Present,ID Present,,Pending Launch,In progress
@@ -100,8 +100,8 @@ e31931ef-1821-4811-956b-95fc65176eac,"Gawfco Enterprises, Inc.",Fast Fill Market
 120ec0be-2b94-446a-8dc6-c7ffed83b5f4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 5605 E Kings Canyon Rd ),ID Present,ID Present,,Pending Launch,In progress
 be80774c-6534-4d45-ae15-ca301d2bbc32,"Gawfco Enterprises, Inc.",Fast Fill Market ( 6097 Snell Ave ),ID Present,ID Present,,Pending Launch,In progress
 ab2b0c40-12db-4f29-a983-caefe9f11fea,"Gawfco Enterprises, Inc.",Fast Fill Market ( 72275 Ramon Rd ),ID Present,ID Present,,Pending Launch,In progress
-27982272-2d6d-428f-ad12-c4209335e470,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),ID Present,ID Present,,Pending Launch,In progress
 767d517d-a28b-4958-8a78-199c03b801a4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),738f851e-f65b-5b34-b537-edd2085317f7,Missing,Missing,Pending Launch,In progress
+27982272-2d6d-428f-ad12-c4209335e470,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),ID Present,ID Present,,Pending Launch,In progress
 2cbaac4b-3f10-4bbb-a9ea-ee4cf895e7e5,"Gawfco Enterprises, Inc.",Fast Fill Market (4298 MISSION ST.),ID Present,ID Present,,Pending Launch,In progress
 b7f8bf10-0bef-4da8-aec3-51a09b05b7e7,"Gawfco Enterprises, Inc.",Fast Fill Market Brawley ( 1691 Main St ),ID Present,ID Present,,Pending Launch,In progress
 1d5cb5f4-2710-4a71-94a8-c2d3f4c0a7e2,"Gawfco Enterprises, Inc.",Fast Fill Market Brea ( 3300 East Imperial Hwy ),ID Present,ID Present,,Pending Launch,In progress
