@@ -3,7 +3,7 @@ store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,
 7f0295c7-ed84-4da3-99ad-d08847e02703,JAMACHA PETROLEUM LLC,AMPM Jamacha,ID Present,ID Present,,Pending Launch,In progress
 7b3ec3f1-0aff-4a2d-b57e-96b9cf7eb711,Miramar Petroleum LLC,AMPM Miramar,ID Present,ID Present,,Pending Launch,In progress
 6d31f976-967d-438b-a52d-9a7b62d47911,Sabre Springs Petroleum LLC,AMPM Sabre Springs Petroleum,ID Present,ID Present,,Pending Launch,In progress
-af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,,Missing,,Pending Launch,In progress
+af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,c567526d-db3d-59c5-83d5-0dc141a5ee78,Missing,,Pending Launch,In progress
 223b90ce-e3db-4c78-a71f-4250a2165000,Atlantis Management Group,Atlantis #199,ID Present,ID Present,,Pending Launch,In progress
 a418cd3e-c479-4c72-930e-0e9b7af90b82,Atlantis Management Group,Atlantis #202,ID Present,ID Present,,Pending Launch,In progress
 e2a701bb-9ffc-4ba9-9543-bec715499b54,Atlantis Management Group,Atlantis #208,ID Present,ID Present,,Pending Launch,In progress
@@ -46,7 +46,7 @@ a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mo
 213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,ID Present,ID Present,ID Present,Pending Launch,In progress
 0d576d18-a070-4fc5-9214-c398f5a5c2cf,1310 Lagrange Firm LLC,Circle K - GX 162,ID Present,ID Present,,Pending Launch,In progress
 42aa4bd8-0219-44e8-b6c0-e04e4b13b00e,"Grand Martco, Inc.",Circle K - Grand 76,ID Present,ID Present,,Pending Launch,In progress
-015a303f-c250-4da8-983e-b03b10bacfa5,Miami Food Mart Inc,Circle K - Miami Food Mart,,Missing,,Pending Launch,In progress
+015a303f-c250-4da8-983e-b03b10bacfa5,Miami Food Mart Inc,Circle K - Miami Food Mart,d55f13f2-e18b-5d92-b328-cf86b0a709f3,Missing,,Pending Launch,In progress
 9ca0c2bc-358a-474e-81a8-a0477ab68f37,"Grand Martco, Inc.",Circle K - Mission Martco,ID Present,ID Present,,Pending Launch,In progress
 7efd3620-1821-40b0-a775-f1b3366bc134,Circle K Norwalk,Circle K - Norwalk,ID Present,ID Present,,Pending Launch,In progress
 ab1fa524-01e8-40ec-b0a5-4ffc642cf14b,"Grand Martco, Inc.",Circle K - Redwood City Martco,ID Present,ID Present,,Pending Launch,In progress
@@ -100,8 +100,8 @@ e31931ef-1821-4811-956b-95fc65176eac,"Gawfco Enterprises, Inc.",Fast Fill Market
 120ec0be-2b94-446a-8dc6-c7ffed83b5f4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 5605 E Kings Canyon Rd ),ID Present,ID Present,,Pending Launch,In progress
 be80774c-6534-4d45-ae15-ca301d2bbc32,"Gawfco Enterprises, Inc.",Fast Fill Market ( 6097 Snell Ave ),ID Present,ID Present,,Pending Launch,In progress
 ab2b0c40-12db-4f29-a983-caefe9f11fea,"Gawfco Enterprises, Inc.",Fast Fill Market ( 72275 Ramon Rd ),ID Present,ID Present,,Pending Launch,In progress
-767d517d-a28b-4958-8a78-199c03b801a4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),738f851e-f65b-5b34-b537-edd2085317f7,Missing,Missing,Pending Launch,In progress
 27982272-2d6d-428f-ad12-c4209335e470,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),ID Present,ID Present,,Pending Launch,In progress
+767d517d-a28b-4958-8a78-199c03b801a4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),738f851e-f65b-5b34-b537-edd2085317f7,Missing,Missing,Pending Launch,In progress
 2cbaac4b-3f10-4bbb-a9ea-ee4cf895e7e5,"Gawfco Enterprises, Inc.",Fast Fill Market (4298 MISSION ST.),ID Present,ID Present,,Pending Launch,In progress
 b7f8bf10-0bef-4da8-aec3-51a09b05b7e7,"Gawfco Enterprises, Inc.",Fast Fill Market Brawley ( 1691 Main St ),ID Present,ID Present,,Pending Launch,In progress
 1d5cb5f4-2710-4a71-94a8-c2d3f4c0a7e2,"Gawfco Enterprises, Inc.",Fast Fill Market Brea ( 3300 East Imperial Hwy ),ID Present,ID Present,,Pending Launch,In progress
@@ -167,17 +167,17 @@ e0f0e024-c857-4a79-b32d-6656617bb56b,Rocket,Krispy Krunchy Chicken (8324 Highway
 67c3fa22-981d-4a92-9008-71c829757bd0,Circle K (Shahid LLC),Krispy Krunchy Chicken - Seacoast,ID Present,ID Present,,Pending Launch,In progress
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
 36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),ID Present,ID Present,,Pending Launch,In progress
-11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s - 1000 Jefferson Road,,Missing,,Pending Launch,In progress
-55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s - 2044 Latta Road,,Missing,,Pending Launch,In progress
-7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s - 390 Culver Road,,Missing,,Pending Launch,In progress
-64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s - 480 Plank Road,,Missing,,Pending Launch,In progress
-ccc57cc7-cdd6-4c9d-9b95-be45163941a4,JW Malcho Enterprise Inc.,Malcho’s - 650 Moseley Road,,Missing,,Pending Launch,In progress
-9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s - 690 Pittsford Victor Road,,Missing,,Pending Launch,In progress
-676e4a69-a396-4f18-a3db-a83a3a587e34,JW Malcho Enterprise Inc.,Malcho’s - 70 North Main Street,,Missing,,Pending Launch,In progress
+11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s - 1000 Jefferson Road,8e1107bf-bbe7-580a-958d-04efa5941539,Missing,,Pending Launch,In progress
+55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s - 2044 Latta Road,f013fafa-00f3-5582-a2c0-178d61b21fd4,Missing,,Pending Launch,In progress
+7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s - 390 Culver Road,08955f86-26da-54d5-9f3f-67dbf73e9d31,Missing,,Pending Launch,In progress
+64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s - 480 Plank Road,a6b9ad5f-a236-5709-9b91-345b9ea76489,Missing,,Pending Launch,In progress
+ccc57cc7-cdd6-4c9d-9b95-be45163941a4,JW Malcho Enterprise Inc.,Malcho’s - 650 Moseley Road,07475d46-784e-5524-9cb9-3f32b5598e09,Missing,,Pending Launch,In progress
+9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s - 690 Pittsford Victor Road,7b5eb029-b4e2-58b6-b89b-646e64f334a5,Missing,,Pending Launch,In progress
+676e4a69-a396-4f18-a3db-a83a3a587e34,JW Malcho Enterprise Inc.,Malcho’s - 70 North Main Street,ID Present,Missing,,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W Coal City Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-db3eeef0-e525-401a-9921-ea14ab853001,Mercaso,Mercaso (12101 Garfield Ave),,Missing,,Pending Launch,In progress
-30eccefd-545f-424b-a7f5-ee41af011c27,Mercaso,Mercaso (3130 w 8th St),,Missing,,Pending Launch,In progress
-09282e02-df5f-4f07-8006-fa1d5035cc0d,Mercaso,Mercaso (7522 W Cerritos Ave),,Missing,,Pending Launch,In progress
+db3eeef0-e525-401a-9921-ea14ab853001,Mercaso,Mercaso (12101 Garfield Ave),127703d8-fea5-5fce-86d7-93f7ca573b94,Missing,,Pending Launch,In progress
+30eccefd-545f-424b-a7f5-ee41af011c27,Mercaso,Mercaso (3130 w 8th St),5fdd4e50-fa8c-5240-b26a-b52649830a77,Missing,,Pending Launch,In progress
+09282e02-df5f-4f07-8006-fa1d5035cc0d,Mercaso,Mercaso (7522 W Cerritos Ave),0570c6ec-9cd2-5349-a037-339979f88f68,Missing,,Pending Launch,In progress
 c5d81208-55d2-4c8f-afbd-2258db772d9a,Minuteman Food Mart,Minuteman Food Mart - 204,ID Present,ID Present,ID Present,Pending Launch,In progress
 f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3116,ID Present,ID Present,ID Present,Pending Launch,In progress
 581049d5-b08d-40ca-aff1-cdc19c586c22,Minuteman Food Mart,Minuteman Food Mart - 3118,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -193,7 +193,7 @@ f7847b58-5418-4dd5-ae09-077f9d99470c,"Gawfco Enterprises, Inc.",Seaside 76 ( 160
 7efdac46-5130-46fa-93b7-607d7886d02f,Star Stop,Star Stop 109,ID Present,ID Present,,Pending Launch,In progress
 0ae0a184-bc69-404c-be32-65530b018f5b,Star Stop,Star Stop 112,ID Present,ID Present,,Pending Launch,In progress
 03d491c1-e220-4519-9b65-203013da2ea6,Star Stop,Star Stop 114,ID Present,ID Present,,Pending Launch,In progress
-f4222239-8ab0-45ab-9579-d1eea5d3bdd1,Star Stop,Star Stop 115,,Missing,,Pending Launch,In progress
+f4222239-8ab0-45ab-9579-d1eea5d3bdd1,Star Stop,Star Stop 115,0b07a517-e579-5888-b5ec-bb1cb018d2fd,Missing,,Pending Launch,In progress
 534647f7-1057-416a-8638-eb79f1dd50ae,Star Stop,Star Stop 119,ID Present,ID Present,,Pending Launch,In progress
 c396438b-0ee1-4202-a30d-af4305b97569,Star Stop,Star Stop 122,ID Present,ID Present,,Pending Launch,In progress
 40627358-c0fe-45ef-a70e-6f974a6b224b,Star Stop,Star Stop 123,ID Present,ID Present,,Pending Launch,In progress
@@ -205,31 +205,31 @@ bac02b05-ff6f-4bea-a538-d2f8b63b13f4,Star Stop,Star Stop 132,ID Present,ID Prese
 1cfdf505-aadd-4ea3-9d63-3a43fd25c561,Star Stop,Star Stop 137,ID Present,ID Present,,Pending Launch,In progress
 71baacfd-42a2-4a7f-92f2-d51d8d755b65,Star Stop,Star Stop 141,ID Present,ID Present,,Pending Launch,In progress
 ee8e6539-0fad-4432-a88a-81c8c4dc5730,Star Stop,Star Stop 144,ID Present,ID Present,,Pending Launch,In progress
-de09cfd1-e68a-4cca-9619-f1b3917d8d62,Star Stop,Star Stop 21,,Missing,,Pending Launch,In progress
-d3f66fe2-1847-4ed6-8a37-5961539212d8,Star Stop,Star Stop 23,,Missing,,Pending Launch,In progress
-849cbfb5-e0fd-45bf-b7b3-aa20bb705489,Star Stop,Star Stop 25,,Missing,,Pending Launch,In progress
-89cfc4e3-c6ac-4e12-9e9d-8492952e4432,Star Stop,Star Stop 27,,Missing,,Pending Launch,In progress
-3087abbf-5f8e-4cfb-9f32-109d32db662c,Star Stop,Star Stop 28,,Missing,,Pending Launch,In progress
-298bea10-a28d-40a1-96b1-12dd3166a027,Star Stop,Star Stop 31,,Missing,,Pending Launch,In progress
-ad58837a-3a70-4119-bf3c-897113ea181b,Star Stop,Star Stop 33,,Missing,,Pending Launch,In progress
-a73dc92f-21bd-405f-a40a-b999aa7626b8,Star Stop,Star Stop 34,,Missing,,Pending Launch,In progress
-9bf5fbec-1c93-4c87-8cc7-c54ca148f968,Star Stop,Star Stop 36,,Missing,,Pending Launch,In progress
-7788ba3a-3787-4a36-b5f8-7cf90ccb8957,Star Stop,Star Stop 37,,Missing,,Pending Launch,In progress
-378f91b4-c1e5-4ebf-907d-f591f3d90dfc,Star Stop,Star Stop 38,,Missing,,Pending Launch,In progress
-572bb78a-3672-4108-bd37-26332e54f4b8,Star Stop,Star Stop 39,,Missing,,Pending Launch,In progress
-ceb5c317-6c85-48cd-a4f4-95a2aef8c7ca,Star Stop,Star Stop 40,,Missing,,Pending Launch,In progress
-07cad82f-fcf7-4d00-af5d-6bd7bc3191bf,Star Stop,Star Stop 41,,Missing,,Pending Launch,In progress
-cd94f39a-53b3-4ae8-9488-4330be066d35,Star Stop,Star Stop 42,,Missing,,Pending Launch,In progress
-0aa39ce3-b967-418b-937a-b238d948b408,Star Stop,Star Stop 44,,Missing,,Pending Launch,In progress
-bbd71d3e-2b4a-4535-9341-c99092a706ea,Star Stop,Star Stop 45,,Missing,,Pending Launch,In progress
-9192a3ff-20a8-412b-89ef-e1f088efd692,Star Stop,Star Stop 47,,Missing,,Pending Launch,In progress
-1d7f5b5c-5f6c-4c38-9125-690198253dcb,Star Stop,Star Stop 50,,Missing,,Pending Launch,In progress
-1924b7bf-6ce4-4cab-be6c-f256b84493da,Star Stop,Star Stop 52,,Missing,,Pending Launch,In progress
-4e789d08-bc1e-436d-b2be-b112059e1ba9,Star Stop,Star Stop 53,,Missing,,Pending Launch,In progress
-9a6192d6-10b3-41d4-bc21-d83aa7e32c53,Star Stop,Star Stop 54,,Missing,,Pending Launch,In progress
-06d3566f-6501-4e91-bd49-85a6c3f83d9b,Star Stop,Star Stop 57,,Missing,Missing,Pending Launch,In progress
-b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,,Missing,,Pending Launch,In progress
-6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,,Missing,,Pending Launch,In progress
+de09cfd1-e68a-4cca-9619-f1b3917d8d62,Star Stop,Star Stop 21,2faab814-2c32-5a4a-8366-f551dbfa1174,Missing,,Pending Launch,In progress
+d3f66fe2-1847-4ed6-8a37-5961539212d8,Star Stop,Star Stop 23,ca017c3a-1c70-5512-b062-1c80d0e7c40a,Missing,,Pending Launch,In progress
+849cbfb5-e0fd-45bf-b7b3-aa20bb705489,Star Stop,Star Stop 25,84fc5d31-4673-5388-8e32-54d15f21614f,Missing,,Pending Launch,In progress
+89cfc4e3-c6ac-4e12-9e9d-8492952e4432,Star Stop,Star Stop 27,d07162e8-6874-5e65-9a51-ffbb7e5e1eb7,Missing,,Pending Launch,In progress
+3087abbf-5f8e-4cfb-9f32-109d32db662c,Star Stop,Star Stop 28,961eccc5-1657-5344-a9fb-f4d2ef01b779,Missing,,Pending Launch,In progress
+298bea10-a28d-40a1-96b1-12dd3166a027,Star Stop,Star Stop 31,74b4fa1c-0194-57a5-a5c6-e98cd886b557,Missing,,Pending Launch,In progress
+ad58837a-3a70-4119-bf3c-897113ea181b,Star Stop,Star Stop 33,5dc93e9d-e77f-503f-916b-68f086470eb9,Missing,,Pending Launch,In progress
+a73dc92f-21bd-405f-a40a-b999aa7626b8,Star Stop,Star Stop 34,1c205c4a-becc-5d65-87a8-8cc636a0477f,Missing,,Pending Launch,In progress
+9bf5fbec-1c93-4c87-8cc7-c54ca148f968,Star Stop,Star Stop 36,081e90f5-9318-5e54-97aa-97cdd5ccfec2,Missing,,Pending Launch,In progress
+7788ba3a-3787-4a36-b5f8-7cf90ccb8957,Star Stop,Star Stop 37,eb4b3f63-797b-58a4-a50a-39100d0eeb2c,Missing,,Pending Launch,In progress
+378f91b4-c1e5-4ebf-907d-f591f3d90dfc,Star Stop,Star Stop 38,4b5a1ef5-0158-5003-8ac2-3651e6216899,Missing,,Pending Launch,In progress
+572bb78a-3672-4108-bd37-26332e54f4b8,Star Stop,Star Stop 39,20c8c743-ae13-56ca-9176-b1c3242c8f3e,Missing,,Pending Launch,In progress
+ceb5c317-6c85-48cd-a4f4-95a2aef8c7ca,Star Stop,Star Stop 40,ff94ecdd-52e0-58d9-a300-798012d60c0f,Missing,,Pending Launch,In progress
+07cad82f-fcf7-4d00-af5d-6bd7bc3191bf,Star Stop,Star Stop 41,907b229e-60ff-56cd-bd7d-fd7358fa471e,Missing,,Pending Launch,In progress
+cd94f39a-53b3-4ae8-9488-4330be066d35,Star Stop,Star Stop 42,d742076b-02e1-5239-93f0-f3f9f7994ac3,Missing,,Pending Launch,In progress
+0aa39ce3-b967-418b-937a-b238d948b408,Star Stop,Star Stop 44,0f28bc23-22c3-5f36-bbfd-b735701ca3f6,Missing,,Pending Launch,In progress
+bbd71d3e-2b4a-4535-9341-c99092a706ea,Star Stop,Star Stop 45,7fb329e3-9a8c-5738-9acd-d7de7eb8f987,Missing,,Pending Launch,In progress
+9192a3ff-20a8-412b-89ef-e1f088efd692,Star Stop,Star Stop 47,ca07cb43-316f-5f2e-b99b-e311490db208,Missing,,Pending Launch,In progress
+1d7f5b5c-5f6c-4c38-9125-690198253dcb,Star Stop,Star Stop 50,50898aba-378f-5872-8381-0a585f79292b,Missing,,Pending Launch,In progress
+1924b7bf-6ce4-4cab-be6c-f256b84493da,Star Stop,Star Stop 52,8aa4dee2-90c5-5c18-b0a7-2f75b1d41ad6,Missing,,Pending Launch,In progress
+4e789d08-bc1e-436d-b2be-b112059e1ba9,Star Stop,Star Stop 53,122b26f1-83fb-5c44-9d09-9e62233a5856,Missing,,Pending Launch,In progress
+9a6192d6-10b3-41d4-bc21-d83aa7e32c53,Star Stop,Star Stop 54,42647455-f384-5c14-89c8-fd8d68588394,Missing,,Pending Launch,In progress
+06d3566f-6501-4e91-bd49-85a6c3f83d9b,Star Stop,Star Stop 57,8ddb6719-cdbb-533b-986d-4f5787594545,Missing,Missing,Pending Launch,In progress
+b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,17b9ae19-5582-5a68-a54f-ac7a2b7738ce,Missing,,Pending Launch,In progress
+6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,857f49cc-687c-577b-962b-124c9b97f746,Missing,,Pending Launch,In progress
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,,Pending Launch,In progress
 2f5e95f7-62b2-405f-9adf-9c07fcd71a27,Exxon Tiger Mart,Tiger Mart #12,ID Present,ID Present,,Pending Launch,In progress
 7944c2f2-baed-4a10-a2b1-51607e3bd7bb,Exxon Tiger Mart,Tiger Mart #21,ID Present,ID Present,,Pending Launch,In progress
