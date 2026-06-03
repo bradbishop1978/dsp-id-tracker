@@ -1,12 +1,12 @@
 store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,pipeline_stage,onboarding_status
-43e3bf8b-dfa0-4ffa-a340-52a279d4f377,MELROSE PETROLEUM LLC,AMPM Arco,ID Present,ID Present,,Pending Launch,In progress
-7f0295c7-ed84-4da3-99ad-d08847e02703,JAMACHA PETROLEUM LLC,AMPM Jamacha,ID Present,ID Present,,Pending Launch,In progress
-7b3ec3f1-0aff-4a2d-b57e-96b9cf7eb711,Miramar Petroleum LLC,AMPM Miramar,ID Present,ID Present,,Pending Launch,In progress
-6d31f976-967d-438b-a52d-9a7b62d47911,Sabre Springs Petroleum LLC,AMPM Sabre Springs Petroleum,ID Present,ID Present,,Pending Launch,In progress
-af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,ID Present,Missing,,Pending Launch,In progress
-223b90ce-e3db-4c78-a71f-4250a2165000,Atlantis Management Group,Atlantis #199,ID Present,ID Present,,Pending Launch,In progress
-a418cd3e-c479-4c72-930e-0e9b7af90b82,Atlantis Management Group,Atlantis #202,ID Present,ID Present,,Pending Launch,In progress
-e2a701bb-9ffc-4ba9-9543-bec715499b54,Atlantis Management Group,Atlantis #208,ID Present,ID Present,,Pending Launch,In progress
+43e3bf8b-dfa0-4ffa-a340-52a279d4f377,MELROSE PETROLEUM LLC,AMPM Arco,ID Present,ID Present,Missing,Pending Launch,In progress
+7f0295c7-ed84-4da3-99ad-d08847e02703,JAMACHA PETROLEUM LLC,AMPM Jamacha,ID Present,ID Present,Missing,Pending Launch,In progress
+7b3ec3f1-0aff-4a2d-b57e-96b9cf7eb711,Miramar Petroleum LLC,AMPM Miramar,ID Present,ID Present,Missing,Pending Launch,In progress
+6d31f976-967d-438b-a52d-9a7b62d47911,Sabre Springs Petroleum LLC,AMPM Sabre Springs Petroleum,ID Present,ID Present,Missing,Pending Launch,In progress
+af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,ID Present,Missing,Missing,Pending Launch,In progress
+223b90ce-e3db-4c78-a71f-4250a2165000,Atlantis Management Group,Atlantis #199,ID Present,ID Present,Missing,Pending Launch,In progress
+a418cd3e-c479-4c72-930e-0e9b7af90b82,Atlantis Management Group,Atlantis #202,ID Present,ID Present,Missing,Pending Launch,In progress
+e2a701bb-9ffc-4ba9-9543-bec715499b54,Atlantis Management Group,Atlantis #208,ID Present,ID Present,Missing,Pending Launch,In progress
 94ecf2fc-bdcb-429f-91d3-3a58fea39b3a,Jacksons Food Stores,Aztec Grill/Redwood Market #277,ID Present,ID Present,ID Present,Pending Launch,In progress
 453eac94-8c4d-4943-a63e-92a184bb9fb6,Jacksons Food Stores,Aztec Grill/Redwood Market #279,ID Present,ID Present,ID Present,Pending Launch,In progress
 47a38b8c-4d63-4c89-981c-37c8c3cbc233,Jacksons Food Stores,Aztec Grill/Redwood Market #286,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -22,64 +22,64 @@ cb9601d9-1df1-4c49-97d7-d686ac33ab2c,Break Time,BreakTime (2213 Cardinal Dr),ID 
 77178048-868b-4994-8eb1-04bcfdbf3c4c,Break Time,BreakTime (2823 E Malone Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 1ce0397b-fa69-450b-8b3c-eed07ba457d9,Break Time,BreakTime (2940 N Westwood Blvd),ID Present,ID Present,ID Present,Pending Launch,In progress
 8376ade3-91b8-46fa-9708-ccd0421b89f2,Break Time,BreakTime (420 N Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
-be1f7d73-f9f4-4924-9cde-5924db795851,Egypt and Dale Retail Inc,CIRCLE K MOBIL GILRAY,ID Present,ID Present,,Pending Launch,In progress
-e5657365-ad11-43c7-b4d9-f22f1a934196,Egypt and Dale Retail Inc,CIRCLE K SHELL DALE MABRY EGYPT LAKE,ID Present,ID Present,,Pending Launch,In progress
-066135df-403f-476f-9a5f-1db4d91d2642,Chester's - Corrigan Oil,Chester's Chicken (15815 South Oakley),ID Present,ID Present,,Pending Launch,In progress
-c7b83578-6f0f-4179-ab2e-1b3bc19899e4,Break Time,Chester's Chicken (2755 Militia Dr),ID Present,ID Present,,Pending Launch,In progress
-c967fa90-6bd5-43c4-b596-f1093e54c37e,TJ1 Inc,Circle K #2655796,ID Present,ID Present,,Pending Launch,In progress
-db5d1fc1-af87-4928-a889-54aa470c35f5,"Gawfco Enterprises, Inc.",Circle K ( 401 Potrero Ave ),ID Present,ID Present,,Pending Launch,In progress
-c435a816-fa22-4a87-ba54-4b473ab14724,"Gawfco Enterprises, Inc.",Circle K ( 930 Sir Francis Drake Blvd ),ID Present,ID Present,,Pending Launch,In progress
+be1f7d73-f9f4-4924-9cde-5924db795851,Egypt and Dale Retail Inc,CIRCLE K MOBIL GILRAY,ID Present,ID Present,Missing,Pending Launch,In progress
+e5657365-ad11-43c7-b4d9-f22f1a934196,Egypt and Dale Retail Inc,CIRCLE K SHELL DALE MABRY EGYPT LAKE,ID Present,ID Present,Missing,Pending Launch,In progress
+066135df-403f-476f-9a5f-1db4d91d2642,Chester's - Corrigan Oil,Chester's Chicken (15815 South Oakley),ID Present,ID Present,Missing,Pending Launch,In progress
+c7b83578-6f0f-4179-ab2e-1b3bc19899e4,Break Time,Chester's Chicken (2755 Militia Dr),ID Present,ID Present,Missing,Pending Launch,In progress
+c967fa90-6bd5-43c4-b596-f1093e54c37e,TJ1 Inc,Circle K #2655796,ID Present,ID Present,Missing,Pending Launch,In progress
+db5d1fc1-af87-4928-a889-54aa470c35f5,"Gawfco Enterprises, Inc.",Circle K ( 401 Potrero Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
+c435a816-fa22-4a87-ba54-4b473ab14724,"Gawfco Enterprises, Inc.",Circle K ( 930 Sir Francis Drake Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
 3c4769ae-77df-4a5a-bd32-001b5589061d,Circle K Gas Express,Circle K (111 Boulevard NE),ID Present,ID Present,ID Present,Pending Launch,In progress
-856de737-9075-4a86-b8e5-9bbd95065a6b,Circle K Gas Express,Circle K (1120 Sigman Rd NE),ID Present,ID Present,,Pending Launch,In progress
+856de737-9075-4a86-b8e5-9bbd95065a6b,Circle K Gas Express,Circle K (1120 Sigman Rd NE),ID Present,ID Present,Missing,Pending Launch,In progress
 a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,Circle K (550 Cherokee Pkwy) Dup,ID Present,ID Present,ID Present,Pending Launch,In progress
-33fcedc6-4fe0-4b4c-b074-adfa28be960c,Walport Enterprises Inc,Circle K - 2655789,ID Present,ID Present,,Pending Launch,In progress
-ebf5d16d-a9eb-49ac-8212-a6d14c0af888,Singh11LLC,Circle K - 4150 US Highway,ID Present,ID Present,,Pending Launch,In progress
+33fcedc6-4fe0-4b4c-b074-adfa28be960c,Walport Enterprises Inc,Circle K - 2655789,ID Present,ID Present,Missing,Pending Launch,In progress
+ebf5d16d-a9eb-49ac-8212-a6d14c0af888,Singh11LLC,Circle K - 4150 US Highway,ID Present,ID Present,Missing,Pending Launch,In progress
 43f4604c-7f4f-4d81-9069-ed78aa62c2c8,Veeram Inc,Circle K - 44462 East Florida Avenue,ID Present,ID Present,ID Present,Pending Launch,In progress
-a2ce88f7-f098-4189-ab76-508c44ad3a06,Circle K Franchise (Viraj Jhala),Circle K - Breakwater Marathon,ID Present,ID Present,,Pending Launch,In progress
-48e27caa-c530-46a3-b82b-1647d07832f8,Singh11LLC,Circle K - CMART,ID Present,ID Present,,Pending Launch,In progress
+a2ce88f7-f098-4189-ab76-508c44ad3a06,Circle K Franchise (Viraj Jhala),Circle K - Breakwater Marathon,ID Present,ID Present,Missing,Pending Launch,In progress
+48e27caa-c530-46a3-b82b-1647d07832f8,Singh11LLC,Circle K - CMART,ID Present,ID Present,Missing,Pending Launch,In progress
 d158a021-83bb-412a-a289-e66114c9eca4,Colton Super Center Inc.,Circle K - Colton,ID Present,ID Present,ID Present,Pending Launch,In progress
-7e849878-04cd-4f5f-ad49-0223380ec5b9,JNT Management Inc,Circle K - Countyline,ID Present,ID Present,,Pending Launch,In progress
-e56078c4-626b-43b8-9537-ae73a9f2d44c,Circle K Norwalk,Circle K - Downey,ID Present,ID Present,,Pending Launch,In progress
+7e849878-04cd-4f5f-ad49-0223380ec5b9,JNT Management Inc,Circle K - Countyline,ID Present,ID Present,Missing,Pending Launch,In progress
+e56078c4-626b-43b8-9537-ae73a9f2d44c,Circle K Norwalk,Circle K - Downey,ID Present,ID Present,Missing,Pending Launch,In progress
 a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
 213a6546-bc0d-493c-abe3-0bc813f63748,Colton Super Center Inc.,Circle K - Fontana Slover,ID Present,ID Present,ID Present,Pending Launch,In progress
-0d576d18-a070-4fc5-9214-c398f5a5c2cf,1310 Lagrange Firm LLC,Circle K - GX 162,ID Present,ID Present,,Pending Launch,In progress
-42aa4bd8-0219-44e8-b6c0-e04e4b13b00e,"Grand Martco, Inc.",Circle K - Grand 76,ID Present,ID Present,,Pending Launch,In progress
-015a303f-c250-4da8-983e-b03b10bacfa5,Miami Food Mart Inc,Circle K - Miami Food Mart,d55f13f2-e18b-5d92-b328-cf86b0a709f3,Missing,,Pending Launch,In progress
-9ca0c2bc-358a-474e-81a8-a0477ab68f37,"Grand Martco, Inc.",Circle K - Mission Martco,ID Present,ID Present,,Pending Launch,In progress
-7efd3620-1821-40b0-a775-f1b3366bc134,Circle K Norwalk,Circle K - Norwalk,ID Present,ID Present,,Pending Launch,In progress
-ab1fa524-01e8-40ec-b0a5-4ffc642cf14b,"Grand Martco, Inc.",Circle K - Redwood City Martco,ID Present,ID Present,,Pending Launch,In progress
-6b24b523-e029-4cb6-99bf-9fb887e5fe54,JNT Management Inc,Circle K - Renaissance,ID Present,ID Present,,Pending Launch,In progress
-6bc74c28-abed-47b5-9421-c58d1e242148,Circle K (Shidler Services Corp),Circle K - Savi Ranch 76,ID Present,ID Present,,Pending Launch,In progress
+0d576d18-a070-4fc5-9214-c398f5a5c2cf,1310 Lagrange Firm LLC,Circle K - GX 162,ID Present,ID Present,Missing,Pending Launch,In progress
+42aa4bd8-0219-44e8-b6c0-e04e4b13b00e,"Grand Martco, Inc.",Circle K - Grand 76,ID Present,ID Present,Missing,Pending Launch,In progress
+015a303f-c250-4da8-983e-b03b10bacfa5,Miami Food Mart Inc,Circle K - Miami Food Mart,Missing,Missing,Missing,Pending Launch,In progress
+9ca0c2bc-358a-474e-81a8-a0477ab68f37,"Grand Martco, Inc.",Circle K - Mission Martco,ID Present,ID Present,Missing,Pending Launch,In progress
+7efd3620-1821-40b0-a775-f1b3366bc134,Circle K Norwalk,Circle K - Norwalk,ID Present,ID Present,Missing,Pending Launch,In progress
+ab1fa524-01e8-40ec-b0a5-4ffc642cf14b,"Grand Martco, Inc.",Circle K - Redwood City Martco,ID Present,ID Present,Missing,Pending Launch,In progress
+6b24b523-e029-4cb6-99bf-9fb887e5fe54,JNT Management Inc,Circle K - Renaissance,ID Present,ID Present,Missing,Pending Launch,In progress
+6bc74c28-abed-47b5-9421-c58d1e242148,Circle K (Shidler Services Corp),Circle K - Savi Ranch 76,ID Present,ID Present,Missing,Pending Launch,In progress
 fa6ea105-a1d6-4bd6-918d-77113a32a982,Colton Super Center Inc.,Circle K - Tustin,ID Present,ID Present,ID Present,Pending Launch,In progress
-de1e5847-314d-46d7-9f22-50a72a409329,YHS GAS AND CONVENIENCE,Circle K 470 Lake Panasoffkee,ID Present,ID Present,,Pending Launch,In progress
+de1e5847-314d-46d7-9f22-50a72a409329,YHS GAS AND CONVENIENCE,Circle K 470 Lake Panasoffkee,ID Present,ID Present,Missing,Pending Launch,In progress
 4cd1683b-fe1f-4165-ad56-455131d1aea2,Kwik Trip Oil,Circle K Atlantic Beach,ID Present,ID Present,ID Present,Pending Launch,In progress
 9bc8c25c-45e7-4f35-b28b-cafc064efc86,Kwik Trip Oil,Circle K Bowden,ID Present,ID Present,ID Present,Pending Launch,In progress
-d0c2a36b-4aea-4b9c-ab9c-40920e3132ff,"Gawfco Enterprises, Inc.",Circle K Capitola ( 2195 41 St Ave ),ID Present,ID Present,,Pending Launch,In progress
-4517384e-4f06-45a9-aa55-2684b13a96c0,"Gawfco Enterprises, Inc.",Circle K Dublin ( 7850 Amador Valley Blvd ),ID Present,ID Present,,Pending Launch,In progress
-a5295013-6718-4a88-97e5-bb33ac900050,"Gawfco Enterprises, Inc.",Circle K Fairfield ( 1400 West Texas St ),ID Present,ID Present,,Pending Launch,In progress
-9e40625a-7056-4f2b-8f4d-da7b778ba240,"Gawfco Enterprises, Inc.",Circle K Fremont ( 39989 Farwell Dr ),ID Present,ID Present,,Pending Launch,In progress
+d0c2a36b-4aea-4b9c-ab9c-40920e3132ff,"Gawfco Enterprises, Inc.",Circle K Capitola ( 2195 41 St Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
+4517384e-4f06-45a9-aa55-2684b13a96c0,"Gawfco Enterprises, Inc.",Circle K Dublin ( 7850 Amador Valley Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+a5295013-6718-4a88-97e5-bb33ac900050,"Gawfco Enterprises, Inc.",Circle K Fairfield ( 1400 West Texas St ),ID Present,ID Present,Missing,Pending Launch,In progress
+9e40625a-7056-4f2b-8f4d-da7b778ba240,"Gawfco Enterprises, Inc.",Circle K Fremont ( 39989 Farwell Dr ),ID Present,ID Present,Missing,Pending Launch,In progress
 9f9bbc80-10cc-4152-9c47-0348a5b36b45,Kwik Trip Oil,Circle K Gateway,ID Present,ID Present,ID Present,Pending Launch,In progress
-984b10c9-592b-4d28-94bb-a9a9f8658f56,"Gawfco Enterprises, Inc.",Circle K Gilroy ( 300 Leavesley Rd ),ID Present,ID Present,,Pending Launch,In progress
-389d2e16-3902-4d7d-8ce0-b522da56c737,"Gawfco Enterprises, Inc.",Circle K Hayward ( 2492 Whipple Rd ),ID Present,ID Present,,Pending Launch,In progress
+984b10c9-592b-4d28-94bb-a9a9f8658f56,"Gawfco Enterprises, Inc.",Circle K Gilroy ( 300 Leavesley Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+389d2e16-3902-4d7d-8ce0-b522da56c737,"Gawfco Enterprises, Inc.",Circle K Hayward ( 2492 Whipple Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
 d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,ID Present,ID Present,ID Present,Pending Launch,In progress
-048dba89-aaf7-4a35-b40f-ba5b1d55613b,Circle K (Khoury Group),Circle K Melrose,ID Present,ID Present,,Pending Launch,In progress
-77ebe8e8-6a25-49f5-bbe6-d809496d4aa3,Circle K (Ohm Shree Ganesha LLC),Circle K Monument,ID Present,ID Present,,Pending Launch,In progress
-faf80448-138a-41a6-8dcd-dd02ee5f580b,"Gawfco Enterprises, Inc.",Circle K Newark ( 5489 Thornton Ave ),ID Present,ID Present,,Pending Launch,In progress
+048dba89-aaf7-4a35-b40f-ba5b1d55613b,Circle K (Khoury Group),Circle K Melrose,ID Present,ID Present,Missing,Pending Launch,In progress
+77ebe8e8-6a25-49f5-bbe6-d809496d4aa3,Circle K (Ohm Shree Ganesha LLC),Circle K Monument,ID Present,ID Present,Missing,Pending Launch,In progress
+faf80448-138a-41a6-8dcd-dd02ee5f580b,"Gawfco Enterprises, Inc.",Circle K Newark ( 5489 Thornton Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
 ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,ID Present,ID Present,ID Present,Pending Launch,In progress
-a2744be3-56b0-48a2-9865-e6ddb5dc320a,"Gawfco Enterprises, Inc.",Circle K Roseville ( 1398 Blue Oaks Blvd ),ID Present,ID Present,,Pending Launch,In progress
-fd23dc0f-26a4-4f7c-aed1-ce76579d77d1,"Gawfco Enterprises, Inc.",Circle K Sacramento ( 2330 Broadway ),ID Present,ID Present,,Pending Launch,In progress
-0e58f2fb-b763-45c0-bf64-53d5d29da7a6,"Gawfco Enterprises, Inc.",Circle K Vacaville ( 2000 Nut Tree Rd ),ID Present,ID Present,,Pending Launch,In progress
-f71eaac7-879a-4a85-9ce9-5c2bbbd6bdc1,"Gawfco Enterprises, Inc.",Circle K Westley ( 4549 Ingram Creek Rd ),ID Present,ID Present,,Pending Launch,In progress
+a2744be3-56b0-48a2-9865-e6ddb5dc320a,"Gawfco Enterprises, Inc.",Circle K Roseville ( 1398 Blue Oaks Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+fd23dc0f-26a4-4f7c-aed1-ce76579d77d1,"Gawfco Enterprises, Inc.",Circle K Sacramento ( 2330 Broadway ),ID Present,ID Present,Missing,Pending Launch,In progress
+0e58f2fb-b763-45c0-bf64-53d5d29da7a6,"Gawfco Enterprises, Inc.",Circle K Vacaville ( 2000 Nut Tree Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+f71eaac7-879a-4a85-9ce9-5c2bbbd6bdc1,"Gawfco Enterprises, Inc.",Circle K Westley ( 4549 Ingram Creek Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
 1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K- 1813 South Main St,ID Present,ID Present,ID Present,Pending Launch,In progress
 1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
-02f10dd9-791b-4d91-98fc-5f728d4f6483,Circle K Franchise (Viraj Jhala),Circle K- JEFFERSON MARATHON,ID Present,ID Present,,Pending Launch,In progress
-9a6acfaf-4482-402e-906f-0f87123cffdd,comraxllc,Circle K-2654250,ID Present,ID Present,,Pending Launch,In progress
-51af2328-d8d6-4b61-a5f6-0cef596134e5,EXTRAM LLC,Circle K-2655992,ID Present,ID Present,,Pending Launch,In progress
-dca9fb33-a33c-4afc-86d3-d16099e6b583,Kapacity Fuel LLC,Circle K-7305 Culebra,ID Present,ID Present,,Pending Launch,In progress
-1a888e55-fff4-48b9-b066-125c6346a294,Childers Double Kwik,Double Kwik - 1037,ID Present,ID Present,,Pending Launch,In progress
+02f10dd9-791b-4d91-98fc-5f728d4f6483,Circle K Franchise (Viraj Jhala),Circle K- JEFFERSON MARATHON,ID Present,ID Present,Missing,Pending Launch,In progress
+9a6acfaf-4482-402e-906f-0f87123cffdd,comraxllc,Circle K-2654250,ID Present,ID Present,Missing,Pending Launch,In progress
+51af2328-d8d6-4b61-a5f6-0cef596134e5,EXTRAM LLC,Circle K-2655992,ID Present,ID Present,Missing,Pending Launch,In progress
+dca9fb33-a33c-4afc-86d3-d16099e6b583,Kapacity Fuel LLC,Circle K-7305 Culebra,ID Present,ID Present,Missing,Pending Launch,In progress
+1a888e55-fff4-48b9-b066-125c6346a294,Childers Double Kwik,Double Kwik - 1037,ID Present,ID Present,Missing,Pending Launch,In progress
 697c223d-2206-424a-b10b-b47c11f80db8,EZ Market,EZ Market (1209 Collier Rd NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 d898c8b1-7b53-4053-95e4-227933a113ac,EZ Market,EZ Market (1222 West Marietta St NW),ID Present,ID Present,ID Present,Pending Launch,In progress
 999d54cc-fb95-45a6-bd58-3f1867ffcd4a,EZ Market,EZ Market (1411 Bouldercrest Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -88,57 +88,57 @@ d898c8b1-7b53-4053-95e4-227933a113ac,EZ Market,EZ Market (1222 West Marietta St 
 8a8e665d-3187-45da-98f1-9fb79b7f7bbf,EZ Market,EZ Market (1892 Howell Mill Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 da84973f-461d-4096-9f96-c88f4c592e74,EZ Market,EZ Market (720 Donald Lee Hollowell Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 c8d7acdc-bb86-488c-b51b-fddf824819da,EZ Market,EZ Market (9595 Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
-8d78e96c-a9e9-4471-a614-5fe8ec490186,"Gawfco Enterprises, Inc.",Fast Fill Market ( 1031 Leigh Ave ),ID Present,ID Present,,Pending Launch,In progress
-ace8b8fb-136e-45d7-ad5e-fd3c47cf83b5,"Gawfco Enterprises, Inc.",Fast Fill Market ( 1040 El Camino Real North ),ID Present,ID Present,,Pending Launch,In progress
-3651f099-5c2d-461a-b54d-9e4233faab4e,"Gawfco Enterprises, Inc.",Fast Fill Market ( 1790 Ygnacio Valley Rd ),ID Present,ID Present,,Pending Launch,In progress
-848602ef-768b-46d7-8a56-bb515a16907a,"Gawfco Enterprises, Inc.",Fast Fill Market ( 190 West Calaveras Blvd ),ID Present,ID Present,,Pending Launch,In progress
-5f15b188-bff5-48e4-bbb7-326b17e5ffa2,"Gawfco Enterprises, Inc.",Fast Fill Market ( 2000 Monterey St ),ID Present,ID Present,,Pending Launch,In progress
-f3a58d65-9711-49a1-bf8b-9c0de3b471c5,"Gawfco Enterprises, Inc.",Fast Fill Market ( 2445 Castro Valley Blvd ),ID Present,ID Present,,Pending Launch,In progress
-4d4a9ae7-3530-4e7f-89d6-32295102a95c,"Gawfco Enterprises, Inc.",Fast Fill Market ( 2498 Lombard St ),ID Present,ID Present,,Pending Launch,In progress
-3153b2c3-7430-4d3e-acb1-2f8208602cdc,"Gawfco Enterprises, Inc.",Fast Fill Market ( 4605 Old Redwood Hwy ),ID Present,ID Present,,Pending Launch,In progress
-e31931ef-1821-4811-956b-95fc65176eac,"Gawfco Enterprises, Inc.",Fast Fill Market ( 501 Foster City Blvd ),ID Present,ID Present,,Pending Launch,In progress
-120ec0be-2b94-446a-8dc6-c7ffed83b5f4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 5605 E Kings Canyon Rd ),ID Present,ID Present,,Pending Launch,In progress
-be80774c-6534-4d45-ae15-ca301d2bbc32,"Gawfco Enterprises, Inc.",Fast Fill Market ( 6097 Snell Ave ),ID Present,ID Present,,Pending Launch,In progress
-ab2b0c40-12db-4f29-a983-caefe9f11fea,"Gawfco Enterprises, Inc.",Fast Fill Market ( 72275 Ramon Rd ),ID Present,ID Present,,Pending Launch,In progress
-767d517d-a28b-4958-8a78-199c03b801a4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),738f851e-f65b-5b34-b537-edd2085317f7,Missing,Missing,Pending Launch,In progress
-27982272-2d6d-428f-ad12-c4209335e470,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),ID Present,ID Present,,Pending Launch,In progress
-2cbaac4b-3f10-4bbb-a9ea-ee4cf895e7e5,"Gawfco Enterprises, Inc.",Fast Fill Market (4298 MISSION ST.),ID Present,ID Present,,Pending Launch,In progress
-b7f8bf10-0bef-4da8-aec3-51a09b05b7e7,"Gawfco Enterprises, Inc.",Fast Fill Market Brawley ( 1691 Main St ),ID Present,ID Present,,Pending Launch,In progress
-1d5cb5f4-2710-4a71-94a8-c2d3f4c0a7e2,"Gawfco Enterprises, Inc.",Fast Fill Market Brea ( 3300 East Imperial Hwy ),ID Present,ID Present,,Pending Launch,In progress
-cea314b1-8229-4c47-a4ad-f9869e431d53,"Gawfco Enterprises, Inc.",Fast Fill Market Concord ( 4190 Treat Blvd ),ID Present,ID Present,,Pending Launch,In progress
-ca39e217-5b77-4dbf-a557-37f92b325af5,"Gawfco Enterprises, Inc.",Fast Fill Market Daly City ( 6989 Mission St ),ID Present,ID Present,,Pending Launch,In progress
-e9656c5c-0394-4927-ba44-1d34ffcda0df,"Gawfco Enterprises, Inc.",Fast Fill Market El Centro ( 2115 South 4th St ),ID Present,ID Present,,Pending Launch,In progress
-4cd49f8a-da67-4a6c-91ae-7da96c278320,"Gawfco Enterprises, Inc.",Fast Fill Market Fremont ( 5505 Stevenson Blvd ),ID Present,ID Present,,Pending Launch,In progress
-245b10c4-2bda-4481-a070-5d950624bcce,"Gawfco Enterprises, Inc.",Fast Fill Market Livermore ( 115 South Vasco Rd ),ID Present,ID Present,,Pending Launch,In progress
-6f56bcd0-558b-4a30-8108-7844f4df3312,"Gawfco Enterprises, Inc.",Fast Fill Market Lompoc ( 1001 North H St ),ID Present,ID Present,,Pending Launch,In progress
-84d05116-2134-4eca-b3d1-d3f1c92b749d,"Gawfco Enterprises, Inc.",Fast Fill Market Marina ( 416 Reservation Rd ),ID Present,ID Present,,Pending Launch,In progress
-bd64b741-6a88-416a-ad3e-69b1f6a6bebb,"Gawfco Enterprises, Inc.",Fast Fill Market Pheonix ( 102 S 24th St ),ID Present,ID Present,,Pending Launch,In progress
-6b4d7122-de5d-411f-bf9a-289bc1b768ba,"Gawfco Enterprises, Inc.",Fast Fill Market Pleasanton ( 4191 First St ),ID Present,ID Present,,Pending Launch,In progress
-8f6e6978-1a9c-4069-8444-ebce48402011,"Gawfco Enterprises, Inc.",Fast Fill Market Redwood City ( 844 5th Ave ),ID Present,ID Present,,Pending Launch,In progress
-a50d629f-f055-4d9e-ba88-60de9697f2a4,"Gawfco Enterprises, Inc.",Fast Fill Market San Jose ( 827 S. 1st St ),ID Present,ID Present,,Pending Launch,In progress
-1c24f348-7444-4291-a793-fd9563b38d5c,"Gawfco Enterprises, Inc.",Fast Fill Market San Mateo ( 404 19th Ave ),ID Present,ID Present,,Pending Launch,In progress
-dbffb3fc-441f-4b08-abe9-9c97c1c43a22,"Gawfco Enterprises, Inc.",Fast Fill Market San Rafael ( 475 3rd St ),ID Present,ID Present,,Pending Launch,In progress
-03111b2e-a3a4-47bd-a427-2245ab616205,"Gawfco Enterprises, Inc.",Fast Fill Market Santa Rosa ( 5855 Sonoma Hwy ),ID Present,ID Present,,Pending Launch,In progress
-f16a40ca-6ddc-4030-bda5-a91d9714e1b9,"Gawfco Enterprises, Inc.",Fast Fill Market Sebastopol ( 370 Sebastopol Rd ),ID Present,ID Present,,Pending Launch,In progress
-8e6a76d2-18a5-44ce-adca-88556ae2597a,"Gawfco Enterprises, Inc.",Fast Fill Market Suisun ( 115 Sunset Ave ),ID Present,ID Present,,Pending Launch,In progress
-76dcf321-d40e-49a2-ac64-3e0be4c129c3,"Gawfco Enterprises, Inc.",Fast Fill Market Sun City ( 27181 Mccall Blvd ),ID Present,ID Present,,Pending Launch,In progress
-3354bd6d-a303-4fb6-9573-91f27b396cf5,"Gawfco Enterprises, Inc.",Fast Fill Market Sunnyvale ( South Wolfe Rd ),ID Present,ID Present,,Pending Launch,In progress
-fc3faa70-2577-42c8-a5de-14256e2df4af,"Gawfco Enterprises, Inc.",Fast Fill Market Yucaipa ( 33928 County Line Rd ),ID Present,ID Present,,Pending Launch,In progress
-5bdd7cdb-f17f-4b37-9a8b-818cf9200767,Corrigan Oil,Fast Lane (15815 South Oakley),ID Present,ID Present,,Pending Launch,In progress
-84311283-fc0f-4af5-a2ca-c2bccddf5ec8,Corrigan Oil,Fast Lane (159 Marshall St.),ID Present,ID Present,,Pending Launch,In progress
-88220e77-9f78-4b94-b494-cf387bdec73b,Corrigan Oil,Fast Lane (213 S. Main St.),ID Present,ID Present,,Pending Launch,In progress
-00336ee9-4110-43b8-8771-91b78e3b194d,Corrigan Oil,Fast Lane (2428 N. Dearing Rd.),ID Present,ID Present,,Pending Launch,In progress
-c01575ec-972e-4f92-a401-57e3c8601f78,Corrigan Oil,Fast Lane (3540 State St),ID Present,ID Present,,Pending Launch,In progress
-bcbf8991-c129-4789-b0de-c93994477641,Corrigan Oil,Fast Lane (551 West Columbia St),ID Present,ID Present,,Pending Launch,In progress
-e4056b3d-69c5-4439-849a-cb607c9d482a,Corrigan Oil,Fast Lane (602 W Grand River Ave),ID Present,ID Present,,Pending Launch,In progress
-a07e249c-94ec-4e0e-882c-c18aeed86f77,Corrigan Oil,Fast Lane (6206 Rives Junction Rd.),ID Present,ID Present,,Pending Launch,In progress
-60fa1d94-228b-4af9-b6fe-2a7fcbad0a29,Corrigan Oil,Fast Lane (6472 M-25),ID Present,ID Present,,Pending Launch,In progress
-4f2293a1-a9ac-4518-a6dc-df9cf8e734d8,Corrigan Oil,Fast Lane (8010 North Dort Hwy),ID Present,ID Present,,Pending Launch,In progress
-685b6fe9-2be3-47e7-a53e-4937c361ba1e,Corrigan Oil,Fast Lane (9601 N. State Rd 67),ID Present,ID Present,,Pending Launch,In progress
-f2f4352e-b590-413f-a32d-9a29a01e3caf,Fast Track,Fast Track (14361 Holiday Rd),ID Present,,Missing,Pending Launch,In progress
-41ede769-19d9-4a71-88f7-ef374a7cc84c,Fast Track,Fast Track (14385 Wonderland Blvd),ID Present,,,Pending Launch,In progress
-1b2cf86c-96f3-41f7-b3bd-3e309b302264,Fast Track,Fast Track (250 E Webb St),ID Present,ID Present,,Pending Launch,In progress
-810f1cd7-ae03-4978-a649-c2959d3bf91f,Fast Track,Fast Track (338 County Highway A12),ID Present,ID Present,,Pending Launch,In progress
+8d78e96c-a9e9-4471-a614-5fe8ec490186,"Gawfco Enterprises, Inc.",Fast Fill Market ( 1031 Leigh Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
+ace8b8fb-136e-45d7-ad5e-fd3c47cf83b5,"Gawfco Enterprises, Inc.",Fast Fill Market ( 1040 El Camino Real North ),ID Present,ID Present,Missing,Pending Launch,In progress
+3651f099-5c2d-461a-b54d-9e4233faab4e,"Gawfco Enterprises, Inc.",Fast Fill Market ( 1790 Ygnacio Valley Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+848602ef-768b-46d7-8a56-bb515a16907a,"Gawfco Enterprises, Inc.",Fast Fill Market ( 190 West Calaveras Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+5f15b188-bff5-48e4-bbb7-326b17e5ffa2,"Gawfco Enterprises, Inc.",Fast Fill Market ( 2000 Monterey St ),ID Present,ID Present,Missing,Pending Launch,In progress
+f3a58d65-9711-49a1-bf8b-9c0de3b471c5,"Gawfco Enterprises, Inc.",Fast Fill Market ( 2445 Castro Valley Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+4d4a9ae7-3530-4e7f-89d6-32295102a95c,"Gawfco Enterprises, Inc.",Fast Fill Market ( 2498 Lombard St ),ID Present,ID Present,Missing,Pending Launch,In progress
+3153b2c3-7430-4d3e-acb1-2f8208602cdc,"Gawfco Enterprises, Inc.",Fast Fill Market ( 4605 Old Redwood Hwy ),ID Present,ID Present,Missing,Pending Launch,In progress
+e31931ef-1821-4811-956b-95fc65176eac,"Gawfco Enterprises, Inc.",Fast Fill Market ( 501 Foster City Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+120ec0be-2b94-446a-8dc6-c7ffed83b5f4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 5605 E Kings Canyon Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+be80774c-6534-4d45-ae15-ca301d2bbc32,"Gawfco Enterprises, Inc.",Fast Fill Market ( 6097 Snell Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
+ab2b0c40-12db-4f29-a983-caefe9f11fea,"Gawfco Enterprises, Inc.",Fast Fill Market ( 72275 Ramon Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+27982272-2d6d-428f-ad12-c4209335e470,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
+767d517d-a28b-4958-8a78-199c03b801a4,"Gawfco Enterprises, Inc.",Fast Fill Market ( 940 South Imperial Ave ),Missing,Missing,Missing,Pending Launch,In progress
+2cbaac4b-3f10-4bbb-a9ea-ee4cf895e7e5,"Gawfco Enterprises, Inc.",Fast Fill Market (4298 MISSION ST.),ID Present,ID Present,Missing,Pending Launch,In progress
+b7f8bf10-0bef-4da8-aec3-51a09b05b7e7,"Gawfco Enterprises, Inc.",Fast Fill Market Brawley ( 1691 Main St ),ID Present,ID Present,Missing,Pending Launch,In progress
+1d5cb5f4-2710-4a71-94a8-c2d3f4c0a7e2,"Gawfco Enterprises, Inc.",Fast Fill Market Brea ( 3300 East Imperial Hwy ),ID Present,ID Present,Missing,Pending Launch,In progress
+cea314b1-8229-4c47-a4ad-f9869e431d53,"Gawfco Enterprises, Inc.",Fast Fill Market Concord ( 4190 Treat Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+ca39e217-5b77-4dbf-a557-37f92b325af5,"Gawfco Enterprises, Inc.",Fast Fill Market Daly City ( 6989 Mission St ),ID Present,ID Present,Missing,Pending Launch,In progress
+e9656c5c-0394-4927-ba44-1d34ffcda0df,"Gawfco Enterprises, Inc.",Fast Fill Market El Centro ( 2115 South 4th St ),ID Present,ID Present,Missing,Pending Launch,In progress
+4cd49f8a-da67-4a6c-91ae-7da96c278320,"Gawfco Enterprises, Inc.",Fast Fill Market Fremont ( 5505 Stevenson Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+245b10c4-2bda-4481-a070-5d950624bcce,"Gawfco Enterprises, Inc.",Fast Fill Market Livermore ( 115 South Vasco Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+6f56bcd0-558b-4a30-8108-7844f4df3312,"Gawfco Enterprises, Inc.",Fast Fill Market Lompoc ( 1001 North H St ),ID Present,ID Present,Missing,Pending Launch,In progress
+84d05116-2134-4eca-b3d1-d3f1c92b749d,"Gawfco Enterprises, Inc.",Fast Fill Market Marina ( 416 Reservation Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+bd64b741-6a88-416a-ad3e-69b1f6a6bebb,"Gawfco Enterprises, Inc.",Fast Fill Market Pheonix ( 102 S 24th St ),ID Present,ID Present,Missing,Pending Launch,In progress
+6b4d7122-de5d-411f-bf9a-289bc1b768ba,"Gawfco Enterprises, Inc.",Fast Fill Market Pleasanton ( 4191 First St ),ID Present,ID Present,Missing,Pending Launch,In progress
+8f6e6978-1a9c-4069-8444-ebce48402011,"Gawfco Enterprises, Inc.",Fast Fill Market Redwood City ( 844 5th Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
+a50d629f-f055-4d9e-ba88-60de9697f2a4,"Gawfco Enterprises, Inc.",Fast Fill Market San Jose ( 827 S. 1st St ),ID Present,ID Present,Missing,Pending Launch,In progress
+1c24f348-7444-4291-a793-fd9563b38d5c,"Gawfco Enterprises, Inc.",Fast Fill Market San Mateo ( 404 19th Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
+dbffb3fc-441f-4b08-abe9-9c97c1c43a22,"Gawfco Enterprises, Inc.",Fast Fill Market San Rafael ( 475 3rd St ),ID Present,ID Present,Missing,Pending Launch,In progress
+03111b2e-a3a4-47bd-a427-2245ab616205,"Gawfco Enterprises, Inc.",Fast Fill Market Santa Rosa ( 5855 Sonoma Hwy ),ID Present,ID Present,Missing,Pending Launch,In progress
+f16a40ca-6ddc-4030-bda5-a91d9714e1b9,"Gawfco Enterprises, Inc.",Fast Fill Market Sebastopol ( 370 Sebastopol Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+8e6a76d2-18a5-44ce-adca-88556ae2597a,"Gawfco Enterprises, Inc.",Fast Fill Market Suisun ( 115 Sunset Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
+76dcf321-d40e-49a2-ac64-3e0be4c129c3,"Gawfco Enterprises, Inc.",Fast Fill Market Sun City ( 27181 Mccall Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+3354bd6d-a303-4fb6-9573-91f27b396cf5,"Gawfco Enterprises, Inc.",Fast Fill Market Sunnyvale ( South Wolfe Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+fc3faa70-2577-42c8-a5de-14256e2df4af,"Gawfco Enterprises, Inc.",Fast Fill Market Yucaipa ( 33928 County Line Rd ),ID Present,ID Present,Missing,Pending Launch,In progress
+5bdd7cdb-f17f-4b37-9a8b-818cf9200767,Corrigan Oil,Fast Lane (15815 South Oakley),ID Present,ID Present,Missing,Pending Launch,In progress
+84311283-fc0f-4af5-a2ca-c2bccddf5ec8,Corrigan Oil,Fast Lane (159 Marshall St.),ID Present,ID Present,Missing,Pending Launch,In progress
+88220e77-9f78-4b94-b494-cf387bdec73b,Corrigan Oil,Fast Lane (213 S. Main St.),ID Present,ID Present,Missing,Pending Launch,In progress
+00336ee9-4110-43b8-8771-91b78e3b194d,Corrigan Oil,Fast Lane (2428 N. Dearing Rd.),ID Present,ID Present,Missing,Pending Launch,In progress
+c01575ec-972e-4f92-a401-57e3c8601f78,Corrigan Oil,Fast Lane (3540 State St),ID Present,ID Present,Missing,Pending Launch,In progress
+bcbf8991-c129-4789-b0de-c93994477641,Corrigan Oil,Fast Lane (551 West Columbia St),ID Present,ID Present,Missing,Pending Launch,In progress
+e4056b3d-69c5-4439-849a-cb607c9d482a,Corrigan Oil,Fast Lane (602 W Grand River Ave),ID Present,ID Present,Missing,Pending Launch,In progress
+a07e249c-94ec-4e0e-882c-c18aeed86f77,Corrigan Oil,Fast Lane (6206 Rives Junction Rd.),ID Present,ID Present,Missing,Pending Launch,In progress
+60fa1d94-228b-4af9-b6fe-2a7fcbad0a29,Corrigan Oil,Fast Lane (6472 M-25),ID Present,ID Present,Missing,Pending Launch,In progress
+4f2293a1-a9ac-4518-a6dc-df9cf8e734d8,Corrigan Oil,Fast Lane (8010 North Dort Hwy),ID Present,ID Present,Missing,Pending Launch,In progress
+685b6fe9-2be3-47e7-a53e-4937c361ba1e,Corrigan Oil,Fast Lane (9601 N. State Rd 67),ID Present,ID Present,Missing,Pending Launch,In progress
+f2f4352e-b590-413f-a32d-9a29a01e3caf,Fast Track,Fast Track (14361 Holiday Rd),ID Present,Missing,Missing,Pending Launch,In progress
+41ede769-19d9-4a71-88f7-ef374a7cc84c,Fast Track,Fast Track (14385 Wonderland Blvd),ID Present,Missing,Missing,Pending Launch,In progress
+1b2cf86c-96f3-41f7-b3bd-3e309b302264,Fast Track,Fast Track (250 E Webb St),ID Present,ID Present,Missing,Pending Launch,In progress
+810f1cd7-ae03-4978-a649-c2959d3bf91f,Fast Track,Fast Track (338 County Highway A12),ID Present,ID Present,Missing,Pending Launch,In progress
 b2755fed-32c2-4158-a08e-b9d2a256ccd5,Circle K Gas Express,Gas Express (1880 Old 41),ID Present,ID Present,ID Present,Pending Launch,In progress
 62ec6ee5-497f-47db-b7af-9c330222b54c,Circle K Gas Express,Gas Express (40081 Hwy 441),ID Present,ID Present,ID Present,Pending Launch,In progress
 ecb7ef7a-3ad9-4cfd-b4cc-3872d81f3e28,Gogo Stores,Gogo (Anthony & Wayne),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -151,33 +151,33 @@ e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,
 e861dc4a-52a5-46a7-89d3-2f189aedecb9,Jacksons Food Stores,Jacksons Food Stores #252,ID Present,ID Present,ID Present,Pending Launch,In progress
 495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
 af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
-58c2e7fd-3159-4a90-bc1a-9b83e680e3f7,Jr. Market & Piggly Wiggly,Jr Market 10 - Lynnhaven,ID Present,ID Present,,Pending Launch,In progress
-cc6242b4-179e-485b-98dd-7bbd157517c8,Jr. Market & Piggly Wiggly,Jr Market 168 - Briar Hill,ID Present,ID Present,,Pending Launch,In progress
-8f425a97-8520-483f-98bc-a310332a9940,Jr. Market & Piggly Wiggly,Jr Market 211 - Chicks Beach,ID Present,ID Present,,Pending Launch,In progress
-9425f263-b445-4985-9da6-ac7dacb87482,Jr. Market & Piggly Wiggly,Jr Market 53 - Sandbridge,ID Present,ID Present,,Pending Launch,In progress
-1341aab9-217c-490a-9d64-8ea79d92b4c0,Jr. Market & Piggly Wiggly,Jr Market 6 - Oceanview,ID Present,ID Present,,Pending Launch,In progress
-a2c1848f-ec46-4ea1-a86b-2ee8b16e2286,Jr. Market & Piggly Wiggly,Jr Market 9 - London Bridge,ID Present,ID Present,,Pending Launch,In progress
-eaebca9b-3294-4ee5-9c95-505f5bc460ac,Egypt and Dale Retail Inc,KANGAROO SHELL DESOTO,ID Present,ID Present,,Pending Launch,In progress
-90c5228b-cd02-47e4-a188-6c2255e74c5d,DHS Energy Sales LLC,Kangaroo Express Broadway,ID Present,ID Present,,Pending Launch,In progress
+58c2e7fd-3159-4a90-bc1a-9b83e680e3f7,Jr. Market & Piggly Wiggly,Jr Market 10 - Lynnhaven,ID Present,ID Present,Missing,Pending Launch,In progress
+cc6242b4-179e-485b-98dd-7bbd157517c8,Jr. Market & Piggly Wiggly,Jr Market 168 - Briar Hill,ID Present,ID Present,Missing,Pending Launch,In progress
+8f425a97-8520-483f-98bc-a310332a9940,Jr. Market & Piggly Wiggly,Jr Market 211 - Chicks Beach,ID Present,ID Present,Missing,Pending Launch,In progress
+9425f263-b445-4985-9da6-ac7dacb87482,Jr. Market & Piggly Wiggly,Jr Market 53 - Sandbridge,ID Present,ID Present,Missing,Pending Launch,In progress
+1341aab9-217c-490a-9d64-8ea79d92b4c0,Jr. Market & Piggly Wiggly,Jr Market 6 - Oceanview,ID Present,ID Present,Missing,Pending Launch,In progress
+a2c1848f-ec46-4ea1-a86b-2ee8b16e2286,Jr. Market & Piggly Wiggly,Jr Market 9 - London Bridge,ID Present,ID Present,Missing,Pending Launch,In progress
+eaebca9b-3294-4ee5-9c95-505f5bc460ac,Egypt and Dale Retail Inc,KANGAROO SHELL DESOTO,ID Present,ID Present,Missing,Pending Launch,In progress
+90c5228b-cd02-47e4-a188-6c2255e74c5d,DHS Energy Sales LLC,Kangaroo Express Broadway,ID Present,ID Present,Missing,Pending Launch,In progress
 2baff316-e1e9-4fe0-a8d1-eb12aef4ff4b,Kangaroo Expres (Eclipse First Coast Investment),Kangaroo Express- 2658077,ID Present,ID Present,ID Present,Pending Launch,In progress
-8dea3ef3-7017-4bb1-b2e8-f98bebe91d45,Rocket,Krispy Krunchy Chicken (1297 Hwy 4 Unit B),ID Present,ID Present,,Pending Launch,In progress
-abd552a7-ad0f-4c5e-a097-f2217b724a1a,Rocket,Krispy Krunchy Chicken (18463 Road 23),ID Present,ID Present,,Pending Launch,In progress
-580d73d6-6afe-4347-8dbf-559cae1cadb0,Rocket,Krispy Krunchy Chicken (580 Marie Ave),ID Present,ID Present,,Pending Launch,In progress
-e0f0e024-c857-4a79-b32d-6656617bb56b,Rocket,Krispy Krunchy Chicken (8324 Highway 138),ID Present,ID Present,,Pending Launch,In progress
-67c3fa22-981d-4a92-9008-71c829757bd0,Circle K (Shahid LLC),Krispy Krunchy Chicken - Seacoast,ID Present,ID Present,,Pending Launch,In progress
+8dea3ef3-7017-4bb1-b2e8-f98bebe91d45,Rocket,Krispy Krunchy Chicken (1297 Hwy 4 Unit B),ID Present,ID Present,Missing,Pending Launch,In progress
+abd552a7-ad0f-4c5e-a097-f2217b724a1a,Rocket,Krispy Krunchy Chicken (18463 Road 23),ID Present,ID Present,Missing,Pending Launch,In progress
+580d73d6-6afe-4347-8dbf-559cae1cadb0,Rocket,Krispy Krunchy Chicken (580 Marie Ave),ID Present,ID Present,Missing,Pending Launch,In progress
+e0f0e024-c857-4a79-b32d-6656617bb56b,Rocket,Krispy Krunchy Chicken (8324 Highway 138),ID Present,ID Present,Missing,Pending Launch,In progress
+67c3fa22-981d-4a92-9008-71c829757bd0,Circle K (Shahid LLC),Krispy Krunchy Chicken - Seacoast,ID Present,ID Present,Missing,Pending Launch,In progress
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
-36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),ID Present,ID Present,,Pending Launch,In progress
-11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s - 1000 Jefferson Road,8e1107bf-bbe7-580a-958d-04efa5941539,Missing,,Pending Launch,In progress
-55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s - 2044 Latta Road,f013fafa-00f3-5582-a2c0-178d61b21fd4,Missing,,Pending Launch,In progress
-7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s - 390 Culver Road,08955f86-26da-54d5-9f3f-67dbf73e9d31,Missing,,Pending Launch,In progress
-64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s - 480 Plank Road,a6b9ad5f-a236-5709-9b91-345b9ea76489,Missing,,Pending Launch,In progress
-ccc57cc7-cdd6-4c9d-9b95-be45163941a4,JW Malcho Enterprise Inc.,Malcho’s - 650 Moseley Road,07475d46-784e-5524-9cb9-3f32b5598e09,Missing,,Pending Launch,In progress
-9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s - 690 Pittsford Victor Road,7b5eb029-b4e2-58b6-b89b-646e64f334a5,Missing,,Pending Launch,In progress
-676e4a69-a396-4f18-a3db-a83a3a587e34,JW Malcho Enterprise Inc.,Malcho’s - 70 North Main Street,ID Present,Missing,,Pending Launch,In progress
+36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),ID Present,ID Present,Missing,Pending Launch,In progress
+11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s - 1000 Jefferson Road,Missing,Missing,Missing,Pending Launch,In progress
+55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s - 2044 Latta Road,Missing,Missing,Missing,Pending Launch,In progress
+7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s - 390 Culver Road,Missing,Missing,Missing,Pending Launch,In progress
+64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s - 480 Plank Road,Missing,Missing,Missing,Pending Launch,In progress
+ccc57cc7-cdd6-4c9d-9b95-be45163941a4,JW Malcho Enterprise Inc.,Malcho’s - 650 Moseley Road,Missing,Missing,Missing,Pending Launch,In progress
+9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s - 690 Pittsford Victor Road,Missing,Missing,Missing,Pending Launch,In progress
+676e4a69-a396-4f18-a3db-a83a3a587e34,JW Malcho Enterprise Inc.,Malcho’s - 70 North Main Street,ID Present,Missing,Missing,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W Coal City Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-db3eeef0-e525-401a-9921-ea14ab853001,Mercaso,Mercaso (12101 Garfield Ave),127703d8-fea5-5fce-86d7-93f7ca573b94,Missing,,Pending Launch,In progress
-30eccefd-545f-424b-a7f5-ee41af011c27,Mercaso,Mercaso (3130 w 8th St),5fdd4e50-fa8c-5240-b26a-b52649830a77,Missing,,Pending Launch,In progress
-09282e02-df5f-4f07-8006-fa1d5035cc0d,Mercaso,Mercaso (7522 W Cerritos Ave),0570c6ec-9cd2-5349-a037-339979f88f68,Missing,,Pending Launch,In progress
+db3eeef0-e525-401a-9921-ea14ab853001,Mercaso,Mercaso (12101 Garfield Ave),Missing,Missing,Missing,Pending Launch,In progress
+30eccefd-545f-424b-a7f5-ee41af011c27,Mercaso,Mercaso (3130 w 8th St),Missing,Missing,Missing,Pending Launch,In progress
+09282e02-df5f-4f07-8006-fa1d5035cc0d,Mercaso,Mercaso (7522 W Cerritos Ave),Missing,Missing,Missing,Pending Launch,In progress
 c5d81208-55d2-4c8f-afbd-2258db772d9a,Minuteman Food Mart,Minuteman Food Mart - 204,ID Present,ID Present,ID Present,Pending Launch,In progress
 f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3116,ID Present,ID Present,ID Present,Pending Launch,In progress
 581049d5-b08d-40ca-aff1-cdc19c586c22,Minuteman Food Mart,Minuteman Food Mart - 3118,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -186,56 +186,56 @@ f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3
 151dbd7e-7854-448f-a2ea-523620253be5,Quick Track - LaMa,Quick Track 81,ID Present,ID Present,ID Present,Pending Launch,In progress
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
-f7847b58-5418-4dd5-ae09-077f9d99470c,"Gawfco Enterprises, Inc.",Seaside 76 ( 1600 Fremont Blvd ),ID Present,ID Present,,Pending Launch,In progress
-58ff55e3-cf29-432a-932e-77436a7a46b4,Star Stop,Star Stop 101,ID Present,ID Present,,Pending Launch,In progress
-34334422-091b-487c-914f-da4c42b13978,Star Stop,Star Stop 104,ID Present,ID Present,,Pending Launch,In progress
-8c506b76-cae7-4a02-abc3-fc7d54e03034,Star Stop,Star Stop 106,ID Present,ID Present,,Pending Launch,In progress
-7efdac46-5130-46fa-93b7-607d7886d02f,Star Stop,Star Stop 109,ID Present,ID Present,,Pending Launch,In progress
-0ae0a184-bc69-404c-be32-65530b018f5b,Star Stop,Star Stop 112,ID Present,ID Present,,Pending Launch,In progress
-03d491c1-e220-4519-9b65-203013da2ea6,Star Stop,Star Stop 114,ID Present,ID Present,,Pending Launch,In progress
-f4222239-8ab0-45ab-9579-d1eea5d3bdd1,Star Stop,Star Stop 115,0b07a517-e579-5888-b5ec-bb1cb018d2fd,Missing,,Pending Launch,In progress
-534647f7-1057-416a-8638-eb79f1dd50ae,Star Stop,Star Stop 119,ID Present,ID Present,,Pending Launch,In progress
-c396438b-0ee1-4202-a30d-af4305b97569,Star Stop,Star Stop 122,ID Present,ID Present,,Pending Launch,In progress
-40627358-c0fe-45ef-a70e-6f974a6b224b,Star Stop,Star Stop 123,ID Present,ID Present,,Pending Launch,In progress
-5b0b60ab-4501-4e67-b480-13e6d04275dc,Star Stop,Star Stop 125,ID Present,ID Present,,Pending Launch,In progress
-c0f3e0df-a3d0-4d7b-9ed7-8a3a5528b45c,Star Stop,Star Stop 128,ID Present,ID Present,,Pending Launch,In progress
-51c7c934-c312-4af9-bd70-6710636fab77,Star Stop,Star Stop 129,ID Present,ID Present,,Pending Launch,In progress
-ebc363ce-1db4-44b2-ad9c-e2662f98d603,Star Stop,Star Stop 131,ID Present,ID Present,,Pending Launch,In progress
-bac02b05-ff6f-4bea-a538-d2f8b63b13f4,Star Stop,Star Stop 132,ID Present,ID Present,,Pending Launch,In progress
-1cfdf505-aadd-4ea3-9d63-3a43fd25c561,Star Stop,Star Stop 137,ID Present,ID Present,,Pending Launch,In progress
-71baacfd-42a2-4a7f-92f2-d51d8d755b65,Star Stop,Star Stop 141,ID Present,ID Present,,Pending Launch,In progress
-ee8e6539-0fad-4432-a88a-81c8c4dc5730,Star Stop,Star Stop 144,ID Present,ID Present,,Pending Launch,In progress
-de09cfd1-e68a-4cca-9619-f1b3917d8d62,Star Stop,Star Stop 21,2faab814-2c32-5a4a-8366-f551dbfa1174,Missing,,Pending Launch,In progress
-d3f66fe2-1847-4ed6-8a37-5961539212d8,Star Stop,Star Stop 23,ca017c3a-1c70-5512-b062-1c80d0e7c40a,Missing,,Pending Launch,In progress
-849cbfb5-e0fd-45bf-b7b3-aa20bb705489,Star Stop,Star Stop 25,84fc5d31-4673-5388-8e32-54d15f21614f,Missing,,Pending Launch,In progress
-89cfc4e3-c6ac-4e12-9e9d-8492952e4432,Star Stop,Star Stop 27,d07162e8-6874-5e65-9a51-ffbb7e5e1eb7,Missing,,Pending Launch,In progress
-3087abbf-5f8e-4cfb-9f32-109d32db662c,Star Stop,Star Stop 28,961eccc5-1657-5344-a9fb-f4d2ef01b779,Missing,,Pending Launch,In progress
-298bea10-a28d-40a1-96b1-12dd3166a027,Star Stop,Star Stop 31,74b4fa1c-0194-57a5-a5c6-e98cd886b557,Missing,,Pending Launch,In progress
-ad58837a-3a70-4119-bf3c-897113ea181b,Star Stop,Star Stop 33,5dc93e9d-e77f-503f-916b-68f086470eb9,Missing,,Pending Launch,In progress
-a73dc92f-21bd-405f-a40a-b999aa7626b8,Star Stop,Star Stop 34,1c205c4a-becc-5d65-87a8-8cc636a0477f,Missing,,Pending Launch,In progress
-9bf5fbec-1c93-4c87-8cc7-c54ca148f968,Star Stop,Star Stop 36,081e90f5-9318-5e54-97aa-97cdd5ccfec2,Missing,,Pending Launch,In progress
-7788ba3a-3787-4a36-b5f8-7cf90ccb8957,Star Stop,Star Stop 37,eb4b3f63-797b-58a4-a50a-39100d0eeb2c,Missing,,Pending Launch,In progress
-378f91b4-c1e5-4ebf-907d-f591f3d90dfc,Star Stop,Star Stop 38,4b5a1ef5-0158-5003-8ac2-3651e6216899,Missing,,Pending Launch,In progress
-572bb78a-3672-4108-bd37-26332e54f4b8,Star Stop,Star Stop 39,20c8c743-ae13-56ca-9176-b1c3242c8f3e,Missing,,Pending Launch,In progress
-ceb5c317-6c85-48cd-a4f4-95a2aef8c7ca,Star Stop,Star Stop 40,ff94ecdd-52e0-58d9-a300-798012d60c0f,Missing,,Pending Launch,In progress
-07cad82f-fcf7-4d00-af5d-6bd7bc3191bf,Star Stop,Star Stop 41,907b229e-60ff-56cd-bd7d-fd7358fa471e,Missing,,Pending Launch,In progress
-cd94f39a-53b3-4ae8-9488-4330be066d35,Star Stop,Star Stop 42,d742076b-02e1-5239-93f0-f3f9f7994ac3,Missing,,Pending Launch,In progress
-0aa39ce3-b967-418b-937a-b238d948b408,Star Stop,Star Stop 44,0f28bc23-22c3-5f36-bbfd-b735701ca3f6,Missing,,Pending Launch,In progress
-bbd71d3e-2b4a-4535-9341-c99092a706ea,Star Stop,Star Stop 45,7fb329e3-9a8c-5738-9acd-d7de7eb8f987,Missing,,Pending Launch,In progress
-9192a3ff-20a8-412b-89ef-e1f088efd692,Star Stop,Star Stop 47,ca07cb43-316f-5f2e-b99b-e311490db208,Missing,,Pending Launch,In progress
-1d7f5b5c-5f6c-4c38-9125-690198253dcb,Star Stop,Star Stop 50,50898aba-378f-5872-8381-0a585f79292b,Missing,,Pending Launch,In progress
-1924b7bf-6ce4-4cab-be6c-f256b84493da,Star Stop,Star Stop 52,8aa4dee2-90c5-5c18-b0a7-2f75b1d41ad6,Missing,,Pending Launch,In progress
-4e789d08-bc1e-436d-b2be-b112059e1ba9,Star Stop,Star Stop 53,122b26f1-83fb-5c44-9d09-9e62233a5856,Missing,,Pending Launch,In progress
-9a6192d6-10b3-41d4-bc21-d83aa7e32c53,Star Stop,Star Stop 54,42647455-f384-5c14-89c8-fd8d68588394,Missing,,Pending Launch,In progress
-06d3566f-6501-4e91-bd49-85a6c3f83d9b,Star Stop,Star Stop 57,8ddb6719-cdbb-533b-986d-4f5787594545,Missing,Missing,Pending Launch,In progress
-b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,17b9ae19-5582-5a68-a54f-ac7a2b7738ce,Missing,,Pending Launch,In progress
-6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,857f49cc-687c-577b-962b-124c9b97f746,Missing,,Pending Launch,In progress
-37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,,Pending Launch,In progress
-2f5e95f7-62b2-405f-9adf-9c07fcd71a27,Exxon Tiger Mart,Tiger Mart #12,ID Present,ID Present,,Pending Launch,In progress
-7944c2f2-baed-4a10-a2b1-51607e3bd7bb,Exxon Tiger Mart,Tiger Mart #21,ID Present,ID Present,,Pending Launch,In progress
-69ba5485-290a-487a-a2f5-21d1e65a11d5,Exxon Tiger Mart,Tiger Mart #4,ID Present,ID Present,,Pending Launch,In progress
-3c75291b-ca32-477d-8ff9-45d9fe01f163,Exxon Tiger Mart,Tiger Mart #5,ID Present,ID Present,,Pending Launch,In progress
-83fe8cf9-277d-4723-b3da-3f5b4cbfee54,Exxon Tiger Mart,Tiger Mart #7,ID Present,ID Present,,Pending Launch,In progress
-09505eca-76ad-4ffe-93fb-be3b26846f2a,"Gawfco Enterprises, Inc.",Trimble 76 ( 2591 Seaboard Ave ),ID Present,ID Present,,Pending Launch,In progress
+f7847b58-5418-4dd5-ae09-077f9d99470c,"Gawfco Enterprises, Inc.",Seaside 76 ( 1600 Fremont Blvd ),ID Present,ID Present,Missing,Pending Launch,In progress
+58ff55e3-cf29-432a-932e-77436a7a46b4,Star Stop,Star Stop 101,ID Present,ID Present,Missing,Pending Launch,In progress
+34334422-091b-487c-914f-da4c42b13978,Star Stop,Star Stop 104,ID Present,ID Present,Missing,Pending Launch,In progress
+8c506b76-cae7-4a02-abc3-fc7d54e03034,Star Stop,Star Stop 106,ID Present,ID Present,Missing,Pending Launch,In progress
+7efdac46-5130-46fa-93b7-607d7886d02f,Star Stop,Star Stop 109,ID Present,ID Present,Missing,Pending Launch,In progress
+0ae0a184-bc69-404c-be32-65530b018f5b,Star Stop,Star Stop 112,ID Present,ID Present,Missing,Pending Launch,In progress
+03d491c1-e220-4519-9b65-203013da2ea6,Star Stop,Star Stop 114,ID Present,ID Present,Missing,Pending Launch,In progress
+f4222239-8ab0-45ab-9579-d1eea5d3bdd1,Star Stop,Star Stop 115,Missing,Missing,Missing,Pending Launch,In progress
+534647f7-1057-416a-8638-eb79f1dd50ae,Star Stop,Star Stop 119,ID Present,ID Present,Missing,Pending Launch,In progress
+c396438b-0ee1-4202-a30d-af4305b97569,Star Stop,Star Stop 122,ID Present,ID Present,Missing,Pending Launch,In progress
+40627358-c0fe-45ef-a70e-6f974a6b224b,Star Stop,Star Stop 123,ID Present,ID Present,Missing,Pending Launch,In progress
+5b0b60ab-4501-4e67-b480-13e6d04275dc,Star Stop,Star Stop 125,ID Present,ID Present,Missing,Pending Launch,In progress
+c0f3e0df-a3d0-4d7b-9ed7-8a3a5528b45c,Star Stop,Star Stop 128,ID Present,ID Present,Missing,Pending Launch,In progress
+51c7c934-c312-4af9-bd70-6710636fab77,Star Stop,Star Stop 129,ID Present,ID Present,Missing,Pending Launch,In progress
+ebc363ce-1db4-44b2-ad9c-e2662f98d603,Star Stop,Star Stop 131,ID Present,ID Present,Missing,Pending Launch,In progress
+bac02b05-ff6f-4bea-a538-d2f8b63b13f4,Star Stop,Star Stop 132,ID Present,ID Present,Missing,Pending Launch,In progress
+1cfdf505-aadd-4ea3-9d63-3a43fd25c561,Star Stop,Star Stop 137,ID Present,ID Present,Missing,Pending Launch,In progress
+71baacfd-42a2-4a7f-92f2-d51d8d755b65,Star Stop,Star Stop 141,ID Present,ID Present,Missing,Pending Launch,In progress
+ee8e6539-0fad-4432-a88a-81c8c4dc5730,Star Stop,Star Stop 144,ID Present,ID Present,Missing,Pending Launch,In progress
+de09cfd1-e68a-4cca-9619-f1b3917d8d62,Star Stop,Star Stop 21,Missing,Missing,Missing,Pending Launch,In progress
+d3f66fe2-1847-4ed6-8a37-5961539212d8,Star Stop,Star Stop 23,Missing,Missing,Missing,Pending Launch,In progress
+849cbfb5-e0fd-45bf-b7b3-aa20bb705489,Star Stop,Star Stop 25,Missing,Missing,Missing,Pending Launch,In progress
+89cfc4e3-c6ac-4e12-9e9d-8492952e4432,Star Stop,Star Stop 27,Missing,Missing,Missing,Pending Launch,In progress
+3087abbf-5f8e-4cfb-9f32-109d32db662c,Star Stop,Star Stop 28,Missing,Missing,Missing,Pending Launch,In progress
+298bea10-a28d-40a1-96b1-12dd3166a027,Star Stop,Star Stop 31,Missing,Missing,Missing,Pending Launch,In progress
+ad58837a-3a70-4119-bf3c-897113ea181b,Star Stop,Star Stop 33,Missing,Missing,Missing,Pending Launch,In progress
+a73dc92f-21bd-405f-a40a-b999aa7626b8,Star Stop,Star Stop 34,Missing,Missing,Missing,Pending Launch,In progress
+9bf5fbec-1c93-4c87-8cc7-c54ca148f968,Star Stop,Star Stop 36,Missing,Missing,Missing,Pending Launch,In progress
+7788ba3a-3787-4a36-b5f8-7cf90ccb8957,Star Stop,Star Stop 37,Missing,Missing,Missing,Pending Launch,In progress
+378f91b4-c1e5-4ebf-907d-f591f3d90dfc,Star Stop,Star Stop 38,Missing,Missing,Missing,Pending Launch,In progress
+572bb78a-3672-4108-bd37-26332e54f4b8,Star Stop,Star Stop 39,Missing,Missing,Missing,Pending Launch,In progress
+ceb5c317-6c85-48cd-a4f4-95a2aef8c7ca,Star Stop,Star Stop 40,Missing,Missing,Missing,Pending Launch,In progress
+07cad82f-fcf7-4d00-af5d-6bd7bc3191bf,Star Stop,Star Stop 41,Missing,Missing,Missing,Pending Launch,In progress
+cd94f39a-53b3-4ae8-9488-4330be066d35,Star Stop,Star Stop 42,Missing,Missing,Missing,Pending Launch,In progress
+0aa39ce3-b967-418b-937a-b238d948b408,Star Stop,Star Stop 44,Missing,Missing,Missing,Pending Launch,In progress
+bbd71d3e-2b4a-4535-9341-c99092a706ea,Star Stop,Star Stop 45,Missing,Missing,Missing,Pending Launch,In progress
+9192a3ff-20a8-412b-89ef-e1f088efd692,Star Stop,Star Stop 47,Missing,Missing,Missing,Pending Launch,In progress
+1d7f5b5c-5f6c-4c38-9125-690198253dcb,Star Stop,Star Stop 50,Missing,Missing,Missing,Pending Launch,In progress
+1924b7bf-6ce4-4cab-be6c-f256b84493da,Star Stop,Star Stop 52,Missing,Missing,Missing,Pending Launch,In progress
+4e789d08-bc1e-436d-b2be-b112059e1ba9,Star Stop,Star Stop 53,Missing,Missing,Missing,Pending Launch,In progress
+9a6192d6-10b3-41d4-bc21-d83aa7e32c53,Star Stop,Star Stop 54,Missing,Missing,Missing,Pending Launch,In progress
+06d3566f-6501-4e91-bd49-85a6c3f83d9b,Star Stop,Star Stop 57,Missing,Missing,Missing,Pending Launch,In progress
+b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,ID Present,Missing,Missing,Pending Launch,In progress
+6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,Missing,Missing,Missing,Pending Launch,In progress
+37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,Missing,Pending Launch,In progress
+2f5e95f7-62b2-405f-9adf-9c07fcd71a27,Exxon Tiger Mart,Tiger Mart #12,ID Present,ID Present,Missing,Pending Launch,In progress
+7944c2f2-baed-4a10-a2b1-51607e3bd7bb,Exxon Tiger Mart,Tiger Mart #21,ID Present,ID Present,Missing,Pending Launch,In progress
+69ba5485-290a-487a-a2f5-21d1e65a11d5,Exxon Tiger Mart,Tiger Mart #4,ID Present,ID Present,Missing,Pending Launch,In progress
+3c75291b-ca32-477d-8ff9-45d9fe01f163,Exxon Tiger Mart,Tiger Mart #5,ID Present,ID Present,Missing,Pending Launch,In progress
+83fe8cf9-277d-4723-b3da-3f5b4cbfee54,Exxon Tiger Mart,Tiger Mart #7,ID Present,ID Present,Missing,Pending Launch,In progress
+09505eca-76ad-4ffe-93fb-be3b26846f2a,"Gawfco Enterprises, Inc.",Trimble 76 ( 2591 Seaboard Ave ),ID Present,ID Present,Missing,Pending Launch,In progress
 75e1b7a9-f2d9-474c-a062-d1cb69833630,Yazzy's Market,Yazzy's Market Inc - 1163 Hoosick Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
-f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,[DUP] Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,13668200,Pending Launch,In progress
+f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,[DUP] Fast Track (1120 Churn Creek Rd),Missing,ID Present,Missing,Pending Launch,In progress
