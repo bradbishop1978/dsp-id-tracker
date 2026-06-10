@@ -3,7 +3,7 @@ store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,
 7f0295c7-ed84-4da3-99ad-d08847e02703,JAMACHA PETROLEUM LLC,AMPM Jamacha,ID Present,ID Present,,Pending Launch,In progress
 7b3ec3f1-0aff-4a2d-b57e-96b9cf7eb711,Miramar Petroleum LLC,AMPM Miramar,ID Present,ID Present,,Pending Launch,In progress
 6d31f976-967d-438b-a52d-9a7b62d47911,Sabre Springs Petroleum LLC,AMPM Sabre Springs Petroleum,ID Present,ID Present,,Pending Launch,In progress
-af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,ID Present,Missing,,Pending Launch,In progress
+af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,ID Present,ID Present,,Pending Launch,In progress
 223b90ce-e3db-4c78-a71f-4250a2165000,Atlantis Management Group,Atlantis #199,ID Present,ID Present,,Pending Launch,In progress
 a418cd3e-c479-4c72-930e-0e9b7af90b82,Atlantis Management Group,Atlantis #202,ID Present,ID Present,,Pending Launch,In progress
 e2a701bb-9ffc-4ba9-9543-bec715499b54,Atlantis Management Group,Atlantis #208,ID Present,ID Present,,Pending Launch,In progress
@@ -41,6 +41,7 @@ a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mo
 015a303f-c250-4da8-983e-b03b10bacfa5,Miami Food Mart Inc,Circle K - Miami Food Mart,6d994fea-9e4a-506f-9f3b-5954431f860d,Missing,,Pending Launch,In progress
 7efd3620-1821-40b0-a775-f1b3366bc134,Circle K Norwalk,Circle K - Norwalk,ID Present,ID Present,,Pending Launch,In progress
 6bc74c28-abed-47b5-9421-c58d1e242148,Circle K (Shidler Services Corp),Circle K - Savi Ranch 76,ID Present,ID Present,,Pending Launch,In progress
+77ebe8e8-6a25-49f5-bbe6-d809496d4aa3,Circle K (Ohm Shree Ganesha LLC),Circle K 3051 Monument Rd,ID Present,ID Present,,Pending Launch,In progress
 de1e5847-314d-46d7-9f22-50a72a409329,YHS GAS AND CONVENIENCE,Circle K 470 Lake Panasoffkee,ID Present,ID Present,,Pending Launch,In progress
 4cd1683b-fe1f-4165-ad56-455131d1aea2,Kwik Trip Oil,Circle K Atlantic Beach,ID Present,ID Present,ID Present,Pending Launch,In progress
 9bc8c25c-45e7-4f35-b28b-cafc064efc86,Kwik Trip Oil,Circle K Bowden,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -53,7 +54,6 @@ a5295013-6718-4a88-97e5-bb33ac900050,"Gawfco Enterprises, Inc.",Circle K Fairfie
 389d2e16-3902-4d7d-8ce0-b522da56c737,"Gawfco Enterprises, Inc.",Circle K Hayward ( 2492 Whipple Rd ),ID Present,ID Present,,Pending Launch,In progress
 d5ead8ba-c801-48c0-89c9-f8b183fb4fd6,Kwik Trip Oil,Circle K Mayport,ID Present,ID Present,ID Present,Pending Launch,In progress
 048dba89-aaf7-4a35-b40f-ba5b1d55613b,Circle K (Khoury Group),Circle K Melrose,ID Present,ID Present,,Pending Launch,In progress
-77ebe8e8-6a25-49f5-bbe6-d809496d4aa3,Circle K (Ohm Shree Ganesha LLC),Circle K Monument (Jacksonville),ID Present,ID Present,,Pending Launch,In progress
 faf80448-138a-41a6-8dcd-dd02ee5f580b,"Gawfco Enterprises, Inc.",Circle K Newark ( 5489 Thornton Ave ),ID Present,ID Present,,Pending Launch,In progress
 ecb9b5e8-8710-4183-aab5-bd049f455c0d,Kwik Trip Oil,Circle K Normandy,ID Present,ID Present,ID Present,Pending Launch,In progress
 a2744be3-56b0-48a2-9865-e6ddb5dc320a,"Gawfco Enterprises, Inc.",Circle K Roseville ( 1398 Blue Oaks Blvd ),ID Present,ID Present,,Pending Launch,In progress
@@ -125,7 +125,7 @@ a07e249c-94ec-4e0e-882c-c18aeed86f77,Corrigan Oil,Fast Lane (6206 Rives Junction
 60fa1d94-228b-4af9-b6fe-2a7fcbad0a29,Corrigan Oil,Fast Lane (6472 M-25),ID Present,ID Present,,Pending Launch,In progress
 4f2293a1-a9ac-4518-a6dc-df9cf8e734d8,Corrigan Oil,Fast Lane (8010 North Dort Hwy),ID Present,ID Present,,Pending Launch,In progress
 685b6fe9-2be3-47e7-a53e-4937c361ba1e,Corrigan Oil,Fast Lane (9601 N. State Rd 67),ID Present,ID Present,,Pending Launch,In progress
-f2f4352e-b590-413f-a32d-9a29a01e3caf,Fast Track,Fast Track (14361 Holiday Rd),ID Present,,,Pending Launch,In progress
+f2f4352e-b590-413f-a32d-9a29a01e3caf,Fast Track,Fast Track (14361 Holiday Rd),ID Present,,Missing,Pending Launch,In progress
 41ede769-19d9-4a71-88f7-ef374a7cc84c,Fast Track,Fast Track (14385 Wonderland Blvd),ID Present,,,Pending Launch,In progress
 1b2cf86c-96f3-41f7-b3bd-3e309b302264,Fast Track,Fast Track (250 E Webb St),ID Present,ID Present,,Pending Launch,In progress
 810f1cd7-ae03-4978-a649-c2959d3bf91f,Fast Track,Fast Track (338 County Highway A12),ID Present,ID Present,,Pending Launch,In progress
