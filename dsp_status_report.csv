@@ -47,6 +47,7 @@ a2ce88f7-f098-4189-ab76-508c44ad3a06,Circle K Franchise (Viraj Jhala),Circle K -
 e56078c4-626b-43b8-9537-ae73a9f2d44c,Circle K Norwalk,Circle K - Downey,ID Present,ID Present,,Pending Launch,In progress
 a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
 0d576d18-a070-4fc5-9214-c398f5a5c2cf,1310 Lagrange Firm LLC,Circle K - GX 162,ID Present,ID Present,,Pending Launch,In progress
+02f10dd9-791b-4d91-98fc-5f728d4f6483,Circle K Franchise (Viraj Jhala),Circle K - Jefferson Marathon,ID Present,ID Present,,Pending Launch,In progress
 015a303f-c250-4da8-983e-b03b10bacfa5,Miami Food Mart Inc,Circle K - Miami Food Mart,6d994fea-9e4a-506f-9f3b-5954431f860d,Missing,,Pending Launch,In progress
 6bc74c28-abed-47b5-9421-c58d1e242148,Circle K (Shidler Services Corp),Circle K - Savi Ranch 76,ID Present,ID Present,,Pending Launch,In progress
 de1e5847-314d-46d7-9f22-50a72a409329,YHS GAS AND CONVENIENCE,Circle K 470 Lake Panasoffkee,ID Present,ID Present,,Pending Launch,In progress
@@ -75,7 +76,6 @@ f71eaac7-879a-4a85-9ce9-5c2bbbd6bdc1,"Gawfco Enterprises, Inc.",Circle K Westley
 da04bb33-d7fc-4783-9b9f-2ddd4caf198c,Circle K of Mountain View,Circle K of Mountain View,ID Present,ID Present,ID Present,Pending Launch,In progress
 1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K- 1813 South Main St,ID Present,ID Present,ID Present,Pending Launch,In progress
 1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
-02f10dd9-791b-4d91-98fc-5f728d4f6483,Circle K Franchise (Viraj Jhala),Circle K- JEFFERSON MARATHON,ID Present,ID Present,,Pending Launch,In progress
 9a6acfaf-4482-402e-906f-0f87123cffdd,comraxllc,Circle K-2654250,ID Present,ID Present,,Pending Launch,In progress
 51af2328-d8d6-4b61-a5f6-0cef596134e5,EXTRAM LLC,Circle K-2655992,ID Present,ID Present,,Pending Launch,In progress
 dca9fb33-a33c-4afc-86d3-d16099e6b583,Kapacity Fuel LLC,Circle K-7305 Culebra,ID Present,ID Present,,Pending Launch,In progress
@@ -158,13 +158,13 @@ e0f0e024-c857-4a79-b32d-6656617bb56b,Rocket,Krispy Krunchy Chicken (8324 Highway
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
 36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),ID Present,ID Present,,Pending Launch,In progress
 fbf49575-1a01-45d5-bb2a-4fa4656a66db,Quick Track - LaMa,Lama 109,,Missing,,Pending Launch,In progress
-64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
-9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
-11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
 676e4a69-a396-4f18-a3db-a83a3a587e34,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
-7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
 55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
+7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
 ccc57cc7-cdd6-4c9d-9b95-be45163941a4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
+9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
+64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
+11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W Coal City Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 37237abe-7de5-47b8-83c4-a439c25e486c,Ridgeway Petroleum,Mastodon Market (515 W. Coal City Road),,Missing,Missing,Pending Launch,In progress
 494e6f88-94cb-48a1-bf17-00224434d4d2,Mercaso,Mercaso (112 Tustin Ave),,Missing,,Pending Launch,In progress
