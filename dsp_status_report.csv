@@ -7,7 +7,7 @@ af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Conven
 223b90ce-e3db-4c78-a71f-4250a2165000,Atlantis Management Group,Atlantis #199,ID Present,ID Present,,Pending Launch,In progress
 a418cd3e-c479-4c72-930e-0e9b7af90b82,Atlantis Management Group,Atlantis #202,ID Present,ID Present,,Pending Launch,In progress
 e2a701bb-9ffc-4ba9-9543-bec715499b54,Atlantis Management Group,Atlantis #208,ID Present,ID Present,,Pending Launch,In progress
-be7ce242-82a4-4f0b-95c5-5a0a44ce7581,Atlantis Management Group,Atlantis (130 Danbury Rd),ID Present,Missing,Missing,Pending Launch,In progress
+be7ce242-82a4-4f0b-95c5-5a0a44ce7581,Atlantis Management Group,Atlantis (130 Danbury Rd),ID Present,Missing,,Pending Launch,In progress
 e56ac461-95da-4e1c-8800-7731d258dd9c,Atlantis Management Group,Atlantis (198 Leavenworth Rd),ID Present,Missing,,Pending Launch,In progress
 fe2df723-28c4-41f0-89ed-519c4b9bad79,Atlantis Management Group,Atlantis (3276 Jerome Ave),ID Present,Missing,,Pending Launch,In progress
 7165eb71-d0a1-42ca-9262-9fe7ab3f4c19,Atlantis Management Group,Atlantis (341 Pinewoods Road),ID Present,Missing,,Pending Launch,In progress
@@ -141,7 +141,7 @@ e31cb4c9-9083-4143-98ca-0a8db43cbac9,Gogo Stores,Gogo (Jefferson Rd),ID Present,
 3e067068-ab6e-4ae1-bd35-05040f43e7f1,Gogo Stores,Gogo (Pontiac & Clinton),ID Present,ID Present,ID Present,Pending Launch,In progress
 495d72d2-31a7-4e38-a350-0dd6b68a7aae,Jacksons Food Stores,Jacksons Food Stores #616,ID Present,ID Present,ID Present,Pending Launch,In progress
 af7c8850-3440-41b6-8434-3755870a40ad,Jacksons Food Stores,Jacksons Food Stores #628,ID Present,ID Present,ID Present,Pending Launch,In progress
-9dc2f468-d7b6-4ed8-bd82-5dfc067f2700,Jacksons Food Stores,Jacksons Food Stores #88,,Missing,,Pending Launch,In progress
+9dc2f468-d7b6-4ed8-bd82-5dfc067f2700,Jacksons Food Stores,Jacksons Food Stores #88,,ID Present,,Pending Launch,In progress
 58c2e7fd-3159-4a90-bc1a-9b83e680e3f7,Jr. Market & Piggly Wiggly,Jr Market 10 - Lynnhaven,ID Present,ID Present,,Pending Launch,In progress
 cc6242b4-179e-485b-98dd-7bbd157517c8,Jr. Market & Piggly Wiggly,Jr Market 168 - Briar Hill,ID Present,ID Present,,Pending Launch,In progress
 8f425a97-8520-483f-98bc-a310332a9940,Jr. Market & Piggly Wiggly,Jr Market 211 - Chicks Beach,ID Present,ID Present,,Pending Launch,In progress
@@ -157,13 +157,13 @@ e0f0e024-c857-4a79-b32d-6656617bb56b,Rocket,Krispy Krunchy Chicken (8324 Highway
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
 36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),ID Present,ID Present,14432912,Pending Launch,In progress
 fbf49575-1a01-45d5-bb2a-4fa4656a66db,Quick Track - LaMa,Lama 109,ID Present,Missing,,Pending Launch,In progress
-676e4a69-a396-4f18-a3db-a83a3a587e34,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
-11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028976,Pending Launch,In progress
-55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15032224,Pending Launch,In progress
-7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15027344,Pending Launch,In progress
-64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028960,Pending Launch,In progress
-ccc57cc7-cdd6-4c9d-9b95-be45163941a4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028968,Pending Launch,In progress
 9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15030616,Pending Launch,In progress
+55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15032224,Pending Launch,In progress
+ccc57cc7-cdd6-4c9d-9b95-be45163941a4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028968,Pending Launch,In progress
+11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028976,Pending Launch,In progress
+7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15027344,Pending Launch,In progress
+676e4a69-a396-4f18-a3db-a83a3a587e34,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
+64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028960,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W Coal City Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 37237abe-7de5-47b8-83c4-a439c25e486c,Ridgeway Petroleum,Mastodon Market (515 W. Coal City Road),b651e29a-2a70-57a9-acb3-5e5f3c01ec10,Missing,,Pending Launch,In progress
 494e6f88-94cb-48a1-bf17-00224434d4d2,Mercaso,Mercaso (112 Tustin Ave),059aceb2-29ed-59fe-9929-d9aaa41c5809,Missing,,Pending Launch,In progress
