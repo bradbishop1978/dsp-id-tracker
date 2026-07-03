@@ -4,9 +4,9 @@ store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,
 7b3ec3f1-0aff-4a2d-b57e-96b9cf7eb711,Miramar Petroleum LLC,AMPM Miramar,ID Present,ID Present,ID Present,Pending Launch,In progress
 6d31f976-967d-438b-a52d-9a7b62d47911,Sabre Springs Petroleum LLC,AMPM Sabre Springs Petroleum,ID Present,ID Present,,Pending Launch,In progress
 af28b259-5c50-4f7c-a6c9-f309ed7bb23a,Anderson Convenience Market,Anderson Convenience Market #97,ID Present,ID Present,,Pending Launch,In progress
-223b90ce-e3db-4c78-a71f-4250a2165000,Atlantis Management Group,Atlantis #199,ID Present,ID Present,,Pending Launch,In progress
-a418cd3e-c479-4c72-930e-0e9b7af90b82,Atlantis Management Group,Atlantis #202,ID Present,ID Present,,Pending Launch,In progress
-e2a701bb-9ffc-4ba9-9543-bec715499b54,Atlantis Management Group,Atlantis #208,ID Present,ID Present,,Pending Launch,In progress
+223b90ce-e3db-4c78-a71f-4250a2165000,Atlantis Management Group,Atlantis #199,ID Present,ID Present,15068104,Pending Launch,In progress
+a418cd3e-c479-4c72-930e-0e9b7af90b82,Atlantis Management Group,Atlantis #202,ID Present,ID Present,15077040,Pending Launch,In progress
+e2a701bb-9ffc-4ba9-9543-bec715499b54,Atlantis Management Group,Atlantis #208,ID Present,ID Present,15078608,Pending Launch,In progress
 be7ce242-82a4-4f0b-95c5-5a0a44ce7581,Atlantis Management Group,Atlantis (130 Danbury Rd),ID Present,Missing,,Pending Launch,In progress
 e56ac461-95da-4e1c-8800-7731d258dd9c,Atlantis Management Group,Atlantis (198 Leavenworth Rd),ID Present,Missing,,Pending Launch,In progress
 fe2df723-28c4-41f0-89ed-519c4b9bad79,Atlantis Management Group,Atlantis (3276 Jerome Ave),ID Present,Missing,,Pending Launch,In progress
@@ -31,7 +31,7 @@ d5f823f8-36c1-4957-824c-ef2b2bda0fbb,Atlantis Management Group,Atlantis Cafe (44
 066135df-403f-476f-9a5f-1db4d91d2642,Chester's - Corrigan Oil,Chester's Chicken (15815 South Oakley),ID Present,ID Present,14528224,Pending Launch,In progress
 c7b83578-6f0f-4179-ab2e-1b3bc19899e4,Break Time,Chester's Chicken (2755 Militia Dr),ID Present,ID Present,14511320,Pending Launch,In progress
 1f856601-a697-4ee2-961d-245d3c82f13c,Randhawa Group Store,Circle - Santa Ana,,Missing,,Pending Launch,In progress
-c967fa90-6bd5-43c4-b596-f1093e54c37e,TJ1 Inc,Circle K #2655796,ID Present,ID Present,14440688,Pending Launch,In progress
+c967fa90-6bd5-43c4-b596-f1093e54c37e,TJ1 Inc,Circle K #2655796,ID Present,ID Present,ID Present,Pending Launch,In progress
 3c4769ae-77df-4a5a-bd32-001b5589061d,Circle K Gas Express,Circle K (111 Boulevard NE),ID Present,ID Present,ID Present,Pending Launch,In progress
 856de737-9075-4a86-b8e5-9bbd95065a6b,Circle K Gas Express,Circle K (1120 Sigman Rd NE),ID Present,ID Present,,Pending Launch,In progress
 a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -157,13 +157,13 @@ e0f0e024-c857-4a79-b32d-6656617bb56b,Rocket,Krispy Krunchy Chicken (8324 Highway
 46fcf6cb-6dc0-493b-8637-4de6390e4002,Circle K Fullerton,Krispy Krunchy Chicken Fullerton,ID Present,ID Present,ID Present,Pending Launch,In progress
 36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),ID Present,ID Present,14432912,Pending Launch,In progress
 fbf49575-1a01-45d5-bb2a-4fa4656a66db,Quick Track - LaMa,Lama 109,ID Present,Missing,,Pending Launch,In progress
-9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15030616,Pending Launch,In progress
-55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15032224,Pending Launch,In progress
+7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15027344,Pending Launch,In progress
 ccc57cc7-cdd6-4c9d-9b95-be45163941a4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028968,Pending Launch,In progress
 11d42e3b-84b0-4939-9f31-f993deb02b74,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028976,Pending Launch,In progress
-7b5610bc-0bbb-4398-8199-0f74b68636bd,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15027344,Pending Launch,In progress
 676e4a69-a396-4f18-a3db-a83a3a587e34,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,,Pending Launch,In progress
 64fac79d-2174-4143-91d7-8783c33decb4,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15028960,Pending Launch,In progress
+55387499-c8c3-4ee3-93dc-be4571c8592b,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15032224,Pending Launch,In progress
+9772641c-65d4-45c6-9a91-aaacef8f817f,JW Malcho Enterprise Inc.,Malcho’s Market,ID Present,Missing,15030616,Pending Launch,In progress
 a1cc3af4-b3ce-4271-959e-0d029f0c26b6,Ridgeway Petroleum,Mastodon Kitchen (515 W Coal City Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 37237abe-7de5-47b8-83c4-a439c25e486c,Ridgeway Petroleum,Mastodon Market (515 W. Coal City Road),b651e29a-2a70-57a9-acb3-5e5f3c01ec10,Missing,,Pending Launch,In progress
 494e6f88-94cb-48a1-bf17-00224434d4d2,Mercaso,Mercaso (112 Tustin Ave),059aceb2-29ed-59fe-9929-d9aaa41c5809,Missing,,Pending Launch,In progress
@@ -229,11 +229,11 @@ b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,ID Present,Missing,,
 6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,cd88f0b6-0481-5ee5-b362-8bf0efee50cb,Missing,,Pending Launch,In progress
 b69d87dd-9751-4c2b-bf62-34e152657b37,Center Independent Energy LP (Sweet Pea's),Sweet Peas #30,ID Present,Missing,15040424,Pending Launch,In progress
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,14431216,Pending Launch,In progress
-2f5e95f7-62b2-405f-9adf-9c07fcd71a27,Exxon Tiger Mart,Tiger Mart #12,ID Present,ID Present,,Pending Launch,In progress
-7944c2f2-baed-4a10-a2b1-51607e3bd7bb,Exxon Tiger Mart,Tiger Mart #21,ID Present,ID Present,,Pending Launch,In progress
-69ba5485-290a-487a-a2f5-21d1e65a11d5,Exxon Tiger Mart,Tiger Mart #4,ID Present,ID Present,,Pending Launch,In progress
-3c75291b-ca32-477d-8ff9-45d9fe01f163,Exxon Tiger Mart,Tiger Mart #5,ID Present,ID Present,,Pending Launch,In progress
-83fe8cf9-277d-4723-b3da-3f5b4cbfee54,Exxon Tiger Mart,Tiger Mart #7,ID Present,ID Present,,Pending Launch,In progress
+2f5e95f7-62b2-405f-9adf-9c07fcd71a27,Exxon Tiger Mart,Tiger Mart #12,ID Present,ID Present,15068112,Pending Launch,In progress
+7944c2f2-baed-4a10-a2b1-51607e3bd7bb,Exxon Tiger Mart,Tiger Mart #21,ID Present,ID Present,15075392,Pending Launch,In progress
+69ba5485-290a-487a-a2f5-21d1e65a11d5,Exxon Tiger Mart,Tiger Mart #4,ID Present,ID Present,15069592,Pending Launch,In progress
+3c75291b-ca32-477d-8ff9-45d9fe01f163,Exxon Tiger Mart,Tiger Mart #5,ID Present,ID Present,15066392,Pending Launch,In progress
+83fe8cf9-277d-4723-b3da-3f5b4cbfee54,Exxon Tiger Mart,Tiger Mart #7,ID Present,ID Present,15078616,Pending Launch,In progress
 09505eca-76ad-4ffe-93fb-be3b26846f2a,"Gawfco Enterprises, Inc.",Trimble 76 ( 2591 Seaboard Ave ),ID Present,ID Present,14982712,Pending Launch,In progress
 75e1b7a9-f2d9-474c-a062-d1cb69833630,Yazzy's Market,Yazzy's Market Inc - 1163 Hoosick Rd,ID Present,ID Present,ID Present,Pending Launch,In progress
 f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,[DUP] Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,13668200,Pending Launch,In progress
