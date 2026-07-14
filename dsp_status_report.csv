@@ -21,7 +21,7 @@ d5f823f8-36c1-4957-824c-ef2b2bda0fbb,Atlantis Management Group,Atlantis Cafe (44
 4711f840-d6a2-431d-ba1b-e785c0bda898,Corrigan Oil,Charley Biggs (9601 N. State Rd 67),ID Present,Missing,ID Present,Pending Launch,In progress
 066135df-403f-476f-9a5f-1db4d91d2642,Chester's - Corrigan Oil,Chester's Chicken (15815 South Oakley),ID Present,ID Present,ID Present,Pending Launch,In progress
 c7b83578-6f0f-4179-ab2e-1b3bc19899e4,Break Time,Chester's Chicken (2755 Militia Dr),ID Present,ID Present,ID Present,Pending Launch,In progress
-1f856601-a697-4ee2-961d-245d3c82f13c,Randhawa Group Store,Circle  K- Santa Ana,,Missing,,Pending Launch,In progress
+1f856601-a697-4ee2-961d-245d3c82f13c,Randhawa Group Store,Circle  K- Santa Ana,4b467647-797f-52b0-83b0-de5dd202a9f4,Missing,,Pending Launch,In progress
 c967fa90-6bd5-43c4-b596-f1093e54c37e,TJ1 Inc,Circle K #2655796,ID Present,ID Present,ID Present,Pending Launch,In progress
 3c4769ae-77df-4a5a-bd32-001b5589061d,Circle K Gas Express,Circle K (111 Boulevard NE),ID Present,ID Present,ID Present,Pending Launch,In progress
 856de737-9075-4a86-b8e5-9bbd95065a6b,Circle K Gas Express,Circle K (1120 Sigman Rd NE),ID Present,ID Present,,Pending Launch,In progress
@@ -29,7 +29,7 @@ a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),ID P
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 33fcedc6-4fe0-4b4c-b074-adfa28be960c,Walport Enterprises Inc,Circle K - 2655789,ID Present,ID Present,ID Present,Pending Launch,In progress
 43f4604c-7f4f-4d81-9069-ed78aa62c2c8,Veeram Inc,Circle K - 44462 East Florida Avenue,ID Present,ID Present,ID Present,Pending Launch,In progress
-15ef06b5-a2bc-4a48-99e1-8647e85cedde,Mehar Thind Inc,Circle K - 9602 Flower St,,Missing,,Pending Launch,In progress
+15ef06b5-a2bc-4a48-99e1-8647e85cedde,Mehar Thind Inc,Circle K - 9602 Flower St,1c1b645a-c144-5d8a-b653-731e03581216,Missing,,Pending Launch,In progress
 a2ce88f7-f098-4189-ab76-508c44ad3a06,Circle K Franchise (Viraj Jhala),Circle K - Breakwater Marathon,ID Present,ID Present,ID Present,Pending Launch,In progress
 a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
 02f10dd9-791b-4d91-98fc-5f728d4f6483,Circle K Franchise (Viraj Jhala),Circle K - Jefferson Marathon,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -54,9 +54,9 @@ db5d1fc1-af87-4928-a889-54aa470c35f5,"Gawfco Enterprises, Inc.",Circle K San Fra
 0e58f2fb-b763-45c0-bf64-53d5d29da7a6,"Gawfco Enterprises, Inc.",Circle K Vacaville ( 2000 Nut Tree Rd ),ID Present,ID Present,ID Present,Pending Launch,In progress
 f71eaac7-879a-4a85-9ce9-5c2bbbd6bdc1,"Gawfco Enterprises, Inc.",Circle K Westley ( 4549 Ingram Creek Rd ),ID Present,ID Present,ID Present,Pending Launch,In progress
 1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K- 1813 South Main St,ID Present,ID Present,ID Present,Pending Launch,In progress
-4be67cbd-faf5-4d7b-b09f-4113012f52fb,Longate Services Inc,Circle K- 4398 Montgomery Road,,Missing,,Pending Launch,In progress
+4be67cbd-faf5-4d7b-b09f-4113012f52fb,Longate Services Inc,Circle K- 4398 Montgomery Road,35570f08-f19d-5bc2-ba5f-987b0b625b54,Missing,,Pending Launch,In progress
 1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
-0b233d20-b841-4900-83fe-d266a2b9ed29,"FLORIDA FOOD AND GAS, LLC",Circle K- Trapnell Marathon,,Missing,,Pending Launch,In progress
+0b233d20-b841-4900-83fe-d266a2b9ed29,"FLORIDA FOOD AND GAS, LLC",Circle K- Trapnell Marathon,e36a7a48-b2b2-59cf-862a-4fb0037dbdec,Missing,,Pending Launch,In progress
 9a6acfaf-4482-402e-906f-0f87123cffdd,comraxllc,Circle K-2654250,ID Present,ID Present,ID Present,Pending Launch,In progress
 51af2328-d8d6-4b61-a5f6-0cef596134e5,EXTRAM LLC,Circle K-2655992,ID Present,ID Present,,Pending Launch,In progress
 dca9fb33-a33c-4afc-86d3-d16099e6b583,Kapacity Fuel LLC,Circle K-7305 Culebra,ID Present,ID Present,,Pending Launch,In progress
@@ -66,8 +66,8 @@ dca9fb33-a33c-4afc-86d3-d16099e6b583,Kapacity Fuel LLC,Circle K-7305 Culebra,ID 
 51d81a04-3265-4738-bbec-c1380017ae6a,Circle K Gas Express,DUP - Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 052edfc1-b46a-4b05-9d56-c2f7beb9f7b5,EZ Market,EZ Market (1885 Clairmont Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 c8d7acdc-bb86-488c-b51b-fddf824819da,EZ Market,EZ Market (9595 Main St),ID Present,ID Present,ID Present,Pending Launch,In progress
-848de17e-ab83-4595-80ca-f10b5b1b73f4,Eagle Stores,Eagle Stores ( 3480 Gender Rd ),,Missing,,Pending Launch,In progress
-a3fd8017-e653-46ab-b995-8eddf758820e,Eagle Stores,Eagle Stores ( 6640 N Dixie Dr ),,Missing,,Pending Launch,In progress
+848de17e-ab83-4595-80ca-f10b5b1b73f4,Eagle Stores,Eagle Stores ( 3480 Gender Rd ),98f0d556-4148-57b5-8db9-1ebf5af22324,Missing,,Pending Launch,In progress
+a3fd8017-e653-46ab-b995-8eddf758820e,Eagle Stores,Eagle Stores ( 6640 N Dixie Dr ),bb1b2b0c-8caf-5a11-a852-b1f51c1fa5dc,Missing,,Pending Launch,In progress
 b7f8bf10-0bef-4da8-aec3-51a09b05b7e7,"Gawfco Enterprises, Inc.",Fast Fill Market Brawley ( 1691 Main St ),ID Present,ID Present,ID Present,Pending Launch,In progress
 1d5cb5f4-2710-4a71-94a8-c2d3f4c0a7e2,"Gawfco Enterprises, Inc.",Fast Fill Market Brea ( 3300 East Imperial Hwy ),ID Present,ID Present,ID Present,Pending Launch,In progress
 27982272-2d6d-428f-ad12-c4209335e470,"Gawfco Enterprises, Inc.",Fast Fill Market Calexico ( 940 South Imperial Ave ),ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -104,9 +104,9 @@ ab2b0c40-12db-4f29-a983-caefe9f11fea,"Gawfco Enterprises, Inc.",Fast Fill Market
 3651f099-5c2d-461a-b54d-9e4233faab4e,"Gawfco Enterprises, Inc.",Fast Fill Market Walnut Creek ( 1790 Ygnacio Valley Rd ),ID Present,ID Present,ID Present,Pending Launch,In progress
 fc3faa70-2577-42c8-a5de-14256e2df4af,"Gawfco Enterprises, Inc.",Fast Fill Market Yucaipa ( 33928 County Line Rd ),ID Present,ID Present,ID Present,Pending Launch,In progress
 f2f4352e-b590-413f-a32d-9a29a01e3caf,Fast Track,Fast Track (14361 Holiday Rd),ID Present,,Missing,Pending Launch,In progress
-2df2cc9c-2334-4dd8-a3bb-41fe397e0395,Clipper Petroleum,Flyby Café (5990 H.F Reed Industrial Pkwy),,Missing,,Pending Launch,In progress
+2df2cc9c-2334-4dd8-a3bb-41fe397e0395,Clipper Petroleum,Flyby Café (5990 H.F Reed Industrial Pkwy),6149b046-3ca0-5fc1-89fc-80f341d4be3f,Missing,,Pending Launch,In progress
 62ec6ee5-497f-47db-b7af-9c330222b54c,Circle K Gas Express,Gas Express (40081 Hwy 441),ID Present,ID Present,ID Present,Pending Launch,In progress
-7d9eea9f-ab68-4679-928c-6182fa10eafb,Heritage Co,Heritage Wine & Spirits at Eastman,,Missing,,Pending Launch,In progress
+7d9eea9f-ab68-4679-928c-6182fa10eafb,Heritage Co,Heritage Wine & Spirits at Eastman,8c167981-0018-55a3-8794-b1ff0ce02e01,Missing,,Pending Launch,In progress
 9dc2f468-d7b6-4ed8-bd82-5dfc067f2700,Jacksons Food Stores,Jacksons Food Stores #88,,ID Present,,Pending Launch,In progress
 58c2e7fd-3159-4a90-bc1a-9b83e680e3f7,Jr. Market & Piggly Wiggly,Jr Market 10 - Lynnhaven,ID Present,ID Present,,Pending Launch,In progress
 cc6242b4-179e-485b-98dd-7bbd157517c8,Jr. Market & Piggly Wiggly,Jr Market 168 - Briar Hill,ID Present,ID Present,,Pending Launch,In progress
@@ -131,7 +131,7 @@ eb349b65-60cf-4ba6-8cb4-f49946037ae5,Mercaso,Mercaso (2177 S Atlantic Blvd),ID P
 9ece86a3-518b-4f82-a7ea-35a7831c4d26,Mercaso,Mercaso (259 West Imperial Hwy),ID Present,Missing,,Pending Launch,In progress
 16a0cf53-11cc-4adc-a6fc-ca561728f3f1,Mercaso,Mercaso (2700 W Pico Blvd),ID Present,Missing,,Pending Launch,In progress
 30eccefd-545f-424b-a7f5-ee41af011c27,Mercaso,Mercaso (3130 w 8th St),ID Present,Missing,,Pending Launch,In progress
-ab8c6eb7-27f8-4b47-9aa6-fca151e1487f,Mercaso,Mercaso (515 East Manchester Boulevard),,Missing,,Pending Launch,In progress
+ab8c6eb7-27f8-4b47-9aa6-fca151e1487f,Mercaso,Mercaso (515 East Manchester Boulevard),bc723222-f74b-51b8-95e4-dd5ad9d0d5ff,Missing,,Pending Launch,In progress
 09282e02-df5f-4f07-8006-fa1d5035cc0d,Mercaso,Mercaso (7522 W Cerritos Ave),ID Present,Missing,,Pending Launch,In progress
 c5d81208-55d2-4c8f-afbd-2258db772d9a,Minuteman Food Mart,Minuteman Food Mart - 204,ID Present,ID Present,ID Present,Pending Launch,In progress
 f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3116,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -142,14 +142,14 @@ f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
 f7847b58-5418-4dd5-ae09-077f9d99470c,"Gawfco Enterprises, Inc.",Seaside 76 ( 1600 Fremont Blvd ),ID Present,ID Present,ID Present,Pending Launch,In progress
-5c4cb3b7-277b-4a90-86da-9390650b46e2,Gilligan Oil Services Co,Shell - 10809 MONTGOMERY RD,,Missing,,Pending Launch,In progress
-431f2c4d-43c6-4c88-b751-24be5b64df5a,Gilligan Oil Services Co,Shell - 1866 SUMMIT ST,,Missing,,Pending Launch,In progress
-a95a4e0b-ca34-405b-b7c6-61a59437df25,Gilligan Oil Services Co,Shell - 2187 NEIL AVE,,Missing,,Pending Launch,In progress
-9e3abf2c-752b-4121-907c-1659e75856f8,Gilligan Oil Services Co,Shell - 5301 RIDGE AVE,,Missing,,Pending Launch,In progress
-d07293af-d64b-496a-b736-b1e989857f4d,Gilligan Oil Services Co,Shell - 8051 MONTGOMERY RD,,Missing,,Pending Launch,In progress
-7d5e5623-53e7-4e41-8716-a19cab665443,Gilligan Oil Services Co,Shell - 8267 PRINCETON GLENDALE RD,,Missing,,Pending Launch,In progress
-5873ba7d-fdc1-4cc3-850c-cfedd008581d,Gilligan Oil Services Co,Shell - 9188 PLAINFIELD RD,,Missing,,Pending Launch,In progress
-8fa58dbb-c8c7-424c-8db9-e2a537bd6e1a,Gilligan Oil Services Co,Shell - 9370 UNION CENTRE BLVD,,Missing,,Pending Launch,In progress
+5c4cb3b7-277b-4a90-86da-9390650b46e2,Gilligan Oil Services Co,Shell - 10809 MONTGOMERY RD,99ba4fbb-cb09-5d72-90a1-9ac7ffad78b0,Missing,,Pending Launch,In progress
+431f2c4d-43c6-4c88-b751-24be5b64df5a,Gilligan Oil Services Co,Shell - 1866 SUMMIT ST,82c15ba8-ecef-5026-b7b9-39870453faa1,Missing,,Pending Launch,In progress
+a95a4e0b-ca34-405b-b7c6-61a59437df25,Gilligan Oil Services Co,Shell - 2187 NEIL AVE,e513f6bd-26e7-57aa-8168-bdda5cfcd6e3,Missing,,Pending Launch,In progress
+9e3abf2c-752b-4121-907c-1659e75856f8,Gilligan Oil Services Co,Shell - 5301 RIDGE AVE,d42c11b5-c30f-5c18-a027-07c169ed19d3,Missing,,Pending Launch,In progress
+d07293af-d64b-496a-b736-b1e989857f4d,Gilligan Oil Services Co,Shell - 8051 MONTGOMERY RD,583d7bf7-606c-54ea-9a2f-9ff953fda867,Missing,,Pending Launch,In progress
+7d5e5623-53e7-4e41-8716-a19cab665443,Gilligan Oil Services Co,Shell - 8267 PRINCETON GLENDALE RD,51cfe9a9-14e9-53fb-a113-68815d5930ff,Missing,,Pending Launch,In progress
+5873ba7d-fdc1-4cc3-850c-cfedd008581d,Gilligan Oil Services Co,Shell - 9188 PLAINFIELD RD,1361ca34-9b5b-5963-8a41-0a1861d7cc52,Missing,,Pending Launch,In progress
+8fa58dbb-c8c7-424c-8db9-e2a537bd6e1a,Gilligan Oil Services Co,Shell - 9370 UNION CENTRE BLVD,0db5c454-35e1-50b5-aa8b-4eb93b0290e7,Missing,,Pending Launch,In progress
 f4222239-8ab0-45ab-9579-d1eea5d3bdd1,Star Stop,Star Stop 115,ID Present,Missing,,Pending Launch,In progress
 de09cfd1-e68a-4cca-9619-f1b3917d8d62,Star Stop,Star Stop 21,ID Present,Missing,,Pending Launch,In progress
 d3f66fe2-1847-4ed6-8a37-5961539212d8,Star Stop,Star Stop 23,ID Present,Missing,,Pending Launch,In progress
@@ -178,6 +178,6 @@ b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,ID Present,Missing,,
 6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,ID Present,ID Present,,Pending Launch,In progress
 b69d87dd-9751-4c2b-bf62-34e152657b37,Center Independent Energy LP (Sweet Pea's),Sweet Peas #30,ID Present,Missing,ID Present,Pending Launch,In progress
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,ID Present,Pending Launch,In progress
-71359bac-9dd3-4710-8ae9-e37315f5f918,Heritage Co,The Green Top by Heritage Co (US-259),,ID Present,,Pending Launch,In progress
+71359bac-9dd3-4710-8ae9-e37315f5f918,Heritage Co,The Green Top by Heritage Co (US-259),3041bd00-fc34-5172-8b5c-f8511d98a2d9,ID Present,,Pending Launch,In progress
 09505eca-76ad-4ffe-93fb-be3b26846f2a,"Gawfco Enterprises, Inc.",Trimble 76 ( 2591 Seaboard Ave ),ID Present,ID Present,ID Present,Pending Launch,In progress
 f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,[DUP] Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,13668200,Pending Launch,In progress
