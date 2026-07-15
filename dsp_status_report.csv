@@ -29,6 +29,7 @@ a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),ID P
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
 33fcedc6-4fe0-4b4c-b074-adfa28be960c,Walport Enterprises Inc,Circle K - 2655789,ID Present,ID Present,ID Present,Pending Launch,In progress
 43f4604c-7f4f-4d81-9069-ed78aa62c2c8,Veeram Inc,Circle K - 44462 East Florida Avenue,ID Present,ID Present,ID Present,Pending Launch,In progress
+dca9fb33-a33c-4afc-86d3-d16099e6b583,Kapacity Fuel LLC,Circle K - 7305 Culebra,ID Present,ID Present,,Pending Launch,In progress
 15ef06b5-a2bc-4a48-99e1-8647e85cedde,Mehar Thind Inc,Circle K - 9602 Flower St,1c1b645a-c144-5d8a-b653-731e03581216,Missing,,Pending Launch,In progress
 a2ce88f7-f098-4189-ab76-508c44ad3a06,Circle K Franchise (Viraj Jhala),Circle K - Breakwater Marathon,ID Present,ID Present,ID Present,Pending Launch,In progress
 a99dab15-77a0-4102-8d97-05e54dcd6bcd,Circle K (DW HWY Stop),Circle K - Dw Hwy Mobil,ID Present,ID Present,ID Present,Pending Launch,In progress
@@ -59,7 +60,6 @@ f71eaac7-879a-4a85-9ce9-5c2bbbd6bdc1,"Gawfco Enterprises, Inc.",Circle K Westley
 0b233d20-b841-4900-83fe-d266a2b9ed29,"FLORIDA FOOD AND GAS, LLC",Circle K- Trapnell Marathon,e36a7a48-b2b2-59cf-862a-4fb0037dbdec,Missing,,Pending Launch,In progress
 9a6acfaf-4482-402e-906f-0f87123cffdd,comraxllc,Circle K-2654250,ID Present,ID Present,ID Present,Pending Launch,In progress
 51af2328-d8d6-4b61-a5f6-0cef596134e5,EXTRAM LLC,Circle K-2655992,ID Present,ID Present,,Pending Launch,In progress
-dca9fb33-a33c-4afc-86d3-d16099e6b583,Kapacity Fuel LLC,Circle K-7305 Culebra,ID Present,ID Present,,Pending Launch,In progress
 05f575e6-efd5-4ba9-8664-9f6dc9aff1b2,"APEC, Automated Petroleum Energy Company",Circle K-Jacksonville Exxon,ID Present,Missing,ID Present,Pending Launch,In progress
 4359e82f-f4e5-47b5-8413-1f970c6a6a4a,"APEC, Automated Petroleum Energy Company",Circle K-Rolling Acres Shell,ID Present,Missing,ID Present,Pending Launch,In progress
 155d6418-3dc4-4a4e-878b-61730ba3d7e5,"APEC, Automated Petroleum Energy Company",Circle K-South Pine Marathon,ID Present,Missing,ID Present,Pending Launch,In progress
@@ -120,7 +120,6 @@ abd552a7-ad0f-4c5e-a097-f2217b724a1a,Rocket,Krispy Krunchy Chicken (18463 Road 2
 580d73d6-6afe-4347-8dbf-559cae1cadb0,Rocket,Krispy Krunchy Chicken (580 Marie Ave),ID Present,ID Present,,Pending Launch,In progress
 e0f0e024-c857-4a79-b32d-6656617bb56b,Rocket,Krispy Krunchy Chicken (8324 Highway 138),ID Present,ID Present,,Pending Launch,In progress
 67c3fa22-981d-4a92-9008-71c829757bd0,Circle K (Shahid LLC),Krispy Krunchy Chicken - Seacoast,ID Present,ID Present,ID Present,Pending Launch,In progress
-36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,La Virgenes Taqueria (4807 Las Virgenes Road),ID Present,ID Present,ID Present,Pending Launch,In progress
 fbf49575-1a01-45d5-bb2a-4fa4656a66db,Quick Track - LaMa,Lama 109,ID Present,Missing,,Pending Launch,In progress
 37237abe-7de5-47b8-83c4-a439c25e486c,Ridgeway Petroleum,Mastodon Market (515 W. Coal City Road),ID Present,Missing,,Pending Launch,In progress
 494e6f88-94cb-48a1-bf17-00224434d4d2,Mercaso,Mercaso (112 Tustin Ave),ID Present,Missing,,Pending Launch,In progress
@@ -142,14 +141,14 @@ f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3
 ba21e9bd-ec39-4a59-9e7b-b1d306d50743,Jacksons Food Stores,Redwood Market #285,ID Present,ID Present,ID Present,Pending Launch,In progress
 cdf40058-f486-4d63-a86e-2dbc181a7a43,Jacksons Food Stores,Redwood Market #294,ID Present,ID Present,ID Present,Pending Launch,In progress
 f7847b58-5418-4dd5-ae09-077f9d99470c,"Gawfco Enterprises, Inc.",Seaside 76 ( 1600 Fremont Blvd ),ID Present,ID Present,ID Present,Pending Launch,In progress
-5c4cb3b7-277b-4a90-86da-9390650b46e2,Gilligan Oil Services Co,Shell - 10809 Montgomery Rd,99ba4fbb-cb09-5d72-90a1-9ac7ffad78b0,Missing,,Pending Launch,In progress
-431f2c4d-43c6-4c88-b751-24be5b64df5a,Gilligan Oil Services Co,Shell - 1866 Summit St,82c15ba8-ecef-5026-b7b9-39870453faa1,Missing,,Pending Launch,In progress
-a95a4e0b-ca34-405b-b7c6-61a59437df25,Gilligan Oil Services Co,Shell - 2187 Neil Ave,e513f6bd-26e7-57aa-8168-bdda5cfcd6e3,Missing,,Pending Launch,In progress
-9e3abf2c-752b-4121-907c-1659e75856f8,Gilligan Oil Services Co,Shell - 5301 Ridge Ave,d42c11b5-c30f-5c18-a027-07c169ed19d3,Missing,,Pending Launch,In progress
-d07293af-d64b-496a-b736-b1e989857f4d,Gilligan Oil Services Co,Shell - 8051 Montgomery Rd,583d7bf7-606c-54ea-9a2f-9ff953fda867,Missing,,Pending Launch,In progress
-7d5e5623-53e7-4e41-8716-a19cab665443,Gilligan Oil Services Co,Shell - 8267 Princeton Glendale Rd,51cfe9a9-14e9-53fb-a113-68815d5930ff,Missing,,Pending Launch,In progress
-5873ba7d-fdc1-4cc3-850c-cfedd008581d,Gilligan Oil Services Co,Shell - 9188 Plainfield Rd,1361ca34-9b5b-5963-8a41-0a1861d7cc52,Missing,,Pending Launch,In progress
-8fa58dbb-c8c7-424c-8db9-e2a537bd6e1a,Gilligan Oil Services Co,Shell - 9370 Union Centre Blvd,0db5c454-35e1-50b5-aa8b-4eb93b0290e7,Missing,,Pending Launch,In progress
+5c4cb3b7-277b-4a90-86da-9390650b46e2,Gilligan Oil Services Co,Shell - 10809 Montgomery Rd,ID Present,Missing,,Pending Launch,In progress
+431f2c4d-43c6-4c88-b751-24be5b64df5a,Gilligan Oil Services Co,Shell - 1866 Summit St,ID Present,Missing,,Pending Launch,In progress
+a95a4e0b-ca34-405b-b7c6-61a59437df25,Gilligan Oil Services Co,Shell - 2187 Neil Ave,ID Present,Missing,,Pending Launch,In progress
+9e3abf2c-752b-4121-907c-1659e75856f8,Gilligan Oil Services Co,Shell - 5301 Ridge Ave,ID Present,Missing,,Pending Launch,In progress
+d07293af-d64b-496a-b736-b1e989857f4d,Gilligan Oil Services Co,Shell - 8051 Montgomery Rd,ID Present,Missing,,Pending Launch,In progress
+7d5e5623-53e7-4e41-8716-a19cab665443,Gilligan Oil Services Co,Shell - 8267 Princeton Glendale Rd,ID Present,Missing,,Pending Launch,In progress
+5873ba7d-fdc1-4cc3-850c-cfedd008581d,Gilligan Oil Services Co,Shell - 9188 Plainfield Rd,ID Present,Missing,,Pending Launch,In progress
+8fa58dbb-c8c7-424c-8db9-e2a537bd6e1a,Gilligan Oil Services Co,Shell - 9370 Union Centre Blvd,ID Present,Missing,,Pending Launch,In progress
 f4222239-8ab0-45ab-9579-d1eea5d3bdd1,Star Stop,Star Stop 115,ID Present,Missing,,Pending Launch,In progress
 de09cfd1-e68a-4cca-9619-f1b3917d8d62,Star Stop,Star Stop 21,ID Present,Missing,,Pending Launch,In progress
 d3f66fe2-1847-4ed6-8a37-5961539212d8,Star Stop,Star Stop 23,ID Present,Missing,,Pending Launch,In progress
@@ -177,7 +176,8 @@ bbd71d3e-2b4a-4535-9341-c99092a706ea,Star Stop,Star Stop 45,ID Present,Missing,,
 b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,ID Present,Missing,,Pending Launch,In progress
 6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,ID Present,ID Present,,Pending Launch,In progress
 b69d87dd-9751-4c2b-bf62-34e152657b37,Center Independent Energy LP (Sweet Pea's),Sweet Peas #30,ID Present,Missing,ID Present,Pending Launch,In progress
-37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express (19156 Venture Boulevard),ID Present,ID Present,ID Present,Pending Launch,In progress
+37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express,ID Present,ID Present,ID Present,Pending Launch,In progress
+36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,Taqueria Las Virgenes,ID Present,ID Present,ID Present,Pending Launch,In progress
 71359bac-9dd3-4710-8ae9-e37315f5f918,Heritage Co,The Green Top by Heritage Co (US-259),3041bd00-fc34-5172-8b5c-f8511d98a2d9,ID Present,,Pending Launch,In progress
 09505eca-76ad-4ffe-93fb-be3b26846f2a,"Gawfco Enterprises, Inc.",Trimble 76 ( 2591 Seaboard Ave ),ID Present,ID Present,ID Present,Pending Launch,In progress
 f33f29c9-f2db-40a5-b2ff-8184a9c587af,Fast Track,[DUP] Fast Track (1120 Churn Creek Rd),a5558854-aa05-5766-80fd-69b903c23ab7,ID Present,13668200,Pending Launch,In progress
