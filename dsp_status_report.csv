@@ -1,8 +1,8 @@
 store_id,company_name,store_name,ubereats_status,doordash_status,grubhub_status,pipeline_stage,onboarding_status
+e56ac461-95da-4e1c-8800-7731d258dd9c,Atlantis Management Group,Atlantis #204,ID Present,Missing,,Pending Launch,In progress
+7165eb71-d0a1-42ca-9262-9fe7ab3f4c19,Atlantis Management Group,Atlantis #206,ID Present,Missing,,Pending Launch,In progress
 be7ce242-82a4-4f0b-95c5-5a0a44ce7581,Atlantis Management Group,Atlantis (130 Danbury Rd),ID Present,Missing,Missing,Pending Launch,In progress
-e56ac461-95da-4e1c-8800-7731d258dd9c,Atlantis Management Group,Atlantis (198 Leavenworth Rd),ID Present,Missing,,Pending Launch,In progress
 fe2df723-28c4-41f0-89ed-519c4b9bad79,Atlantis Management Group,Atlantis (3276 Jerome Ave),ID Present,Missing,,Pending Launch,In progress
-7165eb71-d0a1-42ca-9262-9fe7ab3f4c19,Atlantis Management Group,Atlantis (341 Pinewoods Road),ID Present,Missing,,Pending Launch,In progress
 646e1c09-cdaf-4de9-815e-9a3361487071,Atlantis Management Group,Atlantis (790 Echo Lake Road),ID Present,Missing,,Pending Launch,In progress
 cbc3bb08-6052-410f-9416-d5dfae215c5e,Atlantis Management Group,Atlantis Cafe (1049 Grand Street),ID Present,Missing,,Pending Launch,In progress
 5ba3a5b6-930b-4007-9f13-a8c906f9267a,Atlantis Management Group,Atlantis Cafe (1139-1153 Broad Street),ID Present,Missing,,Pending Launch,In progress
@@ -175,7 +175,7 @@ bbd71d3e-2b4a-4535-9341-c99092a706ea,Star Stop,Star Stop 45,ID Present,Missing,,
 06d3566f-6501-4e91-bd49-85a6c3f83d9b,Star Stop,Star Stop 57,ID Present,Missing,,Pending Launch,In progress
 b5bd8b17-ed92-45c1-b6bc-740b679724cf,Star Stop,Star Stop 59,ID Present,Missing,,Pending Launch,In progress
 6adcd816-93ae-442a-91cc-5fbdd06c92d9,Star Stop,Star Stop 60,ID Present,ID Present,,Pending Launch,In progress
-b69d87dd-9751-4c2b-bf62-34e152657b37,Center Independent Energy LP (Sweet Pea's),Sweet Peas #30,ID Present,Missing,ID Present,Pending Launch,In progress
+b69d87dd-9751-4c2b-bf62-34e152657b37,Center Independent Energy LP (Sweet Pea's),Sweet Peas #30,ID Present,ID Present,ID Present,Pending Launch,In progress
 37bf7f7e-a561-4c57-950f-93e14a2068f9,Rocket,Taco Express,ID Present,ID Present,ID Present,Pending Launch,In progress
 36f81154-9c70-471c-85c7-cb5a2157a5e0,Rocket,Taqueria Las Virgenes,ID Present,ID Present,ID Present,Pending Launch,In progress
 71359bac-9dd3-4710-8ae9-e37315f5f918,Heritage Co,The Green Top by Heritage Co (US-259),3041bd00-fc34-5172-8b5c-f8511d98a2d9,ID Present,,Pending Launch,In progress
