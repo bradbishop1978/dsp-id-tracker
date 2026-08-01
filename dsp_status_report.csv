@@ -27,6 +27,7 @@ c967fa90-6bd5-43c4-b596-f1093e54c37e,TJ1 Inc,Circle K #2655796,ID Present,ID Pre
 856de737-9075-4a86-b8e5-9bbd95065a6b,Circle K Gas Express,Circle K (1120 Sigman Rd NE),ID Present,ID Present,,Pending Launch,In progress
 a0c82416-5879-4ddf-beac-d852aa8a2709,Kwik Trip Oil,Circle K (1628 3rd St N),ID Present,ID Present,ID Present,Pending Launch,In progress
 1008e662-0f3b-478c-848d-9d14a9febcae,Circle K Gas Express,Circle K (550 Cherokee Pkwy),ID Present,ID Present,ID Present,Pending Launch,In progress
+1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K - 1813 South Main St,ID Present,ID Present,ID Present,Pending Launch,In progress
 9a6acfaf-4482-402e-906f-0f87123cffdd,Comrax LLC,Circle K - 2654250,ID Present,ID Present,ID Present,Pending Launch,In progress
 33fcedc6-4fe0-4b4c-b074-adfa28be960c,Walport Enterprises Inc,Circle K - 2655789,ID Present,ID Present,ID Present,Pending Launch,In progress
 51af2328-d8d6-4b61-a5f6-0cef596134e5,Extram LLC,Circle K - 2655992,ID Present,ID Present,,Pending Launch,In progress
@@ -56,7 +57,6 @@ c435a816-fa22-4a87-ba54-4b473ab14724,"Gawfco Enterprises, Inc.",Circle K San Ans
 db5d1fc1-af87-4928-a889-54aa470c35f5,"Gawfco Enterprises, Inc.",Circle K San Francisco (401 Potrero Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 0e58f2fb-b763-45c0-bf64-53d5d29da7a6,"Gawfco Enterprises, Inc.",Circle K Vacaville (2000 Nut Tree Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
 f71eaac7-879a-4a85-9ce9-5c2bbbd6bdc1,"Gawfco Enterprises, Inc.",Circle K Westley (4549 Ingram Creek Rd),ID Present,ID Present,ID Present,Pending Launch,In progress
-1902d755-cd9f-4559-bab2-014b265ff3bb,"Circle K (Quick on The Way High Point,LLC)",Circle K- 1813 South Main St,ID Present,ID Present,ID Present,Pending Launch,In progress
 4be67cbd-faf5-4d7b-b09f-4113012f52fb,Longate Services Inc,Circle K- 4398 Montgomery Road,35570f08-f19d-5bc2-ba5f-987b0b625b54,Missing,,Pending Launch,In progress
 1b3b557a-bedf-4273-8e5c-c0b9a99ac61d,"Bisla development & Petroleum, LLC",Circle K- Bradshaw Shell,ID Present,ID Present,ID Present,Pending Launch,In progress
 0b233d20-b841-4900-83fe-d266a2b9ed29,"FLORIDA FOOD AND GAS, LLC",Circle K- Trapnell Marathon,e36a7a48-b2b2-59cf-862a-4fb0037dbdec,Missing,,Pending Launch,In progress
@@ -130,8 +130,8 @@ eb349b65-60cf-4ba6-8cb4-f49946037ae5,Mercaso,Mercaso (2177 S Atlantic Blvd),ID P
 9ece86a3-518b-4f82-a7ea-35a7831c4d26,Mercaso,Mercaso (259 West Imperial Hwy),ID Present,Missing,,Pending Launch,In progress
 16a0cf53-11cc-4adc-a6fc-ca561728f3f1,Mercaso,Mercaso (2700 W Pico Blvd),ID Present,Missing,,Pending Launch,In progress
 30eccefd-545f-424b-a7f5-ee41af011c27,Mercaso,Mercaso (3130 w 8th St),ID Present,Missing,,Pending Launch,In progress
-ab8c6eb7-27f8-4b47-9aa6-fca151e1487f,Mercaso,Mercaso (515 East Manchester Boulevard),ID Present,Missing,,Pending Launch,In progress
-09282e02-df5f-4f07-8006-fa1d5035cc0d,Mercaso,Mercaso (7522 W Cerritos Ave),ID Present,ID Present,,Pending Launch,In progress
+ab8c6eb7-27f8-4b47-9aa6-fca151e1487f,Mercaso,Mercaso (515 East Manchester Boulevard),ID Present,Missing,ID Present,Pending Launch,In progress
+09282e02-df5f-4f07-8006-fa1d5035cc0d,Mercaso,Mercaso (7522 W Cerritos Ave),ID Present,ID Present,ID Present,Pending Launch,In progress
 c5d81208-55d2-4c8f-afbd-2258db772d9a,Minuteman Food Mart,Minuteman Food Mart - 204,ID Present,ID Present,ID Present,Pending Launch,In progress
 f9ae0673-2b20-4f8f-ab78-1c26aeedb53e,Minuteman Food Mart,Minuteman Food Mart - 3116,ID Present,ID Present,ID Present,Pending Launch,In progress
 581049d5-b08d-40ca-aff1-cdc19c586c22,Minuteman Food Mart,Minuteman Food Mart - 3118,ID Present,ID Present,ID Present,Pending Launch,In progress
